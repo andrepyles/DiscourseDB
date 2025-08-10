@@ -28,12 +28,6 @@ It is intended for academic and research purposes, especially in political scien
 
 ---
 
-## Repository Structure
-
-Each country folder contain text files for each political discourse.
-
----
-
 ## Full Dataset (.parquet)
 
 A consolidated `.parquet` file containing all **44,719 speeches** is available in the GitHub Release:
