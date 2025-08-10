@@ -1,0 +1,107 @@
+Imprimir
+La Dirección General de Impositiva 
+                     presentó un informe donde se estima la evasión en el 
+                     Impuesto al Valor Agregado, mediante el Método del Consumo, 
+                     detectada en el período 2000-2008.
+El Director General de Rentas, Nelson 
+                     Hernández, explicó que se trata de un tema muy discutido a 
+                     nivel de las Administraciones Tributarias, en cuanto a la 
+                     conveniencia de analizarlo y difundirlo. Al respecto, dijo 
+                     que esta Administración en su afán de alcanzar la mayor 
+                     transparencia posible en su gestión, asumió el riesgo que 
+                     pueda conllevar esta evaluación.
+A continuación, el encargado de la 
+                     Asesoría Económica de la DGI, Gustavo González, explicó los 
+                     detalles del informe. En primer lugar dijo que hace 
+                     aproximadamente dos años que se estudian estos datos 
+                     mediante el Método del Consumo que utiliza la información 
+                     de cuentas nacionales, de la composición del consumo de los 
+                     hogares y también del consumo del gobierno. Sobre esa base 
+                     es estima la recaudación potencial, por contraposición a 
+                     otros tipos de métodos que surgen directamente de muestras 
+                     de contribuyentes, en las actuaciones inspectivas. Este año 
+                     se incorporó una actualización de la información 
+                     macroeconómica que captura parte de la economía informal y 
+                     permite mejorar el resultado obtenido en cuanto a evasión, 
+                     incorporando datos sobre la evasión informal.
+En cuanto a los datos obtenidos en este 
+                     trabajo, expresó en primer lugar, que la evasión en el IVA 
+                     en el año 2000 era del 41.7% y en 2008 descendió al 20.6%, 
+                     observándose una caída ininterrumpida del valor, en los 
+                     últimos tres años (10%).
+En base a estos datos se calculó también 
+                     un estimativo de la ganancia obtenida por la disminución de 
+                     la tasa de evasión que significó $3.084 millones de pesos 
+                     corrientes en 2008, y $899 millones en el 2000.
+González explicó que existen muchas 
+                     teorías sobre por qué se produce la evasión fiscal pero en 
+                     este informe se hace referencia solamente a la evolución de 
+                     la actividad económica y al PBI. Generalmente existe un 
+                     comportamiento contracíclico de la evasión, el 
+                     contribuyente la utiliza como estrategia, mayormente cuando 
+                     el contexto económico es menor favorable. En esa línea, se 
+                     observa que a mayor PBI menor evasión. La recaudación 
+                     efectiva del IVA creció desde el 2002 en adelante a tasas 
+                     superiores al crecimiento del PBI; en los últimos años en 
+                     particular creció a pesar de los sacrificios fiscales 
+                     realizados por esta Administración, como la disminución de 
+                     las alícuotas del IVA y la eliminación del COFIS.
+Mas allá de las razones anteriormente 
+                     mencionadas, existe otra razón atribuíble para esta caída 
+                     de la evasión, que es la eficiencia recaudatoria de la DGI.
+Asimismo los cambios normativos juegan 
+                     un factor predominante también porque se observa que si se 
+                     disminuye el valor del impuesto –como ocurrió en Uruguay 
+                     cuando la Reforma Tributaria reduce un punto el valor del 
+                     IVA- para el contribuyente es menos atractivo evadir. Estos 
+                     datos pueden observarse si se compara la recaudación 
+                     efectiva del año 2007 y 2008 que arroja un aumento de la 
+                     misma en el 2008, a pesar de los sacrificios fiscales 
+                     realizados.
+Por su parte, el Ministro de Economía y 
+                     Finanzas, Álvaro García reflexionó sobre los datos 
+                     mencionados y coincidió plenamente con ellos. Destacó, como 
+                     mensaje fundamental de este trabajo la incidencia de la 
+                     Reforma Tributaria y sus efectos positivos en los evasores 
+                     tributarios. Cuantos más personas paguen –y si pagan todos 
+                     mejor- se pueden realizar mejoras en las tasas de impuestos 
+                     para los contribuyentes. Resaltó la gestión que lleva 
+                     adelante de la DGI porque busca permanentemente la 
+                     eficiencia en su función.
+Posteriormente los jerarcas fueron 
+                     consultados sobre algunos temas relacionados con la 
+                     presentación. Se les preguntó en qué posición estaría 
+                     Uruguay a nivel internacional con respecto a la evasión 
+                     fiscal, a lo cual respondieron que la mayoría de los países 
+                     no hacen públicos estos datos, pero a nivel general en 
+                     América Latina, Uruguay estaría próximo a Chile que cuenta 
+                     con 20% de evasión tributaria.
+En otro orden y considerando que el 
+                     contribuyente actúa contracíclicamente, se consultó si la 
+                     crisis internacional que afecta a todos los países, incluso 
+                     a Uruguay, podría traer algún incremento en la evasión y si 
+                     así fuera, cuáles serían las medidas a tomar al respecto, 
+                     por parte del gobierno.
+El Ministro García se encargó de 
+                     despejar esas dudas y dijo que para este año se espera que 
+                     el crecimiento en el país continúe, aunque con niveles más 
+                     bajos que los que se observaron hasta el momento, por lo 
+                     cual no es de esperar retracciones en ese sentido. De igual 
+                     manera, agregó que dentro del esfuerzo que realiza el 
+                     gobierno, el Ministerio y la DGI, para fomentar la 
+                     formalidad están preparando un paquete de medidas pymes, 
+                     que apuntan a fomentar la función de las micro y pequeñas 
+                     empresas en distintos aspectos, con créditos, información, 
+                     calidad, entre otras cosas. Agregó que la primera quincena 
+                     de junio se darán a conocer estas medidas, que se espera 
+                     continúen combatiendo la informalidad.
+Finalmente, Nelson Hernández añadió que 
+                     entre los aspectos que impactan en el nivel de evasión, la 
+                     DGI puede actuar solamente de manera efectiva, sobre el 
+                     nivel de eficiencia de la Administración, lo cual se basa 
+                     en dos estrategias. La primera es brindarle facilidades de 
+                     cumplimiento al contribuyente con la mayor información y 
+                     asistencia posible y la segunda se basa en que una vez 
+                     detectado el invasor, se lo sanciona levemente para 
+                     facilitarle la inserción al sistema formal.
+document.include('/_web/pages/derecho.htm');

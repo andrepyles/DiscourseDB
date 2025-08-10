@@ -1,0 +1,109 @@
+Imprimir
+Con la 
+                     presencia del Presidente de la República, Tabaré Vázquez, 
+                     de la Ministra de Desarrollo Social, Marina Arismendi, de 
+                     la Directora del Instituto del Niño y el Adolescente del 
+                     Uruguay (INAU), Nora Castro, y del Director Jorge Ferrando, 
+                     se inauguró la 4ta Semana de los Derechos de Niños, Niñas y 
+                     Adolescentes.
+La 
+                     mencionada celebración promueve una cultura de 
+                     responsabilidad social a favor del cumplimiento de la 
+                     Convención sobre los Derechos del Niño, ratificada por 
+                     Uruguay por la Ley Nº 16.137.
+También procura un cambio cultural, según explica un 
+                     documento difundido en la ocasión,  auspiciando que “el 
+                     mundo adulto modifique la mirada sobre la infancia y 
+                     adolescencia, adoptando una perspectiva que promueva la 
+                     condición de personas de niños, niñas y adolescentes, en 
+                     tanto son Sujetos de Derechos”
+La 
+                     Directora Nora Castro precisó que “nuestro Código de Niñez 
+                     y Adolescencia se basa en esa Convención” y guía el 
+                     accionar del INAU.
+En otro orden, informó que en el período 
+                     2004-2009, la cobertura del INAU pasó de 47.057 niños a 
+                     68.347, lo cual representa un crecimiento de un 45% 
+                     aproximadamente, llegando a 21.290 niños más.  Destacó que 
+                     se priorizó la atención de las niñas y niños de 0 a 2 años. 
+                     “Ello no es casual, porque todos sabemos la importancia que 
+                     tiene esta edad en la fundación de elementos de la 
+                     personalidad”, reflexionó.
+La 
+                     Jerarca señaló que los niños, niñas y adolescentes también 
+                     “tienen voz y derecho a ser escuchados”. Al respecto, 
+                     precisó que el INAU tiene el Programa de Participación 
+                     Infantil y Adolescente (PROPIA), que procura que en cada 
+                     rincón del país se creen estructuras participativas, donde 
+                     niñas, niños y adolescentes sean escuchados, reconociendo 
+                     la validez de su opinión.
+Castro 
+                     también resaltó la creación de los Consejos Participativos, 
+                     incluidos en la Ley de Educación, que involucran y 
+                     comprometen a los jóvenes con los centros de estudio. 
+                     Comentó que ello implica una formación en democracia, 
+                     ejercicio de derechos y construcción de ciudadanía.
+Asimismo, destacó que en el período 2004 – 2009 el 
+                     presupuesto creció un 55%, generándose un incremento 
+                     superior al 700% en inversiones y equipamiento. A modo de 
+                     ejemplo, señaló que recientemente se adquirieron 41 
+                     vehículos cero kilómetro. “No se compró ni un solo vehículo 
+                     para los adultos, porque los recursos se destinaron al 
+                     beneficio de los niñas, niños y adolescentes”, enfatizó.
+En 
+                     relación a la dotación de recursos humanos, indicó que se 
+                     crearon nuevos cargos, pasando de 3.000 a 4.700 
+                     funcionarios. Todos los ingresos fueron por concurso, con 
+                     transparencia y significaron una baja de la edad promedio.
+En 
+                     referencia a la situación de los menores infractores, la 
+                     Directora del INAU subrayó que se ha priorizado, tal como 
+                     lo indica el Código de la Niñez y Adolescencia, las penas 
+                     sustitutivas. Añadió que se avanzó en la creación de nuevos 
+                     hogares y en la incorporación de nuevo personal 
+                     calificado.
+Por su 
+                     parte, el Presidente de la República, Tabaré Vázquez, en 
+                     respuesta a interrogantes de la prensa, sostuvo que “el 
+                     INAU es una maravillosa herramienta para atender la 
+                     problemática de nuestros niños, niñas y adolescentes”. Dijo 
+                     que si bien es una herramienta a mejorar, si se compara la 
+                     situación actual con la que vivía el INAU al inicio de la 
+                     actual Gobierno, “falta bastante menos”.
+El 
+                     Mandatario resaltó la “excelente calidad de la gestión” que 
+                     ha llevado la Directora Nora Castro. Afirmó que el INAU ya 
+                     no ocupa tantos espacios en los medios de comunicación, 
+                     situación que es reflejo de una mejora en la gestión.
+“Si 
+                     bien se precisa suerte, a la suerte hay que ayudarla con 
+                     trabajo, con dedicación, con conocimiento, con entrega, con 
+                     lealtad institucional”, comentó. Aseguró que todos estos 
+                     elementos fueron cumplidos por las autoridades del INAU.
+El 
+                     Presidente dijo que los menores infractores son alrededor 
+                     de 200 muchachos y muchachas. “Ojalá hubiera muchos menos”, 
+                     señaló. Ellos requieren una atención adecuada, que no se 
+                     arregla sólo con recursos económicos, sino que se va 
+                     mejorando con la racionalidad de los procedimientos y con 
+                     proporcionarle una casa que no sea tan sólo un lugar de 
+                     detención.
+En 
+                     relación a la calidad de la atención, subrayó que se están 
+                     mejorando los recursos técnicos. A modo de ejemplo, señaló 
+                     que se están incorporando en el INAU médicos psiquiatras de 
+                     ASSE.
+En 
+                     otro orden, dijo que hay decenas de miles de niños y niñas 
+                     atendidos por la institución que no son noticia debido a 
+                     que no son menores infractores. “Son niños que por esas 
+                     cosas de la vida les ha tocado vivir un trago amargo a una 
+                     edad muy tierna y merecen, sin duda, una atención profunda 
+                     y especializada”.
+Finalmente, Vázquez anunció el lanzamiento en los próximos 
+                     días del Plan Ceibal para enseñanza media. Ya están los 
+                     recursos asignados y se entregarán computadoras con mayor 
+                     poder a los estudiantes de Secundaria y UTU a partir de 
+                     este año. Los niños y niñas del INAU serán también 
+                     incluidos en este Plan, concluyó.
+document.include('/_web/pages/derecho.htm');

@@ -1,0 +1,84 @@
+Imprimir
+El lanzamiento de esta página web, 
+                         se enmarca dentro de los objetivos planteados por esta 
+                         Unidad al inicio de su gestión en relación a la 
+                         política de comunicación a desarrollar. En tal sentido, 
+                         surge la necesidad de contar con un sitio web como 
+                         medio de comunicación.
+El Director de la UNASEV, Omar 
+                         Rodríguez, quien participó de la actividad junto a su 
+                         par, Alejandro Draper, explicó que el sitio es la 
+                         continuación de una campaña que se pretende sea de ida 
+                         y vuelta y de inclusión de la ciudadanía en su 
+                         conjunto.
+El slogan "En el tránsito... vos sos 
+                         parte de la solución", ratifica el convencimiento de 
+                         que la comunidad tiene que ser parte de la solución y 
+                         no del problema, porque el problema ya está instalado, 
+                         agregó.
+El jerarca resaltó la labor del 
+                         equipo de web, fotografía y contenidos de SEPREDI, que 
+                         en conjunto con los Asesores de las Cámaras y el 
+                         Secretario de la Unidad, trabajaron en la elaboración 
+                         de la nueva página.
+Esta herramienta es útil no sólo 
+                         para la ciudadanía que consultará en forma permanente, 
+                         sino también para la prensa, teniendo en cuenta que se 
+                         trata de "la voz oficial".
+Lauro Paulette, Coordinador General 
+                         de la Cámara Asesora de Educación Vial, Comunicación 
+                         Social e Investigación, señaló que en este sitio la 
+                         población encontrará los objetivos de la UNASEV como 
+                         entidad reguladora del tránsito en todo el territorio 
+                         nacional; la posibilidad de descargar en formato pdf 
+                         las leyes 18.113 y 18.191; la estructura de 
+                         funcionamiento directriz de la Unidad y sus 
+                         autoridades, así como la estructura técnica que asesora 
+                         a la Comisión Directiva, traducida en las cuatro 
+                         Cámaras Técnicas Asesoras; los cuatro ejes principales 
+                         de gestión, definidos en el marco de la Política 
+                         Nacional de Tránsito; la fundamentación de las Unidades 
+                         Departamentales de Seguridad Vial; documentación 
+                         técnica importante a ser considerada y difundida; así 
+                         como la agenda de las actividades proyectadas por la 
+                         Unidad. Finalmente, Paulette destacó la existencia de 
+                         un glosario con conceptos y definiciones, el cual 
+                         pretende comenzar el camino de unificación en materia 
+                         de elementos vinculados al tránsito.
+La línea de comunicación que se 
+                         pretende impulsar por la UNASEV desde esta página, es 
+                         la utilización de imágenes y discursos desde una visión 
+                         positiva de la seguridad vial, sin apelar a la 
+                         morbosidad o el daño, como medio para transmitir 
+                         conceptos o recomendaciones.
+Por su parte, el Secretario General 
+                         de la UNASEV, Fernando Justo, realizó una breve 
+                         descripción del sitio, destacando los contenidos 
+                         relativos a las cuatro Cámaras Asesoras que trabajan 
+                         para la Unidad y las notas periodísticas que incluyen 
+                         tanto la cobertura de eventos que se desarrollen según 
+                         la agenda, como los generados especialmente para dar a 
+                         conocer un tema.
+Justo dedicó un capítulo aparte para 
+                         la producción fotográfica, que también acompaña al 
+                         resto del mensaje de la página en tono positivo. "Allí 
+                         no se verán siniestros de tránsito, sino gente 
+                         trabajando por la positiva", aseguró. Las fotografías 
+                         podrán utilizarse libremente, dada la buena resolución 
+                         que tienen.
+El sitio ronda los cuatro ejes de 
+                         gestión: casco, cinturón de seguridad, luces cortas y 
+                         espirometría. Sobre ellos, se trabaja con una política 
+                         a largo plazo que abarca el período 2008-2012
+El Secretario General de la Unidad, 
+                         aclaró que no se manejan actualmente cifras 
+                         estadísticas sobre el tema, pero anunció que 
+                         próximamente se publicará en la página la información 
+                         extraída por intermedio del Observatorio de Seguridad 
+                         Vial del Uruguay. Esto implica un trabajo mancomunado 
+                         con los distintos actores del Ministerio del Interior y 
+                         de Salud Pública para recabar los datos. Lo que se 
+                         procura es ser muy específicos, dado que "se están 
+                         dando muchas cifras dispares y no queremos trabajar 
+                         así, sino en forma conjunta", sostuvo.
+document.include('/_web/pages/derecho.htm');

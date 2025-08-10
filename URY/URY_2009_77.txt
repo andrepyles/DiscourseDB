@@ -1,0 +1,98 @@
+Imprimir
+Junto al Presidente Vázquez , estuvieron 
+                     presentes: el ministro de Industria, Energía y Minería, 
+                     Daniel Martínez; el presidente de UTE, Beno Ruchansky, y el 
+                     Gerente deCentrales Térmicas de UTE,  Tacuabé Cabrera, entre otras 
+                     autoridades.
+En su recorrida, el Presidente saludó en 
+                     forma  individual  y dialogó con los trabajadores, en el 
+                     marco de un clima  distendido, oportunidad en que se  
+                     realizaron varias tomas fotográficas.
+Antes de su partida rumbo a Maldonado 
+                     -hacia la zona donde se  encuentra el Parque Eólico de 
+                     Sierra de los Caracoles-  Vázquez descubrió una placa en la 
+                     que quedó registrado el testimonio de su visita a la 
+                     Central de Generación Térmica de Punta del Tigre. .
+El jefe de planta, Tacuabé Cabrera, aseguró 
+                     que el Presidente de la República  mostró su  satisfacción 
+                     ante las concreciones logradas con la obra y las 
+                     importantes tareas que allí se realizan.  Cabrera recordó 
+                     que la misma se logró construir en esta administración, 
+                     luego de catorce años de falta de inversión  en generación 
+                     de energía.
+Esta nueva Central "Punta del Tigre" está 
+                     ubicada en la localidad de Colonia Wilson (km 39.5 de la 
+                     Ruta Nacional N° 1), en el departamento de San José, y 
+                     comenzó su proceso de construcción a principios de 2006, 
+                     apostando a los primeros 200 MW.
+El proyecto surgió en función del déficit 
+                     de respaldo existente, por lo que se procuró que su puesta 
+                     en funcionamiento  operativo se concretase en el menor 
+                     tiempo posible.
+A comienzos del año 2007, se inició la 
+                     construcción de su ampliación en 100 MW.
+La Central tiene una potencia nominal de 
+                     generación de 300 MW (ISO) que se integran a partir de seis 
+                     unidades General Electric. Se trata de turbinas de gas 
+                     aeroderivadas, que pueden funcionar tanto con gas oil como 
+                     con gas natural.
+Cada unidad generadora está compuesta por 
+                     una turbina de gas de ciclo simple. Estas turbinas cuentan 
+                     con un exclusivo sistema de enfriamiento que admite un 
+                     aumento de hasta un 9% en la potencia generada, esto 
+                     permite erogar una potencia de 50 MW (ISO), con un 
+                     rendimiento cercano al 40%.
+El agua necesaria para el funcionamiento de 
+                     toda la Central -calculada en unos 100 m3/h a plena 
+                     potencia- se suministra en principio de pozos, mientras se 
+                     encuentran en proceso licitatorio las obras para la 
+                     construcción de una Toma de Agua desde el Río de la Plata.
+La planta cuenta con diversos sistemas 
+                     auxiliares, entre ellos, compresores de gas sistemas anti-incendio 
+                     y de tratamiento de agua y de efluentes. La operación de 
+                     toda la Central se realiza desde una sala de control y 
+                     comando única.
+El gas natural se abastece mediante un 
+                     gasoducto de 18" de diámetro. El mismo tiene una longitud 
+                     aproximada de ocho kilómetros, desde el gasoducto "Cruz del 
+                     Sur" (Km 42 de la Ruta N° 1) y la Central. El consumo de 
+                     toda la planta es de 1.700.000 m3/día.
+Por otra parte, el abastecimiento de 
+                     combustible líquido se efectúa a través de un oleoducto de 
+                     12" de diámetro, con una longitud aproximada de 39 
+                     kilómetros, en su recorrido entre el despacho de ANCAP en 
+                     "La Tablada" y la Central. Puede bombearse inicialmente un 
+                     caudal de 200 m3/h.
+Se cuenta con dos tanques para el 
+                     almacenamiento de combustible con una capacidad de 4000 m3 
+                     cada uno, constituyendo una reserva que, en términos 
+                     operativos, alcanza para cuatro días de funcionamiento con 
+                     la Central a plena potencia.
+La interconexión eléctrica de la Central se 
+                     realiza mediante una línea de transmisión operada en 150 kV, 
+                     pero diseñada y construida para operar en 500 kV. Su 
+                     longitud es de unos 22 kilómetros, hasta la intersección 
+                     con la línea "Palmar - Montevideo B", en la localidad de 
+                     Las Brujas. La misma se soporta en 45 torres reticuladas. 
+                     Simultáneamente, se dispone de una línea de respaldo en 
+                     30kV.
+Esta Central Térmica significó un respaldo 
+                     importante para las emergencias que se originaron en los 
+                     años recientes, debido a las intensas sequías que afectaron 
+                     al país.
+Esta planta fue la Central Térmica que más 
+                     energía entregó al sistema nacional durante el año 2008, 
+                     período en el cual estuvo despachada 5612 horas, lo que 
+                     equivale a 233 días.
+Por otra parte, toda la tecnología 
+                     seleccionada cumple con las más estrictas normas 
+                     ambientales internacionales, y son de uso generalizado y 
+                     probado en países desarrollados.
+Las turbinas de gas son de última 
+                     generación y fabricadas por una empresa de primera línea a 
+                     nivel mundial.
+Las unidades están provistas, a los efectos 
+                     del control de las emisiones, de un sistema de inyección de 
+                     agua desmineralizada que garantiza la reducción en la 
+                     generación de emisiones de óxido de nitrógeno (Nox).
+document.include('/_web/pages/derecho.htm');

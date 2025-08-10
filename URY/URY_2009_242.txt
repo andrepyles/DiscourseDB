@@ -1,0 +1,88 @@
+Imprimir
+El 28 de abril se lanzó una iniciativa 
+                     en la órbita de la Presidencia de la República, el programa 
+                     "Gol al Futuro", un proyecto dedicado al fortalecimiento 
+                     deportivo y educativo de los jóvenes y adolescentes 
+                     dedicados a la práctica del fútbol en las instituciones 
+                     competitivas de todo el país. En palabras del presidente de 
+                     la comisión que asesora al Presidente Vázquez, Eduardo 
+                     Arzuaga, con esta decisión se concretó un reclamo 
+                     histórico, el apoyo decidido del Estado en la formación de 
+                     jugadores juveniles.
+Eduardo Arzuaga no dudó en señalar que 
+                     en el ámbito del programa existe una diversidad de 
+                     opiniones políticas. Sin embargo, está presente el criterio 
+                     unánime sobre las bondades del proyecto y sus objetivos. En 
+                     función de esto, subrayó que cada decisión tomada en los 
+                     siete meses de vida de Gol al Futuro, todas las decisiones 
+                     se tomaron bajo el acuerdo de todos los participantes, sin 
+                     votos en contra.
+En este período, se concertaron tres 
+                     áreas de trabajo específicas: deporte, salud y educación. 
+                     En el ámbito deportivo, destacó la pronta entrega de vales 
+                     de combustible para todas las instituciones, para que cada 
+                     plantel juvenil concurra a todas sus competencias 
+                     deportivas. La entrega de los vales comenzó el viernes 20 
+                     de noviembre para todos los clubes del interior. En la 
+                     capital comenzará el martes 24 de noviembre.
+En materia sanitaria, Arzuaga recordó 
+                     los exámenes físicos que se realizaron a todos los 
+                     planteles juveniles e informó algunos datos obtenidos. En 
+                     primer lugar, alertó sobre la sorpresa de los 
+                     profesionales: los bajos índices de peso y talla eran 
+                     mayores que los esperados. Pero también destacó la notoria 
+                     mejoría en la salud bucal de los juveniles, fruto del 
+                     trabajo de la Comisión Nacional de Salud Bucal y otros 
+                     programas estatales.
+Sus palabras finales sirvieron para 
+                     agradecer al Presidente de la República: "agradezco que a 
+                     mi edad me permitan luchar por un ideal que va a favorecer 
+                     a toda la patria".
+Alfredo Etchandy realizó un racconto de 
+                     las actuaciones del programa. En primer lugar, se refirió a 
+                     la adhesión manifiesta de todos los clubes deportivos del 
+                     país, quienes delegaron en una persona la coordinación de 
+                     las labores entre cada institución y el programa. También 
+                     reseñó el envío de meriendas, distribuidas en forma diaria, 
+                     para todos los juveniles. Ya se distribuyeron escritorios y 
+                     como próximos objetivos, se entregarán computadoras para 
+                     las instituciones, destinadas al uso de los deportistas.
+El grupo de trabajo en materia 
+                     educativa, liderado por el Consejero Wilson Neto, 
+                     Presidente del Consejo de Educación Técnico Profesional, 
+                     realizó cursos de capacitación y orientación laboral, 
+                     clases de inglés e informática y un análisis del entorno 
+                     sicofamiliar de los futbolistas. Luego de detectar 
+                     dificultades de los estudiantes, se planteó la contratación 
+                     de profesores de apoyo, que será el próximo objetivo a 
+                     concretar.
+Mientras, el grupo especializado en 
+                     salud que dirige Pedro Larroque, presentó un relevamiento 
+                     de los espacios de salud y de los profesionales que 
+                     trabajan en las instituciones deportivas. Se detectaron 
+                     nueve clubes que no cuentan con médicos deportólogos y para 
+                     atender esta carencia, Gol al Futuro firmó un convenio con 
+                     la Universidad de la República. Gracias al acuerdo, los 
+                     estudiantes avanzados de medicina deportiva realizarán 
+                     pasantías en éstas instituciones y se espera que el acuerdo 
+                     también alcance a otros clubes, tanto de la capital como 
+                     del interior del país.
+También se acordó con mutualistas 
+                     privadas la cobertura de los planteles en el segundo y 
+                     tercer nivel de asistencia en salud. Es decir, todos los 
+                     jugadores juveniles poseen mutualista y, en caso necesario, 
+                     utilizar esas instalaciones sanitarias para el tratamiento 
+                     especializado de problemas derivados de su práctica 
+                     deportiva. También se entregarán, próximamente, botiquines 
+                     fijos y móviles a todas las instituciones.
+Como despedida y en la búsqueda de la 
+                     sustentabilidad económica del programa, el Ministro Lescano 
+                     adelantó que la Ley de Transferencias Deportivas, que está 
+                     en el Parlamento, será modificada para que un porcentaje en 
+                     el precio de los pases de jugadores al exterior sea 
+                     destinado al programa. Hasta el momento, Gol al Futuro se 
+                     mantiene con el aporte de privados, pero con ésta medida, 
+                     se busca la formalización del proyecto, para que sus 
+                     objetivos permanentes cuenten con los recursos necesarios 
+                     para su concreción.
+document.include('/_web/pages/derecho.htm');

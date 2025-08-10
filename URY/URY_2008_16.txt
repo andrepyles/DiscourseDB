@@ -1,0 +1,72 @@
+Imprimir
+Elvire Jurgensen, dijo que el rol de 
+                         esta ONG es apoyar a las instituciones estatales y 
+                         brindar una visión del problema del tránsito desde 
+                         fuera, en especial desde la óptica de los jóvenes.
+Señaló que la creación de una Ley 
+                         que regule el tránsito, es un primer paso, ya que 
+                         resulta imprescindible incorporar mecanismos para su 
+                         aplicación y en especial, alcanzar el acatamiento por 
+                         parte de la población.
+Elvire Jurgensen, subrayó la 
+                         importancia de involucrar a la sociedad y apoyarse en 
+                         el trabajo de las ONG . Se refirió a la necesidad de 
+                         que sea el Estado quien determine y controle el 
+                         cumplimiento de las leyes.
+Rutas de Jóvenes de Francia, es una 
+                         ONG que surgió en el año 1996, a partir de la alta 
+                         mortalidad, especialmente de jóvenes, provocada por 
+                         accidentes de tránsito. La dinámica utilizada, recibió 
+                         el nombre de "Una noche por la vida" y consistió en 
+                         visitas a discotecas y bares para hablar directamente 
+                         con los jóvenes para disuadirlos del consumo de alcohol 
+                         en caso de conducir automóviles. . La propuesta incluía 
+                         el ofrecimiento de entradas gratuitas y dos 
+                         consumiciones de refrescos , con el compromiso de 
+                         entregar las llaves del auto a los voluntarios . 
+                         Asimismo, con el compromiso de realizar la prueba de 
+                         alcoholemia a su salida del boliche. En caso de que el 
+                         grado de alcohol en sangre fuese el permitido, se les 
+                         devolvía las llaves del vehículo. Esta campaña obtuvo 
+                         un gran éxito, al conseguir que casi el 90% de los 
+                         jóvenes participaran de la propuesta.
+El programa francés " La Ruta de los 
+                         Jóvenes", observaba permanentemente las acciones del 
+                         Gobierno y proponía mecanismos para mejorar la 
+                         situación vial. Actualmente, esta ONG ya no trabaja a 
+                         nivel nacional, ya que Francia logró alcanzar una 
+                         importante reducción en el número de accidentes de 
+                         tránsito. El trabajo, en la actualidad, se desarrolla 
+                         con grupos locales l que tratan la problemática de cada 
+                         región y cuentan con el apoyo de sus gobiernos locales.
+Respecto a la situación de Uruguay, 
+                         Elvire Jurgensen observó que a pesar que nuestro país 
+                         está mucho más lejos en la evolución del control de los 
+                         accidentes de tránsito, la creación de la UNASEV y la 
+                         actual Ley de Tránsito, demuestran que se trabaja en 
+                         una buena dirección.
+La experta sostuvo que Uruguay podrá 
+                         convertirse en uno de los primeros países de América 
+                         Latina, en tener una política global en el control de 
+                         los accidentes de tránsito.
+Por su parte, Omar Rodríguez, 
+                         Director de la Unidad Nacional de Seguridad Vial, dijo 
+                         que dentro del plan de trabajo de la UNASEV se 
+                         encuentra el generar espacios de participación y crear 
+                         agentes comunitarios de seguridad vial. Recalcó la 
+                         voluntad de cambiar la cultura existente en nuestro 
+                         país, tomando acciones antes de que sucedan las 
+                         fatalidades. . Asimismo, señaló la importancia de 
+                         involucrar a los jóvenes, para que las nuevas 
+                         generaciones de conductores sean más responsables y 
+                         respetuosas de las normas.
+A eso apunta la próxima campaña 
+                         publicitaria, la que tiene como objetivo enviar 
+                         mensajes positivos a los distintos actores que se 
+                         vinculan con el problema del tránsito. Rodríguez, 
+                         explicó que para la realización de la propuesta 
+                         publicitaria se convocará a todos los Entes Públicos, 
+                         para que cada uno desde su lugar, acompañe en la 
+                         divulgación, la que se realizará a través del slogan 
+                         "En el tránsito vos sos parte de las solución".
+document.include('/_web/pages/derecho.htm');

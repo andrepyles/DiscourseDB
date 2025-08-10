@@ -1,0 +1,153 @@
+12/12/06
+Imprimir
+En el evento hicieron uso de la palabra el Directivo 
+        Ejecutivo de LACNIC Uruguay, Raúl Echeverría, el Presidente de LACNIC 
+        Argentina, Oscar Messano, el Presidente de ICANN, Paul Twomey y Nin 
+        Novoa en representación del Presidente de la República, Tabaré Vázquez.  
+        La nueva sede de LACNIC, presentado como “el mayor registro de 
+        direcciones de Internet para América Latina y el Caribe”, se inauguró 
+        este lunes en Rambla República de México y 6 de Abril.
+Nin Novoa procedió al corte de cinta y posteriormente 
+        recorrió las instalaciones de la flamante sede. El Vicepresidente, que 
+        expresó estar representando al Presidente Vázquez en el evento, dio 
+        lectura a un discurso del Mandatario que -entre otras expresiones- 
+        agradecía la invitación y a LACNIC por ofrecer un acceso equitativo a 
+        los operadores de Internet de toda la región.
+Precisó que el 38.6% de la población de nuestro país 
+        utiliza Internet, según cifras del Instituto Nacional de Estadística. 
+        Caracterizó al Presidente Vázquez como “un usuario de Internet –tal vez 
+        un poco tardío- pero no por ello carente de entusiasmo ni reacio a 
+        explorar las posibilidades que este recurso ofrece”.
+Comunicación, acceso a la información, esparcimiento, 
+        educación, realización de trámites, son los principales objetivos de la 
+        población uruguaya al usar la red de redes.
+La labor de LACNIC es poco visible, porque administra 
+        los recursos de numeración de Internet asignados a América Latina. “Es 
+        un trabajo no muy espectacular pero fundamental”, expresó el 
+        Vicepresidente.
+También manifestó que el futuro es “un presente que 
+        se construye y avanza”, y más aún en estos tiempos de la sociedad de la 
+        información. En este marco –dijo- los desafíos son conectividad, acceso 
+        a una computadora individual en centros colectivos públicos y privados y 
+        educación formal o informal.
+El Directivo Ejecutivo de LACNIC Uruguay, Raúl 
+        Echeverría, señaló que hoy se mudaron a la nueva sede y que mañana 
+        comienzan a trabajar en las nuevas oficinas. Precisó que hace seis meses 
+        comenzó la construcción del nuevo edificio y es debido al esfuerzo de 
+        arquitectos y constructores que se efectúa hoy la inauguración.
+“Es la historia de LACNIC: trabajar con los altos 
+        objetivos que nos han ayudado a crecer y contar actualmente con un 
+        presupuesto anual de un millón y medio de dólares”, dijo Echeverría.
+Agregó que este es el comienzo de una nueva etapa en 
+        beneficio del desarrollo y el relacionamiento de la comunidad de 
+        Internet en toda la región.
+Por su parte el Presidente de LACNIC Argentina, Oscar 
+        Messano, subrayó que la casa que se inaugura es símbolo de los logros 
+        obtenidos en el correr de cuatro años.
+LACNIC es una organización internacional con 
+        influencia en toda la región, que cumple un rol integrador “y 
+        agradecemos la hospitalidad de Uruguay”, dijo. Apuntó que esta apertura 
+        “permite elaborar proyectos que se constituyan en eslabones de la cadena 
+        de desarrollo de la región”.
+También Paul Twomey destacó y agradeció la 
+        colaboración de las autoridades del gobierno nacional que “tuvieron la 
+        visión de alojar a la fuerte comunidad LACNIC en Uruguay”.
+La organización es responsable de la asignación y 
+        administración de las direcciones IP y recursos relacionados -números 
+        autónomos y resolución inversa- para la región de América Latina y el 
+        Caribe, siendo uno de los cinco registros regionales de Internet en el 
+        mundo.
+Su misión es administrar los recursos de numeración 
+        en Internet contribuyendo a la creación de oportunidades de colaboración 
+        y cooperación de la comunidad regional. En ese sentido está comprometida 
+        con la excelencia y la calidad de servicios a clientes; promueve los 
+        avances tecnológicos y estándares de industrias, así como el 
+        fortalecimiento de las relaciones con los principales actores de 
+        Internet.
+El área de acción de LACNIC comprende, entre otros, a 
+        Antillas Holandesas, Argentina, Araba, Belice, Bolivia, Brasil, 
+        Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guayana Francesa, 
+        Guatemala, Honduras, Perú, México, Panamá, República Dominicana, 
+        Suriname, Trinidad y Tobago y Venezuela.
+LACNIC también promueve el Programa Fondo Regional 
+        para la Innovación Digital en América Latina y el Caribe (FRIDA         
+        ).
+PALABRAS DEL PRESIDENTE DE LA REPUBLICA, TABARE 
+        VAZQUEZ,  LEIDAS POR EL VICEPRESIDENTE NIN NOVOA
+VICEPRESIDENTE NIN NOVOA: Muy buenas tardes para 
+        todos. La verdad es que cuando mi amigo Alfredo Etchegaray, hace más de 
+        un mes, me dijo “tenés que agendar el 11 de diciembre en tu agenda 
+        porque vamos a tener un acto importante”, ocurrieron dos cosas. La 
+        primera es que no me imaginaba -porque en aquel momento la agenda estaba 
+        muy libre y hoy está muy llena- que fuera a tener que desechar tantas 
+        otras cosas para estar acá, cosa que me alegra mucho, por cierto, con lo 
+        cual me viene a la memoria la necesidad de ser previsor en estos tiempos 
+        de fin de año.
+Lo segundo que sucedió es que cuando hoy el 
+        Presidente de la República me pidió que lo sustituyera en este acto le 
+        dije que no tenía ningún problema en hacerlo porque ya tenía esta 
+        actividad agendada. Pero, como el Presidente también es muy previsor, me 
+        dijo que no tenía ningún inconveniente en lo que iba a decir porque él 
+        me daba su discurso. Aquí está el discurso del Presidente. Por lo tanto, 
+        el Presidente va a estar con ustedes porque yo, por primera vez en mi 
+        vida, voy a leer un discurso que no es el mío y lo hago con mucho gusto. 
+        Así que el señor Presidente de la República les dice a ustedes:
+“Señor Director Ejecutivo de LACNIC en Uruguay, señor 
+        Presidente y señores Directores de LACNIC en los países hermanos de 
+        Latinoamérica, señor Presidente de ICANN, autoridades nacionales, 
+        señoras y señores invitados, amigos y amigas.
+No es fácil ser el último orador en un acto y es 
+        difícil agregar algo interesante a lo mucho y muy bueno que hemos visto 
+        y escuchado en este rato. Ya que los anfitriones me han asignado cinco 
+        minutos para decir algunas cosas –dice el Presidente- voy a decirlas. En 
+        primer lugar, gracias a LACNIC por invitarme a su nueva casa y a todos 
+        ustedes por recibirnos. En segundo término felicitaciones por esta sede 
+        y por el trabajo que en ella y desde ella se realiza para garantizar el 
+        acceso equitativo a todos los operadores de Internet de la región.
+En lo que se refiere al Uruguay, no es una tarea 
+        menor si se tiene en cuenta que según un estudio realizado por nuestro 
+        Instituto Nacional de Estadística, en el segundo trimestre del año 2006, 
+        el 38.6% de la población ha utilizado los servicios de Internet.
+Aquí habla el Presidente y también el Vicepresidente: 
+        yo soy uno de ellos. Tal vez un poco tardío, pero no por ello carente de 
+        entusiasmo ni reacio a explorar las posibilidades que este recurso 
+        ofrece. Según el mencionado estudio, los principales fines del uso de 
+        Internet entre los uruguayos es: la comunicación, el 80% de los 
+        encuestados; acceso a la información, 75%; búsqueda de materiales 
+        educativos y de aprendizaje 44%; esparcimiento 41%, y realización de 
+        trámites 16%.
+Son datos que refieren a la realidad cotidiana, pero 
+        más allá de ella está la labor de organizaciones como LACNIC, una labor 
+        poco visible, porque administrar los recursos de numeración de Internet 
+        asignados a América Latina y el Caribe no es muy espectacular que 
+        digamos, pero es fundamental.
+La tarea que ustedes realizan no es titular de los 
+        periódicos, pero paradójicamente difícilmente podrían ponerse titulares 
+        en los periódicos si ustedes no cumplieran la labor que cumplen. Vaya, 
+        entonces, nuestro reconocimiento a la misma. Todo reconocimiento también 
+        tiene algo de descubrimiento y como, a su vez, todo descubrimiento tiene 
+        algo de desafío, permítanme hacer referencia a ese porvenir que en 
+        realidad ya llegó.
+El futuro no es una línea en lontananza. El futuro es 
+        presente que se construye y avanza. Voy a hacer una confesión familiar: 
+        Trini es la madre de mi ahijada preferida. Por lo tanto, si quiere venir 
+        acá y traducir de aquí me parece que le va a quedar mucho mejor. Más aún 
+        en estos tiempos de esos que llamamos, sin definirla muy precisamente, 
+        “sociedad de la información”.
+Yo no pretendo –dice el Presidente- desatar aquí un 
+        debate hermenéutico sobre la sociedad de la información. Y viendo que la 
+        misma es una forma de vida y convivencia social, creo que los desafíos 
+        que tenemos por delante son –voy a leer sólo los títulos: conectividad, 
+        acceso a PC, individual o en centros colectivos públicos y privados, 
+        educación formal o informal. Veinticinco siglos después, el desafío 
+        sigue siendo el mismo. Tomo un cuento que hace el Presidente aquí sobre 
+        un griego. Un griego llamado Sócrates, comparándose con su madre que era 
+        partera, solía decir “que sólo podía ayudar a sacar a luz los 
+        pensamientos de los discípulos”. Por eso es que el Presidente dice 
+        “Veinticinco siglos después, el desafío sigue siendo el mismo”  y en la 
+        tarea colectiva imprescindible para su resolución, LACNIC tiene una 
+        importante e intransferible responsabilidad que no dudamos seguirá 
+        cumpliendo con entusiasmo, responsabilidad y buenos resultados. Thank 
+        you very much and welcome to the country.
+© 2006 PRESIDENCIA - 
+            República Oriental del Uruguay | Derechos Reservados

@@ -1,0 +1,1410 @@
+[Música]
+y
+[Música]
+ah
+[Música]
+muy buenas noches a todos
+el día de hoy jueves 25 de febrero del
+año 2021
+desde este palacio nacional y en este
+salón salón tesorería vamos a iniciar la
+conferencia vespertina del reporte cobit
+yo soy el doctor christian arturo
+zaragoza jiménez director de información
+epidemiológica y el día de hoy queremos
+enviar un cordial saludo a todos las
+personas televidentes que nos siguen a
+través de las diferentes plataformas de
+los diferentes medios digitales a
+nuestros compañeros o porteros aquí
+presentes y sobre todo también a toda la
+gente de otros países con nacionales
+nuestros que nos siguen ante el interés
+de esta conferencia el día de hoy nos
+acompaña el doctor josé ernesto ramírez
+gonzález el responsable de la unidad de
+desarrollo tecnológico e investigación
+molecular del indre ya lo había
+comentado en sesiones anteriores el
+doctor lópez gatell quien nos hablará de
+las variantes y de todo el trabajo que
+hace este querido instituto referente a
+este tema él pertenece al grupo de
+expertos nacionales en el tema de
+biología molecular de nuestro país
+y también está con nosotros nuestro
+apreciado director general de
+epidemiología el doctor josé luís alomía
+zegarra
+la dinámica de la conferencia consistirá
+en presentar el comunicado técnico
+diario posteriormente el doctor ernesto
+ramírez nos explicará el tema de las
+variantes y el doctor josé luís alomía
+nos dará el informe del avance que
+tenemos en el plan de vacunas para
+posteriormente pasar al tema de
+preguntas y respuestas que amablemente
+nos hacen nuestros compañeros reporteros
+pues con el permiso de todos ustedes
+pasaré a dar el comunicado técnico
+[Música]
+no
+[Música]
+en esta primera diapositiva nosotros
+podemos observar como tenemos dos
+gráficas la gráfica de los casos
+estimados que para el día de hoy 25 de
+febrero son 2 millones 264 mil 524 casos
+estimados y tenemos una gráfica de verde
+obscuro donde tenemos a las personas
+recuperadas para el día de hoy tenemos
+1.620.000 8 personas recuperadas
+y tenemos 183 mil 692 lamentables de
+funciones ustedes pueden observar dos
+cifras en nuestra pantalla una cifra en
+verde que son 51 mil 130 casos activos
+estimados lo que representa a nuestra
+representa la epidemia dinámica y es un
+2%
+ese es el total de la epidemia actual 51
+mil 130 casos activos estimados y
+tenemos una cifra debajo de ella que
+dice 849 mil 957 esquemas completos de
+vacunación contra kobe 19 que son todas
+aquellas personas que han tenido y
+completado las dos dosis si me dan la
+siguiente por favor
+con esta lámina observamos la evolución
+de hospitalización nacional y tenemos
+[Música]
+tres líneas tres gráficas una personas
+hospitalizadas en su total personas
+hospitalizadas en camas generales vemos
+cómo se va comportando y las personas
+hospitalizadas con ventilación mecánica
+nosotros podemos ver cómo tenemos un
+descenso de 30 y de menos un punto
+porcentual comparado con la semana
+anterior podemos ver un franco descenso
+que estamos teniendo en estos en
+personas hospitalizadas en camas
+generales y en personas hospital
+hospitalizadas con ventilación mecánica
+esta fuente es la fuente de red y se
+actualiza diario y sobre todo con gran
+apoyo de las 32 entidades federativas y
+diferentes instituciones que participan
+en la colaboración de la integración de
+estos datos si me dan la siguiente por
+favor
+podemos observar la disponibilidad de
+camas pero ahora por entidad federativa
+y volvemos a observar que no tenemos
+entidades federativas con más del 70% de
+ocupación
+cuando vemos el indicador del medio
+donde tenemos tres entidades que tienen
+entre 50 y 69 por ciento de ocupación
+estas entidades son la ciudad de mexico
+que ha mantenido el mismo promedio
+aproximadamente en los últimos días con
+un 57% el estado de puebla y el estado
+de méxico las tres entidades de la zona
+centro de nuestro país pero tenemos 29
+entidades con menos del 50 por ciento de
+ocupación tenemos un total a nivel
+nacional de 31 mil 647
+camas totales tenemos 21 mil 716 camas
+disponibles y 9 mil 931 camas ocupadas
+recordando que estas son camas generales
+si me dan el siguiente tema
+[Música]
+disponibilidad de camas con ventilador
+para este momento no tenemos ninguna
+entidad federativa que represente más
+del 70 por ciento de ocupación en camas
+con ventilador que son aquellos
+pacientes que requieren esta ventilación
+asistida mecánica en esta parte tenemos
+sólo una entidad entre el 50 y el 69 por
+ciento de ocupación que es la ciudad de
+mexico pero tenemos 31 entidades
+federativas con menos del 50 por ciento
+de ocupación en total de toda esta red
+hospitalaria que reporta tenemos un
+total de 11 mil 329 camas totales de las
+cuales la disponibilidad es de 7 mil 523
+en la distribución de las 32 entidades
+federativas y 3 mil 806 son las camas
+que hasta el día de hoy en el corte se
+encuentran ocupadas con el tema de un
+ventilador este es el reporte técnico
+vamos a pasar si me dan la siguiente
+vamos a pasar con el doctor ernesto
+quien nos hablará de las variantes y del
+trabajo que realice limpio
+bien muchas gracias doctor christian
+zaragoza muchas gracias por la
+invitación es un placer estar aquí
+nuevamente con ustedes
+trataremos de platicar un poquito más
+acerca de estas variantes de este virus
+sars cobros vamos a tener unas breves
+diapositivas y vamos a platicar un
+poquito de este de este tema
+primeramente retomaron un asunto
+específico donde les quiero comentar que
+el virus como ya nos mencionaba
+anteriormente está constituido por por
+30 mil nucleótidos que codifican para
+las proteínas que forman y conforman
+este virus
+si conocemos o detectamos alguna
+mutación a lo largo de este genoma se
+puede llevar a cabo una clasificación de
+diferentes grupos diferentes claros hay
+algunas mutaciones que son
+características de cada uno de estos
+clavos o también se les ha llevado a
+cabo la identificación a través de la
+clasificación a través de más
+nomenclatura que se le llaman linajes
+que es a través de un sistema que es el
+sistema pango a la fecha por ejemplo
+sólo de esta clasificación que son
+cientos de de linajes tenemos más de 900
+enlaces soportados en todo el mundo
+específicamente de este ser scope 2
+quiero mencionar esto porque justamente
+es ignorar la siguiente
+esto
+este es un esquema específico donde está
+una de las proteínas que esta es la
+espécula en la espécula es la parte más
+externa del virus y ésta está codificada
+por este material genético de 30 mil
+bases son una fracción de esta de este
+material genético codifica para esta
+proteína y sintetiza esta proteína y en
+la parte de la espécula en la parte
+superior de la especula se encuentran
+sitios o diferentes posiciones de
+diferentes aminoácidos que conforman
+esta proteína si nosotros llegamos a
+tener un cambio en esta en este
+aminoácido en esta proteína puede ver
+por existir algún impacto en esta
+actividad que tiene el virus en esta
+región de esta especula aquí les pongo
+las las posiciones más características
+que sean que se han descrito a lo largo
+de este año que por cierto ya estamos a
+dos días de de cumplir un año del
+ingreso de la primera de la primera
+muestra positiva a nuestro país fue el
+27 de febrero del año pasado
+muestro las diferentes probabilidades de
+estos sitios que son antigénicos son
+sitios que tienen una importancia para
+este virus
+quiero focalizar específicamente en la
+parte de donde dice l 501 n es el
+aminoácido que normalmente tiene un
+virus tipo del virus walt al que le
+llaman el virus que originalmente se
+creó que fue este virus
+buján de el año pasado sí este
+aminoácido sufre alguna mutación
+cambia y la nomenclatura que nosotros
+ocupamos para poder decidir
+estos cambios estas mutaciones es
+colocar el animal el aminoácido original
+el sitio donde está eliminó ácido y
+posteriormente el aminoácido nuevo en
+este caso les pongo aquí n-501 llegó una
+sustitución de un aminoácido por otro
+esto es lo que se conoce como mutación
+entonces estas mutaciones les pueden le
+pueden dar estas características al
+virus para que lo podamos clasificar y
+definir y diferenciarlos
+y cuando tenemos una acumulación de
+estas mutaciones a lo largo del genoma
+del virus
+y que le dan características que pueden
+ser importantes para
+a nivel que puedan tener un impacto en
+la salud pública es lo que conocemos
+como una variante y en este caso una
+variante de interés porque porque
+estamos teniendo modificaciones o
+mutaciones sustituciones le llamamos en
+esta parte de de la proteína y en
+algunas otras partes del virus si me das
+la siguiente por favor
+qué es lo que hay esto le pusimos
+variantes en el mundo porque hasta el
+momento hasta el día 26 de enero por
+parte de lópez en los diferentes sitios
+donde uno revisa esta información
+diferentes plataformas que están
+disponibles como la plataforma de guise
+y donde van gogh tenemos que hay al
+menos tres variantes de interés
+internacional tres variantes importantes
+y últimamente una cuarta variante más
+que se está proponiendo que se está
+sumando a este grupo de tres son las que
+hemos venido platicando aquí les hago
+una breve descripción de estas variantes
+la primera la conocemos como la variante
+de unos 501 y el variante 1 porque tiene
+una mutación muy característica en la
+posición 501 también se le conoce como
+ver 1 punto 1.7 seco se conoce que ésta
+se detectó por primera vez en reino
+unido ya que tiene todas estas
+mutaciones que están aquí en esta
+columna y principalmente la mutación 501
+la siguiente variante es la variante que
+se detectó en sudáfrica la conocemos
+como la variante 2 o también la
+conocemos como el linaje de 1.351 esta
+variante que se encuentra se detectó por
+primera vez en sudáfrica tiene
+principalmente estas mutaciones y
+destacó aquí la presencia de dos
+mutaciones más aparte de la 501 entonces
+la anotación de la posición 484 y la
+mutación de la posición 417 tiene
+cambios en estos sitios y estos sitios
+están específicamente en la en la parte
+de la especula que tiene que está más
+expuesta y que tiene varias
+implicaciones en la
+en la biología de este virus no
+después tenemos la variante t1 que se le
+conoce como también de punto 1.28 esta
+variante se detectó por primera vez en
+brasil
+a principios de este año tiene las
+características de presentar estas
+mutaciones ok y lo que hemos observado
+que ya se han estado presentando estas
+variantes en diferentes países al día de
+hoy la oms nos hizo un alcance y tenemos
+estos son los países donde se ha
+encontrado esta esta mutación
+constantemente están haciendo reportes
+constantemente están cambiando de hecho
+de 77 ya pasó a 100 de 30 de 37 pasó a
+51 los países donde se encuentran estas
+variantes son las variantes de interés
+el reporte que tan amablemente les han
+ofrecido aquí va en algunas ocasiones y
+que no hemos cambiado mucho es
+encontramos de la variante encontrada
+como ve punto 1.7 en el país hemos
+encontrado seis casos
+de la variante p 1 hemos encontrado sólo
+un caso quiero comentarles que esta
+tercera variante la cuarta variante
+perdón es una variante que se ha
+encontrado en el sur de eeuu en
+california también presenta ciertas
+características un impacto porque a
+tener un crecimiento en su distribución
+en este país
+nosotros cuando ya hemos secuenciado y
+hemos analizado hasta el momento hemos
+encontrado que de esta variante en el
+país hemos detectado 10 casos eso es
+factible por la cercanía que tenemos con
+con eeuu va a ser rápidamente nos va a
+presentar esquemáticamente que fue lo
+que hicimos pero hasta la siguiente por
+favor específicamente
+de la conocida como variante encontrada
+en reino unido tenemos seis casos todos
+están lo que hacemos es hacer la
+secuencia de género completo ya ser una
+un análisis filogenético y de acuerdo al
+resultado que tenemos del análisis solo
+genómico vemos con cuál de las variantes
+se puede agrupar en este caso vemos que
+nuestras muestras se agrupan
+perfectamente bien con esta variante de
+reino unido que bueno es la va la
+variante es la de 1.1 punto 7 similar la
+siguiente que tenemos 66 casos y la
+siguiente es específicamente la variante
+de brasil que la tenemos en una muestra
+procedentes de guadalajara de jalisco
+perdón
+y aquí quisiera ser enfático y claro que
+esta variante se le conoce como variante
+de punto 1
+el árbol filogenético que tengo aquí
+filo económico en el recuadro se observa
+en verde el color es donde está ubicada
+la nuestra muestra ojalá que lo
+alcancemos a ver es una secuencia que
+está en color rojo
+esa es la variante p 1 y se agrupa con
+las variantes detectadas
+y que tienen las mismas características
+genómicas existen otras variantes que
+también han circulado en brasil que son
+laverán pepe punto 2
+ahorita retomó este asunto de la
+variante de punto 2 que no es una de
+estas variantes de interés quiero hacer
+la aclaración verás la siguiente por
+favor
+recordarán que hace unos 15 días nos
+presentamos aquí está hablando
+específicamente de muestras que habían
+encontrado en el estado en jalisco
+específicamente la universidad de
+guadalajara donde nos presentaban que
+encontraban la mutación 484 camps esté
+bueno analizamos el trabajo es el
+trabajo analizamos la secuencia genoma
+completo efectivamente tenemos esta
+mutación pero no contiene las demás
+mutaciones que son características de la
+variante p 1 que le conocemos como
+variante brasileña no las contiene de
+tal modo que descartamos que estas
+secuencias estas muestras pertenezcan a
+estas variantes de interés
+sin embargo cuando hacemos nosotros un
+análisis filogenético resulta que estas
+muestras se agrupan filogenéticamente
+con la otra variante que también circuló
+en brasil que es la variante pero que no
+tiene el mismo impacto a nivel de salud
+pública como lo tiene la variante p 1
+sin embargo no debemos descartar que
+contiene una mutación de una relevancia
+importante de un impacto importante
+sugerimos que se hagan diferentes
+estudios epidemiológicos biológicos
+clínicos para ver el impacto que pueda
+tener esta variante a nivel nacional
+si me dan por favor la siguiente
+y bueno nosotros lo que hacemos en la
+institución es llevar a cabo la
+vigilancia de estas variantes
+principalmente cuando hicimos un
+comunicado que nos enviaran a la
+institución todas aquellas muestras de
+pacientes que pudieran ser positivos que
+tuvieran antecedentes de viaje porque
+queremos que van a entrar de esa forma a
+nuestro país de manera en una
+importación sin embargo lo que tenemos
+que hacer y lo que hemos venido haciendo
+durante todo este último año es llevar a
+cabo una vigilancia genómica qué
+significa esto no sólo es encontrar las
+variantes que se han encontrado nuestros
+lugares sino analizar lo que está
+ocurriendo en nuestro país qué es lo que
+está circulando qué es lo que es lo que
+podemos detectar si hay cambios si no
+hay cambios que podemos encontrar que
+nos puede decir él está llevando a cabo
+esta vigilancia genómica y bueno quiero
+comentarles que nuestro grupo de trabajo
+que lo hemos integrado con varias
+instituciones hemos aportado
+secuenciaciones a la plataforma de
+diseño de diferentes estados de la
+república con una diferente cantidad de
+de secuencias que hemos aportado al
+momento llevamos 1.251 secuencias
+reportadas en esta plataforma y hemos
+hecho un análisis estas 1250 muestras
+stec hasta el momento llevamos
+secuenciadas y nada más comentarles que
+hace tres semanas que estábamos por acá
+estábamos en el trabajo de de chile en
+el número de secuencias reportadas ahora
+ya tenemos una mayor número de
+secuencias reportadas en 16 y
+seguramente vamos a seguir trabajando
+con más intensidad y vamos a tener mayor
+información y mayor robustez en nuestra
+en nuestros datos que estamos
+presentando aquí bueno quiero enfocarme
+estas 1250 secuencias generales que
+hemos tenido en nuestro país si me das
+las siguientes
+todas han sido analizadas por no de
+filogenia hemos encontrado diferentes
+grupos diferentes linajes si nada
+naciente
+hemos encontrado más de 80 como les
+mencioné hay cerca de 900 linajes en
+nuestro país hemos encontrado más de 80
+linajes de todas estas mil 250 muestras
+y aquí hay algo que nos llamó mucho la
+atención y es algo que les queremos
+platicar
+inicialmente lo que más circulaba en
+nuestro país era el genotipo o el claro
+que con una gran cantidad de estas
+secuencias se estaba encontrando este
+clavo y estábamos encontrado el linaje
+de uno así como les mencioné de las
+variantes de interés que son de punto
+1.7 etcétera y hay una que es b 1 que es
+una variante prácticamente que se estaba
+distribuyendo dispersando porter europa
+y por tv américa del norte esto es lo
+que estábamos encontrando sin embargo
+poderosamente no nos llamó la atención
+ahorita que tenemos un lado un un linaje
+que hemos estado observando con mucho
+mayor frecuencia en nuestro país y
+estado estamos observando que está
+habiendo un incremento de este linaje si
+me das la siguiente por favor
+qué es lo que hemos encontrado y nos
+llamó la atención sino tras la anterior
+por favor disculpen estos son los
+linajes que son prefieran presentados
+con mayor frecuencia a nuestro país
+entonces lo que hicimos fue tomar los
+tres primeros linajes el b1 el de 1.100
+222 y el de 1.189 que son los que más
+han circulado más hemos encontrado
+nuestro país y cuando nos empezamos a
+analizar nos llamó la atención que había
+algo en común entre las secuencias de
+linaje veo 1.1 puntos 122 y lo que
+tienen en común es que estábamos
+presentando una mutación en la posición
+478 una este yate por una acá
+en aminoácidos
+y entonces empezamos a analizar y no
+sabe que estamos observando esto lo
+vimos tanto en el en el iner como lo
+estuvimos observando en el imagen que
+son grupos de trabajo que han estado
+aportando secuenciación a estas
+plataformas empezamos a observar es a
+ese cambio esa mutación menos la
+siguiente entonces lo que hicimos fue
+analizar qué es lo que estaba ocurriendo
+y no nos percatamos que estos dos
+linajes que es el punto 1 y el punto 189
+que son los linajes que se habían estado
+encontrando y circulando o presentando
+con frecuencia en nuestro país empezaron
+a disminuir y lo que empezamos a ver es
+a encontrar un aumento significativo en
+la presencia de este linaje ve 1 punto
+1.122 con esta mutación de 478 que aquí
+lo pongo en medio está votación este
+este linaje con esta mutación no se
+había encontrado en todo el país
+en todo este en el país en todo este año
+la encontramos por primera vez o hasta
+el momento lo hemos detectado en octubre
+y hemos tenido una
+un incremento en la circulación en la
+detección de este linaje y como pueden
+ver pasa del 5% al 11% al 30% al 63% al
+87% de las nuestras secuencia las tiene
+en este linaje y tienen esta esta
+mutación y los otros dos linajes si se
+dan cuenta la persona a disminuir a tal
+grado que en febrero en este último mes
+el mundo de muestras que hemos trabajado
+no hemos encontrado estos linajes por lo
+cual estamos convencidos que este es el
+linaje con esta mutación que actualmente
+está circulando en nuestro país verdad
+la siguiente por favor
+porque denunciamos la atención este
+gráfico en la parte inferior en la parte
+de color vino en la parte de color beige
+son los dos linajes que estaban
+circulando el año pasado como pueden
+ustedes observar han sido desplazados
+por el linaje que está en color verde
+que es éste elena que 222 más la
+mutación 700 777 438 card
+porque no tengo la atención por lo
+siguiente
+al comparar los estudios que han hecho
+en estos países donde se encontraron
+estos linajes las variantes de interés
+nos dimos cuenta que iban incrementando
+el ascenso en su frecuencia de
+identificación en estos países tanto la
+variante 1 en inglaterra la variante 133
+151 en sudáfrica
+la variante p 1 en brasil la variante de
+eeuu estaban tener un aumento
+significativo cada mes está aumentando
+de una manera significativa la presencia
+de estas estas variantes y ese efecto lo
+estamos observando nosotros en esta
+variante que estamos encontrando que
+estamos reportando en este momento
+porque es importante primero porque es
+un linaje que está circulando y la
+segunda porque estamos encuentran una
+mutación que se encuentra en un sitio
+específico de la espécula es recordar a
+la primera de postura que les puse donde
+estaba la estructurada secundaria de la
+espécula y donde había varias varios
+aminoácidos de interés este es uno de
+los aminoácidos de interés entonces es
+una posición importante sugerimos en
+este momento llevar a cabo fortalecer
+los estudios epidemiológicos de esta
+circulación de esta variante 222 más más
+la mutación de 478 acá le sugerimos
+también llevar a cabo estudios
+virológicos estudios clínicos para ver
+cuál es el impacto de ésta de ésta de
+este hallazgo estamos reportando en ese
+momento y hasta hasta este momento es
+todo por mi parte si no es la siguiente
+solamente igual terminar por agradecer a
+todo el trabajo multidisciplinario que
+hemos hecho en la institución en este
+caso la mayor parte de las secuencias
+que hemos estado analizando
+son muchas muestras de la ciudad de
+mexico hemos trabajado mucho con el
+invierno y con el dinero que han estado
+trabajando fuertemente con el gobierno
+del distrito federal entonces es un
+trabajo conjunto entre varias
+instituciones y seguramente lo vamos a
+fortalecer en breve para tener más datos
+y tener mayor certeza de lo que estamos
+encontrando por mi parte es todo muchas
+gracias
+muchísimas gracias le agradecemos al
+doctor josé ernesto ramírez gonzález
+responsable de la unidad de desarrollo
+tecnológico de investigación molecular
+de nuestro querido instituto de
+diagnóstico y referencia epidemiológica
+indre
+ahora vamos a cederle la palabra y
+gracias a la tecnología al doctor josé
+luís salom y a zegarra quien nos
+compartirá el el informe referente al
+tema de vacunación y los avances
+buenas noches doctor alomía un saludo
+desde este salón tesorería gracias
+gracias muy buenas noches estimado
+doctor
+zaragoza doctor ramírez también muchas
+gracias por estar de manera presencial
+en esta conferencia un saludo fraterno
+también a todas las personas que están
+en este momento presentes a los medios
+de comunicación obviamente y a todas las
+personas que siguen a través de los
+diferentes canales y redes sociales
+esta conferencia despectiva vamos a
+iniciar con la actualización de la
+nacional de vacunación con nuestra
+primera diapositiva en donde siempre
+estamos actualizando el avance diario de
+la estrategia en todo el país el día de
+hoy como pueden ustedes ver tenemos un
+incremento importante de dosis aplicadas
+en relación a los últimos días y en el
+reporte que como también ya lo conocen
+es un reporte preliminar para el día de
+seguro el día de mañana tendremos
+todavía una mayor cantidad notificada
+pero por lo menos hasta el momento del
+corte tenemos 162 mil 233 vacunas que se
+han aplicado el día de hoy y también
+como recordarán pues ya en esta semana
+prácticamente tenemos en mexico la
+aplicación de cuatro tipos de vacuna no
+solamente para efectos de cómo funcionan
+las mismas sino también obviamente de
+las casas farmacéuticas que la producen
+entonces
+enmarcadas en una logística específica y
+también orientadas a los grupos
+poblacionales que están claramente
+definidos en la política nacional de
+vacunación si vemos la siguiente
+diapositiva tomamos precisamente a notar
+el acumulado el día de hoy rebasamos los
+2 millones ya de dosis aplicadas de
+vacuna específicamente 2 millones 88 mil
+813 dosis y podemos ver como la curva de
+dosis acumuladas vuelve nuevamente a
+tener una velocidad importante y empieza
+nuevamente a subir obviamente esto es
+gracias al esfuerzo que se está
+realizando en cada una de las 32
+entidades federativas que están llevando
+a cabo la operacionalización y ya la
+aplicación directa de esta vacuna a los
+grupos que hemos comentado si vemos en
+la siguiente diapositiva podemos ver
+precisamente las 4 vacunas que en su
+momento comentaba han llegado ya al país
+estos son los números
+las dosis disponibles de cada una de
+ellas la primera en llegar como ustedes
+saben este el pasado 23 de diciembre un
+inicio de vacunación el 24 son
+precisamente la vacuna de facer bien
+take y hasta el momento desde ese
+diciembre en que empezaron a llegar han
+arribado al país un millón 761 9.625
+dosis otra vacuna
+astrazéneca fue la segunda también en
+arribar al país con 870 mil dosis la
+siguió precisamente la vacuna si novak
+con 200 mil dosis y la más reciente en
+en llegar fue precisamente sputnik v con
+200 mil dosis esto es una entonces un
+total de dosis que se han recibido hasta
+el momento en méxico de 3 millones 39
+mil 625 2 y sumando ya los cuatro tipos
+de vacuna y por lo tanto representa en
+función de la diapositiva anterior donde
+veíamos hace más de 2 millones
+888 mil dosis aplicadas pues bueno hasta
+el momento o sea entonces aplicado 69
+por ciento de este total de más de tres
+millones de dosis que hasta el momento
+han arribado al país es importante
+resaltar que sobre todo ahora cuando
+estamos viendo en pantalla estas estos
+cuatro tipos de vacuna y las cantidades
+que han llegado que pues bueno esto es
+la materialización y el reflejo del
+esfuerzo que el gobierno mexicano en su
+conjunto realizó desde mediados del año
+pasado para poder en un primer momento
+identificar los potenciales candidatos
+darles un seguimiento específico y
+puntual a cada uno de ellos para
+identificar cuáles serían las que
+tendrían la disponibilidad ya de
+producción y comercialización de su
+vacuna llevar a cabo los contratos
+correspondientes en base a este análisis
+para entonces tener la mejor ventana de
+oportunidad
+poder adquirir las primeras dosis que
+estuvieran disponibles a nivel
+internacional y eso se viene
+materializando decíamos desde el mes de
+diciembre en donde ahora méxico cuenta
+ya con estas cuatro opciones que son
+además vacunas que seguirán llegando al
+país tal como se han presentado en
+conferencias previas con la calandra
+calendarización y en las cantidades
+específicas de vacuna y bueno se sumarán
+también otras en el transcurso de
+siguientes semanas y meses y a través de
+las mismas se pretende cumplir con los
+objetivos bien definidos en esta
+estrategia nacional de vacunación y su
+política para todo el país si vemos la
+siguiente diapositiva actualizamos
+básicamente la aplicación de las
+segundas dosis en el personal de salud
+esto es alguna actividad que se está
+llevando a cabo en las 32 entidades
+federativas para el día de hoy son 500
+26.412 de acuerdo al reporte de personas
+con aplicación de segunda dosis lo cual
+pues
+el porcentaje ya de cobertura de segunda
+dosis a 76% y de seguro en siguientes
+días y además con el arribo de vacuna
+facer de ontex que recientemente se
+recibió podremos estar llegando a los
+cercanos del 100 por ciento de cubriría
+a todo este personal de primera línea de
+atención a personas con kobe en unidades
+sobre todo que atienden a los pacientes
+códigos que puedan tener ya la cobertura
+completa de dos dosis y por lo tanto de
+siguiente semana y siguientes dos
+semanas esperar entonces tener
+obviamente también la efectividad que en
+su momento de esta vacuna ha demostrado
+en sus ensayos previos y que entonces
+esta medida de salud pública para
+específicamente este grupo pueda empezar
+a demostrar su impacto a través de la
+obviamente disminución de
+la carga de enfermedad es decir de los
+casos en este grupo poblacional pero muy
+importante la disminución sobre todo de
+la mortalidad y letalidad en estos
+mismos grupos estamos todavía obviamente
+esperando los datos para ver cómo
+avanzan otras segundas dosis tanto del
+personal educativo como de personas
+adultas mayores que en su momento
+también deberán de recibir la segunda
+dosis para cada uno de los tipos de
+vacunas que sean hasta el momento de
+distribuir y la siguiente y última
+diapositiva de este grupo de información
+sobre la vacunación es precisamente la
+actualización de los eventos
+supuestamente atribuir esa vacunación en
+la medida que vamos incrementando las
+dosis de vacuna aplicada pues es
+esperable también que se incremente la
+cantidad de este tipo de eventos dado
+que el sistema nacional de vigilancia
+epidemiológica está continuamente
+monitoreando e identificando
+clasificando y entonces notificando la
+ocurrencia de estos de estos eventos
+podemos ver que básicamente los tenemos
+distribuir
+entre las primeras dos vacunas la de
+facer biotech y la de astrazéneca pero
+de seguro esperamos que en siguientes
+días se puedan también empezar a
+identificar sobre todo eventos no graves
+relacionados a las últimas dos vacunas
+que han llegado como podemos ver la gran
+gran mayoría son de este tipo es decir
+es avis no graves y hasta el momento se
+ha registrado sólo 52 casos que es el
+punto 4 que es menos perdón del 1 por
+ciento del total de vacunas que se han
+este aplicado
+y que han desarrollado en su momento un
+evento supuestamente atribuible a
+vacunación es decir una muy pequeña
+cantidad de sabios que se han
+clasificado como graves y podemos ver en
+los cuadros de la parte inferior esta
+información queda disponible realmente
+tanto en la grabación de esta
+transmisión como en el material digital
+que se distribuye a los diferentes
+medios de comunicación para que ustedes
+puedan consultarla con detenimiento y
+puedan encontrar como estas 52 esas
+graves se distribuyen por tipo de
+vacunas se distribuyen por sexo el
+estado o entidad federativa en la que
+actualmente se encuentran las personas
+aún hospitalizadas o en seguimiento por
+haber detenido este sabino grave así
+como la totalidad de esos 52 casos como
+esta su distribución en cada una de las
+entidades federativas entonces la
+campaña de vacunación continua como
+ustedes saben se van a recibir embarques
+en siguientes días en siguientes semanas
+y eso va a continuar obviamente
+reforzando la distribución y el envío a
+cada una de las entidades federativas
+para que en base al alineado en el plan
+pueda seguir aplicándose la vacuna
+estamos en este momento obviamente y ya
+entrando a la etapa fuerte que es la
+segunda etapa es decir la población de
+adultos mayores estaríamos ya a pocas
+semanas de que se terminen los grupos
+definidos dentro de la población de
+trabajadores de la salud en quienes se
+continuará trabajando hasta terminar con
+todo lo que el plan contempla y entonces
+siguientes arribos de vacunas sobre todo
+de próximas semanas podrán dirigirse
+prácticamente ya en su totalidad a la
+estrategia de adultos mayores entonces
+vamos a estar obviamente actualizando y
+notificando esta información diariamente
+para que sea del conocimiento de toda la
+población
+le pediría entonces al doctor christian
+zaragoza que por favor pueda dirigir el
+siguiente bloque de la conferencia que
+es precisamente poder responder a las
+preguntas de los medios de comunicación
+muchas gracias muchísimas gracias doctor
+josé luís salom y a segarra director
+general de epidemiología y procederemos
+en adelante con las preguntas de
+nuestros compañeros reporteros aquí
+presentes compañero por favor
+gracias sumará noches y juana mentes de
+el greco basta de groupon el día de ayer
+se dio el informe especialmente del
+estado de salud del doctor hugo lópez
+gatell pero bueno ahí ya es bueno se
+empezaron a manejar diferentes
+diferentes versiones incluso el
+agravamiento del estado de salud al
+reportar el del doctor este mercado
+cortés alcalá que al haber más leve
+desde esta disminución de su oxigenación
+pues ya están manejando que ya se agravó
+el estado porque está requiriendo de
+oxigenación suplementaria
+nos gustaría que por favor nos
+clarificarán precisamente para que no
+haya dudas para que no haya este pues es
+esta información de este supuesto
+agravamiento del estado de salud del
+doctor éste lo trate lo que sería mi
+única pública pues muchísimas gracias le
+pediría al doctor josé luís salom y a
+segarra quien ellos
+con un grupo de alta gerencia han estado
+en contacto con el señor subsecretario
+para que nos pudiera dar respuesta a
+esta pregunta
+con mucho gusto y sobre todo agradecemos
+la pregunta para poder hacer las
+aclaraciones correspondientes no existe
+es mentira no hay ningún tipo de
+agravamiento del subsecretario de
+prevención y promoción de la salud del
+doctor hugo lópez gatell al revés la
+evolución en las últimas 24 horas ha
+sido es favorable tuvimos la oportunidad
+de cruzar comunicación directa con él y
+preguntarle por su estado de salud
+él nos comenta que se encuentra
+prácticamente ya asintomáticos decide ya
+no tiene signos y síntomas de la cob y
+19 obviamente debe de continuar todavía
+en observación y el seguimiento tanto
+clínico como epidemiológico su
+saturación ya está al 97 por ciento es
+algo que nos reporta directamente como
+comentaba el doctor ricardo cortez
+alcalá el día de ayer precisamente una
+condición que llegó al suplemento de
+oxígeno este preventivo fue la
+disminución de estos niveles pero
+simplemente con la aplicación de este
+exige no los cuidados que él
+ha tenido vuelve nuevamente a tener una
+saturación del 97 así se ha mantenido
+está en el estado de salud digamos en
+buen estado general se está recuperando
+ha estado en comunicación con el equipo
+de trabajo con los diferentes
+colaboradores muy al pendiente de la
+información y de las actividades que se
+están llevando a cabo y de seguro en la
+medida que esta recuperación continúe y
+a él se lo permite lo veremos muy
+probablemente más adelante con este
+actividad virtual en sus diferentes
+áreas de trabajo
+muchísimas gracias compañera
+[Música]
+gracias gracias buenas noches liliana
+noble de pulso saludable
+tengo varias preguntas primero doctora
+la mía buenas noches me gustaría conocer
+ustedes contactó el doctor gatell por
+evidentes circunstancias en saber cuál
+es su estado de salud y si usted dio
+positivo a la prueba
+lakovic o solamente el resguardo
+domiciliario igual que el doctor drew es
+dos situaciones del protocolo que se
+establece cuando alguien de ustedes
+bueno en el circuito da positivo
+sí muchas gracias muchas gracias de
+hecho aprovechó la ocasión también para
+a través de su conducto y de los medios
+pues agradecer a todas aquellas personas
+que han estado
+obviamente expresando su preocupación y
+su empatía con sus servidores
+específicamente o especialmente con el
+doctor este también diego lópez de apple
+muchas gracias por los buenos deseos de
+recuperación que han tenido con él y por
+la preocupación que tienen por todo el
+equipo que obviamente estamos día con
+día atentos de la respuesta ante hasta
+ante esta epidemia tics en su servidor
+se encuentra solamente resguardado en
+base al protocolo epidemiológico que
+contempla que cuando una persona es
+contacto de un caso confirmado debe de
+auto resguardarse hasta la espera de
+presencia o no porque esto obviamente no
+pues no necesariamente tiene que suceder
+sino hubo un contagio de signos y
+síntomas su servidor ha mantenido ese
+resguardo
+he necesitado realizarme la prueba del
+laboratorio me he mantenido 100%
+asintomático no tengo ningún ninguna
+manifestación clínica de la enfermedad
+de la cob y 19 ni ninguna otra y si
+continuamos en ese mismo sentido
+estaríamos ya cumpliendo 10 días
+completos este próximo domingo lo cual
+nos permitiría obviamente a partir del
+día lunes ya podernos integrar a
+actividades presenciales esenciales
+muchas gracias
+y el doctor ernesto buenas noches de
+esta explicación que nos acaba de dar de
+este hallazgo que nos ha presentado que
+no tiene que ver o no se le tendría que
+etiquetar como una variante mexicana
+como lo han hecho con las otras
+variantes que se han encontrando en
+diferentes países o si estamos hablando
+de una posible variante mexicana que
+sería una pregunta sin muchas gracias
+justo como lo que preguntas liliana no
+sería correcto nombrarla de hecho no es
+correcto lo hablarles variantes
+brasileñas y por qué por qué tienen un
+nombre específico que es de punto 1.7
+etcétera las conocemos de alguna manera
+así brasileña e sudafricana etcétera de
+momento no es adecuado porque primero
+que nada no sólo circula en nuestro país
+está está el linaje con esta mutación se
+ha encontrado también en canadá en eeuu
+en algunos países de europa y de áfrica
+lo que estamos haciendo es que es lo que
+más estamos encontrando con mucho mayor
+frecuencia acá
+este es un dato que le tenemos que
+ofrecer a nuestros directivos de
+epidemiología para que empiezan a hacer
+sus estrategias y buscar este mayores
+casos etcétera etcétera
+nosotros en pago que es una
+un sitio de donde se depositan y se
+hacen los análisis filogenético sin filo
+genómicos podemos hacer una solicitud ya
+específica para que le nombren de alguna
+manera esté claro es específico tengo un
+nombre en particular pero no no es
+adecuado de momento llamarle una
+variante mexicana por lo que te estoy
+comentando porque es importante que
+estemos analizando qué es lo que pueda
+suceder con esta con esta variante que
+está circular en nuestro país y
+seguramente se harán estudios
+encontraremos y haremos un trabajo
+integral mayor con mayor robustez
+de hecho déjame comentarte que bueno
+este trabajo lo hemos realizado hasta
+este momento en el en el sector gobierno
+con institutos como el iner y el inmegen
+sin embargo en alguna iniciativa muy
+importante por parte de la academia por
+parte de los demás institutos que tienen
+una infraestructura muy grande muy muy
+adecuada para poder hacer esta
+vigilancia genómica también se están
+sumando y vamos a tratar de hacer una
+mayor cobertura con un mejor
+muestreo para que todos estos datos
+tengan una mayor una mayor robustez de
+entrada pues es decir aquí está está
+presentes cerca del 80% 90% de las
+secuencias que generamos tienen esta
+mutación entonces eso es importante pero
+de momento no lo creo que sea adecuado
+llamarles y de esta variante que nos
+mencionó a dr
+ya se sabe o se sabe si es más
+virulentas y puede producir una
+enfermedad más grave si el ritmo de
+contagio es más elevado versus otras
+variantes es hacer tanto pregunta
+también muchas gracias mira tiene una
+tiene un par de mutaciones muy
+importantes la más importante de ellas
+es ésta que les mencionó que es una
+asociación de 47 744 78 porque se ha
+encontrado que esta mutación tiene de
+alguna manera impacto en
+en una posible evasión la respuesta
+inmune tiene como como el resto de las
+mutaciones que se encuentran localizadas
+en esta región justamente por eso son
+importantes estas explotaciones porque
+pueden presentar un impacto el principal
+impacto que hemos visto ahorita a nivel
+salud pública es que ha aumentado su
+distribución ha aumentado su este la
+forma como la que es la que se está
+presentando de hecho ahora les puedo
+decir que de los 70 80 casos que
+llevamos secuencia 2 de febrero además
+en el 80 por ciento de los 80 casos se
+presenta esta está muy seguramente puede
+tener una mayor transmisibilidad de seta
+a todos esto por eso sugerimos que se
+hagan estudios virológicos que se hagan
+estudios epidemiológicos y clínicos para
+ver si tiene o no tiene impacto en salud
+pública de momento es la presencia de
+esta de esta variante
+habrá que relaciones de hecho estamos
+trabajando en eso con los institutos que
+te menciono para ver una relación entre
+la parte clínica y la presencia de esta
+de esta estaba que estamos revisando si
+podemos hacer ensayos de neutralización
+con pacientes que hayan sido de alguna
+manera ya vacunados y qué
+monte en respuesta a ver si estos
+anticuerpos son capaces de neutralizar
+este tipo de variantes en fin se tiene
+que trabajar mucho para poder para poder
+determinar todo lo que tú nos comentas
+de entrada pues lo que sabemos es que
+son mutaciones importantes y no las
+tenemos que dejar de lado hay que
+estudiarlas hay que trabajarlas mucho
+gracias y finalmente doctor christian
+quisiera que nos ayudará a aclarar el
+tema de los posibles o de los contagios
+entiendo que si alguien tiene kobe 19
+bueno dio positivo se recupera pasa el
+tiempo 2 3 6 meses para lo mejor hasta
+un año y nuevamente vuelve a dar
+positivo a alzar scott 2 y nuevamente
+tiene síntomas de lakovic 19
+yo creo que el universo completo
+entenderíamos que es un re contagio si
+no es un re contagio como se le llamaría
+depende del lado la familia la cepa o
+como se tipificaría a este individuo con
+estas características gracias sí gracias
+por la pregunta nosotros desde el punto
+de vista de vigilancia epidemiológica
+una vez que el paciente cumple con una
+definición operacional se le hace una
+toma de muestra es positivo y
+efectivamente como comenta los
+anticuerpos a lo largo del tiempo puede
+entender a la decimos a la disminución
+de los mismos y este paciente puede
+tener un segundo evento para cuando
+nosotros hablamos del término de
+reinfección primero tenemos que tener la
+certeza de que fue positivo en un primer
+evento y posteriormente se tiene que
+hacer la clasificación genética la
+secuencia genómica para poder saber que
+son dos variantes diferentes cuando
+tenemos estos
+se tiene y se habla de que este paciente
+puede tiene ha sido nuevamente re
+infectados por el virus del ser escoltas
+gracias
+[Música]
+si en efecto la primera vez se llama a y
+pasa el tiempo es un ejemplo burdo y me
+vuelve a dar positivo si se vuelve a
+llamar a cómo se llama eso que le pasó
+porque por lo que entiendo tendría que
+haberse llamado ve o estoy equivocado en
+cuanto tenemos dos variantes diferentes
+estamos hablando de el término de la
+reinfección en este caso
+[Música]
+adecuadamente tu pregunta
+tiene varias posibles respuestas mira la
+primera es aquí les presentamos hace
+unos meses quizá el caso de un de una
+muestra que se una paciente del estado
+de guerrero que se infectó en junio
+perdón a finales de mayo después vuelve
+a salir positiva en julio después volvió
+a salir positivo en octubre
+tuvimos la muestra 1 y la muestra 3 y el
+clavo
+éste era hey está ggr eran completamente
+diferentes se ubicaban en en grupos
+diferentes enclaves diferentes
+claramente entonces hablamos de una
+reinfección porque estamos hablando de
+dos de dos variantes completamente
+diferentes en el caso de que fuera una
+sola variante que fuera exactamente la
+misma podemos hablar dos cosas la
+primera es que es una persistencia que
+el virus no termino por eso por por
+salir de los pero en este caso de lo
+humano a lo largo del tiempo ha habido
+casos
+de 10 12 14 15 20 30 50 días que siguen
+excretando virus estamos hablando por
+eso es importante que tenga una un caso
+positivo después que sea negativo y
+después que va a ser positivo y la otra
+es que no haya montado respuesta
+me explico que si no monto respuesta y
+se infecta con el virus a cómo le
+mencionas pase el tiempo se va a
+infectar con el mismo virus a
+probablemente no monte una respuesta
+inmune y por eso es que pueda puede
+hacer que esté infectado entonces son
+varias las posibilidades y varias las
+explicaciones que pueden existir pero lo
+más importante es que si es de infección
+es porque tenemos 22 variantes de hecho
+la velocidad cuando que el virus va
+cambiando estos cambios que les he
+presentado a estas mutaciones
+generalmente producen uno o dos cambios
+por mes y mutaciones por mes entonces
+con eso bastaría para poder definir si
+es un virus igual o un virus diferente
+por qué porque está cambiando entonces a
+lo largo de uno o dos meses que se
+volver a infectar con un par de no
+tienen que dejar de ser del mismo claro
+del mismo linaje pero con que presenten
+un par dos o tres o cuatro mutaciones
+podemos también hablar de una
+reinfección todo dependerá de cómo
+hagamos ese tipo de de análisis pero más
+o menos esta es la explicación más
+acertada a la pregunta que todos haces
+nuestro compañero
+[Música]
+hola buenas noches arturo contreras de
+pie de página entonces sólo para
+precisar todavía no se sabe sobre la
+capacidad de las vacunas para este tipo
+de para esta variante que se tiene o en
+méxico la ab130 es ahora no entonces eso
+y saber si este éxito de estudios que
+hace por ejemplo dicen que la
+secuenciación es que han hecho durante
+todo febrero
+es cerca del 80 por ciento tienen estaba
+esta mutación entonces saber si esto
+representativo a nivel nacional
+y en segundos alguna pregunta o hoy la
+lesión el de la salud sale a decir que
+es muy necesario estar teniendo muy en
+cuenta a las personas que tienen kobe
+largo o reinfecciones nuevo que
+presentan síntomas pues a un antiguo en
+un período extendido entonces saber si
+si hay una atención especial o si se
+está planeando en tener algún tipo de
+acercamiento especiales de la secretaría
+de salud con este tipo de personas
+muchas gracias por la pregunta también
+bueno
+técnicamente estaremos empezando a hacer
+algunos estudios virológicos por sí sola
+la mutación es importante porque ya está
+caracterizada en algún otro lugar las
+mutaciones por sí solo importante como
+la mutación de 484 acá que todo mundo
+hablamos de ella por sí sola es
+importante quizá ésta sea un poco menos
+importante o menos que haya menos
+estudios pero ya de entrada es algo que
+tenemos que seguir y nosotros lo que
+estamos ahorita haciendo es justamente
+buscando por ejemplo si algunos
+pacientes que hayan sido vacunados
+y vuelven a presentar una infección los
+estamos tipificando para ver si
+contienen esta variante o no son dos los
+stress es uno de los tantos estudios que
+tenemos que hacer seguramente este
+estaremos en contacto y estaremos
+informándoles un poco como como están
+con cómo es y es cómo es el
+comportamiento de esta esta variante
+efectivamente es importante llevar a
+cabo la trazabilidad de los pacientes
+que tienen una larga o
+la enfermedad si le podemos llamar así y
+seguramente también de esos pacientes de
+esas nuestras características las hemos
+tenido también en cuenta algunas de
+ellas las hemos caracterizado y hemos
+observado si presentan o presentan al
+mismo la misma variante o no como les
+mencioné el caso de de guerrero hay
+algunos otros casos que los hemos
+analizado porque si se convierten en
+pacientes muy importantes que nos ayudan
+a conocer la la genética de este virus y
+la la prevalencia o la persistencia que
+pudiera tener este virus en en en el
+huésped y con relación a la vacuna
+específicamente pues seguramente vamos a
+asociarnos con los investigadores que
+así lo nos pueden apoyar también para
+buscar estas esas neutralizaciones
+virales que podemos hacer con con este
+con esta variante de pacientes que ya
+hayan de alguna manera montado una
+respuesta inmune si son capaces de
+neutralizar con los con los anticuerpos
+de alguna vacuna que hayan que el
+paciente ya tomó una vacuna produzca
+anticuerpos ocupar sus anticuerpos para
+neutralizar este tipo de
+este y de las que vayas vinculando y de
+las que vayamos encontrando son estudios
+que se tienen que hacer seguramente te
+las estaremos haciendo para poder tener
+información certera y definitivamente el
+largo es de interés para los sistemas de
+salud pública se está haciendo toda esta
+revisión que diferentes países
+sistemática que diferentes países
+realizan para poder hacer la
+identificación de los principales
+síntomas frecuentes asociados a este
+cómic largo y les estaremos informando
+en sesiones diferentes
+y realizaron una acotación en relación
+justo a las a las preguntas de lo
+importante precisamente para el tema de
+la salud pública y en relación a las
+mutaciones a las nuevas variedades a las
+de infecciones es precisamente poder
+identificar de manera oportuna y esto no
+solamente es un trabajo del país sino
+también de la obviamente de toda la
+congregación internacional que estamos
+en el marco de la salud pública cuáles
+pueden ser los potenciales impactos
+negativos obviamente que estas
+mutaciones variantes o de infecciones
+pueden producir en el campo de las de
+infecciones es muy importante comentar
+que hasta el momento y basado en los
+reportes tanto de la bibliografía
+internacional como lo que nosotros hemos
+encontrado al interior del país las
+infecciones que en su momento también
+producen de enfermedades es decir
+vuelven a causar un cuadro de kobe 19 en
+la persona
+sumamente raras es decir no es un
+comportamiento o no es el comportamiento
+habitual aún de la cob y 19 no es algo
+que tenga un impacto poblacional o en la
+transmisión o en su momento en la
+afectación de la epidemia esto es muy
+raro son pocos los casos que en su
+momento se han documentado y se han
+reportado a nivel internacional en
+comparación obviamente a los más de 100
+millones de casos confirmados en todo el
+mundo
+o sea con esa con esa magnitud como bien
+comenta el doctor ramírez es importante
+poder realizar estudios complementarios
+de las diferentes mutaciones que se van
+encontrando en los mismos virus que se
+aíslan al interior del país el
+seguimiento de las variantes ya
+identificadas a nivel internacional
+porque precisamente lo que se quiere
+también en su momento identificar es qué
+impacto poblacional y por lo tanto en la
+salud pública pudieran tener
+efectos sobre todo de la inmunidad
+natural es decir la posibilidad de que
+pudieran incrementarse las re
+infecciones y en este momento en donde
+ya contamos con diferentes tipos de
+vacuna como también la vacunación
+pudiera en algún momento verse afectada
+hasta el momento y del reporte que han
+emitido las diferentes fabricantes y de
+los tipos de vacunas todavía el impacto
+es menor esta situación obviamente se
+tiene que seguir vigilando y se tiene
+que seguir estudiando para actuar
+rápidamente en algún momento que dice
+que se identifique otra situación
+digamos hablando precisamente de este
+impacto poblacional solamente ponen un
+ejemplo rápido como bien se comentaba
+esta mutación que se ha identificado en
+esta en este nuevo claro que ha estado
+circulando en últimos meses pues se ha
+mantenido activa digamos para efectos de
+la frecuencia identificada en él en el
+país y en las secuenciaciones que hasta
+el momento se han hecho continúa
+inclusive siendo la principal el
+principal clave
+la mutación encontrada en el mes de
+enero y en lo que va del mes de febrero
+que prácticamente estamos ya cerrando el
+mes de febrero sin embargo si ustedes
+notan el comportamiento epidémico el mes
+de enero y el mes de febrero han
+significado precisamente una disminución
+en la intensidad epidémica no solamente
+de la carga de enfermedad es decir de
+las personas que se contagian y enferman
+sino también de las que desarrollan kobe
+grave y por lo tanto necesitamos
+totalizarse así como las que
+lamentablemente fallece entonces tenemos
+ya dos meses continuos de disminución de
+la intensidad a tire epidémica y de sus
+afectaciones obra obviamente esto es un
+marco poblacional se van a hacer los
+estudios específicos de las personas que
+tuvieron esta es teclado y esta mutación
+para en comparación con las que no las
+tienen tratar de identificar si hay
+características que en su momento le
+pudieran conferir obviamente algún otro
+impacto a esto que se acaba de de
+comentar pero esto se hará y en su
+momento se podrá también comunicar con
+oportunidad gracias
+pues muchas gracias a todas las personas
+que siguen la transmisión de esta
+conferencia vespertina a las personas
+que asisten presencialmente y a todos
+nuestros seguidores a través de las
+diferentes plataformas digitales damos
+por concluida la conferencia sin olvidar
+que la estrategia nacional de vacunación
+avanza que la epidemia no termina muchas
+gracias a todos son las 20 horas con 3
+minutos gracias por su asistencia buenas
+noches

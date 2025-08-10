@@ -1,0 +1,83 @@
+Imprimir
+Consideró que "allí debemos buscar las 
+                     clave de este recordatorio permanente que hacemos todos los 
+                     días 18 de julio".
+El acto de celebración de los 179 años 
+                     de la Jura de la Constitución de 1830 fue encabezada por el 
+                     Presidente Tabaré Vázquez en un acto que contó con la 
+                     participación de ministros, legisladores, integrantes de 
+                     las Fuerzas Armadas, y distintas autoridades nacionales y 
+                     departamentales congregados en el Cabildo de Montevideo.
+El Ministro de Relaciones Exteriores, 
+                     Gonzalo Fernández, desarrolló una vibrante alocución a 
+                     partir de la reflexión acerca del contenido de lo que 
+                     celebra nuestro país en esta fecha.
+"¿Acaso conmemoramos un acto, la 
+                     formulación de la Constitución de 1830 o un momento 
+                     simbólico, el acto de juramentarla? ¿Conmemoramos la 
+                     elaboración del texto o simplemente el acto simbólico de 
+                     juramentarlo?", expresó.
+Recordó que "la Constitución de 1830 
+                     polarizó las opiniones entre quienes le dispensaron los 
+                     mayores elogios y quienes por el contrario le atribuyeron 
+                     ser la génesis de todas las calamidades".
+El Ministro llamó a imaginar a los 
+                     autores del texto constitucional "soñando un nuevo proyecto 
+                     de país, con el ánimo encendido de los viejos profetas, 
+                     modelando el embrión de un estado naciente".
+"Es cierto que el proyecto de 1830 no se 
+                     ajustaba a la republica caudillista que era nuestro país… 
+                     Aún así, "esta Constitución logro sobrevivir casi un siglo, 
+                     y eso es la mejor prueba de sus virtudes políticas frente a 
+                     la cada vez más efímera vida de las constituciones 
+                     posteriores que le fueron sucediendo".
+"En realidad, creemos que el desajuste 
+                     del texto constitucional con la época y la realidad social 
+                     y política imperante no fue una omisión, no fue un error. 
+                     Fue algo deliberado, fue la consecuencia buscada y querida 
+                     de los constituyentes que quisieron ofrecerle a este país 
+                     un nuevo modelo normativo".
+"La Constitución de 1830 fue en ese 
+                     sentido un ejemplo de sabiduría política porque creó un 
+                     orden jurídico fundado en los principios que todavía hoy 
+                     están vigentes. Y sus normas ejercieron a pesar de todos 
+                     los pesares una constante docencia cívica. Creo que allí 
+                     debemos buscar las claves de este recordatorio permanente 
+                     que hacemos todos los días 18 de Julio".
+"Conmemoramos este día porque el Uruguay 
+                     surgió como Estado soberano en 1830, dotado de una 
+                     Constitución escrita, que organizaba un gobierno unitario, 
+                     presidencialista, con nítida separación de poderes, con una 
+                     justicia independiente y con una amplia consagración de los 
+                     derechos humanos".
+"Esa Constitución se convirtió en la 
+                     definición de un ideal político que el país buscaba 
+                     empeñosamente. Y si no fue útil como instrumento de 
+                     gobierno, sirvió de bandera a todas las revoluciones 
+                     emprendidas contra el despotismo y la arbitrariedad, 
+                     esencialmente por la tutela que la Constitución le 
+                     prodigaba a la sociedad civil".
+"La Constitución de 1830 logró resistir 
+                     los embates de la hora, vivió sin paz pero con una pertinaz 
+                     insistencia durante 87 años y se convirtió siempre en el 
+                     obstáculo más temible para el despotismo".
+La conmemoramos "porque es la Ley 
+                     fundamental que echó los cimientos para la organización del 
+                     Estado y del derecho público de esta Nación. Porque supo 
+                     articular diques contra los factores reales de poder y 
+                     sintetizar una visión anticipada, acaso enormemente 
+                     anticipada de la evolución cultural y de la conciencia 
+                     social del país".
+"La conmemoramos en el día de su 
+                     Juramento porque ella resume y estatuye todas las 
+                     instituciones y principios de gobierno aún hoy vigentes".
+El Ministro Gonzalo Fernández concluyó 
+                     su mensaje expresando que esta conmemoración tiene el 
+                     propósito "de renovar el canto laico de la democracia 
+                     política, que se juega a los paraísos invencibles de la 
+                     justicia o a los paraísos seculares de la verdad. Venimos 
+                     cada año a renovar el juramento y a repetir la oración 
+                     cívica de aquella infancia, de nuestra infancia lejana y 
+                     próxima, cuando aprendimos a amar este suelo y entrevimos 
+                     que era la tierra prometida".
+document.include('/_web/pages/derecho.htm');

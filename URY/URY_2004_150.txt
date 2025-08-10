@@ -1,0 +1,273 @@
+16/11/04
+MÁS CERTEZA EN EL MANEJO DE EXPEDIENTES
+El Presidente Batlle dijo que el sistema GEX, que
+    permite interconectar a la Presidencia con organismos estatales, le dará
+    más certeza a todo el manejo de los expedientes por parte del Estado.
+PROYECTO INTERCONEXIÓN
+Presidencia -Ministerios -Organismos
+El alcance del Proyecto implica utilizar el GEX en la WEB
+    existente en Presidencia para la conexión entre las Direcciones Generales
+    de Secretaría de los Ministerios, los Organismos involucrados y la
+    Presidencia de la República.
+A través del mismo se podrá dar seguimiento a aquellos
+    expedientes que transitan entre los Ministerios, los Organismos
+    seleccionados por el Comité de Dirección del Proyecto y la Presidencia.
+Incluye el servicio de Outsourcing y mantenimiento que
+    implica la operación y administración de los equipos, utilizando la
+    infraestructura con que UTE cuenta por un período de ocho meses.
+En esta propuesta se incluyó, además de las Direcciones
+    Generales de Secretaría de los Ministerios, aquellos Organismos que junto
+    con los primeros, intercambian el 95% del volumen de expedientes en que
+    participa la Presidencia de la República, habiéndose previsto un número
+    máximo de 20 oficinas. Los Organismos seleccionados fueron:
+-Cámara de Senadores
+-Cámara de Representantes
+-Oficina de Planeamiento y Presupuesto
+-Contaduría General de la Nación
+-Tribunal de Cuentas
+Desde enero de 2002 la Presidencia de la República tiene
+    instalada esta herramienta de gestión la cual ha brindado excelentes
+    resultados. Asimismo cabe señalar que recientemente desde la Presidencia de
+    la República este asesor ha colaborado en la instalación de dicha
+    herramienta en la Dirección Nacional de Aduanas.
+Dado el actual desempeño de esta herramienta y de las
+    mejoras sustanciales que se han introducido en la gestión de los
+    expedientes, se estima oportuno realizar la interconexión con los
+    Organismos que se identificaron como de mayor relacionamiento con
+    Presidencia de la República.
+Se espera obtener: una optimización de la
+    infraestructura informática utilizada, escalabilidad de la solución
+    planteada, los primeros pasos para la estandarización temática, un
+    seguimiento macro de expedientes entre Ministerios y desde y hacia
+    Presidencia, numeración única de expedientes, generación de carátula de
+    expedientes en Ministerios, potenciación de la comunicación electrónica
+    entre Organismos, la interconexión de la Presidencia de la República con
+    los Organismos que se identificaron como de mayor relacionamiento con ella e
+    implantación de la arquitectura tecnológica adecuada y la implantación de
+    la última versión GEX en la WEB en la Oficina Nacional del Servicio Civil
+    (ONSC) y en el Ministerio de Vivienda, Ordenamiento Territorial y Medio
+    Ambiente (MVOTMA).
+DECLARACIONES A LA PRENSA DEL PRESIDENTE DE LA
+    REPÚBLICA, JORGE BATLLE, TRAS PARTICIPAR DE LA FIRMA DEL CONTRATO CON CEPRE
+    Y UTE, PARA INTERCONECTAR A LA PRESIDENCIA CON ORGANISMOS ESTATALES16/11/2004
+PERIODISTA: Presidente, ¿qué importancia tiene este
+    contrato de interconexión para el Estado?
+PRESIDENTE
+    BATLLE: Creo que se ha culminado una etapa, que creo que es una etapa muy
+    importante para la Administración. O sea, se ha ido progresando a lo largo
+    de estos cinco años y creo que se han alcanzado ya niveles importantes,
+    sobre todo la UTE ha mostrado una gran capacidad y las declaraciones del
+    presidente, informando de las actividades que este año están haciendo
+    fuera del país, son una prueba de ello. Me parece que hacia esa clase de
+    soluciones se encamina toda la Administración del país.
+Y como lo dijo el Secretario de la Presidencia, esto
+    además le va a dar mucho más certeza a todo el mecanismo del manejo de los
+    expedientes por parte del Estado. O sea, al poderse seguir por la vía
+    electrónica la vida de cada uno de los expedientes, los interesados van a
+    estar mucho mejor defendidos en sus derechos.
+Esto ha sido bastante costoso, desde el punto de vista de
+    la instrumentación, porque todavía queda por implementar el conocimiento
+    en muchas de las personas que van a tener que manejar estas cosas. Pero se
+    ha ido progresando, y creo que el país en ese sentido ha cambiado mucho.
+Yo diría que la cosa de las más importantes para
+    anunciar es el proyecto de TATA; TATA Consultancy, que es la firma de la
+    India que está trabajando en la Zona Franca, en la ZONAMÉRICA, nos ha
+    planteado un proyecto de enseñanza que ellos van a financiar. No de
+    enseñanza en el manejo de la computadora, sino enseñanza del ejercicio de
+    lo que son los elementos para hacer, construir y organizar sistemas con los
+    mecanismos electrónicos de la computación. Ellos entienden que es
+    necesario modernizar mucho la educación y la formación, en ese sentido,
+    desde la escuela.
+Está preparando el Ministerio de Educación el pliego
+    para presentar, a quienes se sientan con capacidad, para llevar adelante
+    esos proyectos que TATA Consultancy y el gobierno de la India van a
+    financiar.
+Pretendemos que esto se instale desde la Primaria
+    -Primaria, Secundaria, y tanto la Educación Técnica como la Educación
+    Secundaria normal, y también en la medida de lo posible la educación
+    universitaria- a las distintas profesiones.
+Es algo que el Uruguay precisa y que creo que este tipo
+    de empresas lo hacen, porque además está en su propio interés, en el
+    sentido de contar con la suficiente cantidad de ciudadanos capaces de
+    ingresar a este sistema, que hoy es el sistema predominante en las
+    operaciones de todo tipo que hay en el mundo actual.
+O sea, me parece que el Uruguay se encamina -como ha
+    sucedido siempre con todo este tipo de actividades relativas al
+    conocimiento- a alcanzar niveles de los que se exigen hoy para competir.
+    Gracias.
+PALABRAS DEL SECRETARIO DE LA PRESIDENCIA, RAÚL LAGO,
+    CON MOTIVO DE LA FIRMA DEL CONTRATO CON CEPRE Y UTE PARA LA INTERCONEXIÓN
+    ENTRE LA PRESIDENCIA DE LA REPÚBLICA Y ORGANISMOS ESTATALES, EN EL EDIFICIO
+    LIBERTAD.16/11/2004
+SECRETARIO
+    LAGO: Señor Presidente, Señor Presidente de la Cámara de Diputados,
+    Señor Presidente de UTE, Señor Director del CEPRE, señores asesores
+    informáticos, Señor Presidente de ANTEL, señores ministros, autoridades
+    nacionales, señoras y señores.
+Yo diría que, a principios del año 2000, cuando se
+    analizaban distintos aspectos de lo que significaba en alguna medida los
+    desafíos a enfrentar, el Señor Presidente de la República nos trasmitía
+    y analizaba la importancia de la globalización que tanto preocupaba en ese
+    momento y ahora.
+La verdad es que era muy claro que la globalización no
+    era un tema nuevo, no era algo que se había incorporado en ese momento. Yo
+    recuerdo que un destacado dirigente político venezolano, el amigo Teodoro
+    Pecov decía: la globalización es algo así como la Ley de Gravedad.
+La verdad es que lo que cambiaba es que la
+    globalización, que siempre ha venido de una forma o de otra con
+    transformaciones, fundamentalmente en lo que tiene que ver con la
+    comunicación, en estos últimos tiempos la globalización se estaba
+    traduciendo de una manera muy especial y era lo que podíamos llamar en
+    buena medida la globalización con la revolución tecnológica.
+Todo eso de la información a tiempo real, realmente
+    produce un cambio muy sustancial en toda la vida de la sociedad.
+Ahí empezamos a hablar, en definitiva, de la sociedad de
+    la información. ¿Y cuáles fueron los primeros aspectos que se abordaron
+    desde el gobierno, desde la Presidencia de la República, en este caso con
+    la Administración Nacional de Educación Pública y los Consejos -tanto
+    Primaria, Secundaria, como la UTU- para abordar un programa concreto,
+    vinculado a esto, que se llamó de Conectividad Educativa, que realmente
+    tuvo una gran importancia, sobre todo hoy cuando analizamos los resultados
+    que se han venido produciendo en ese programa.
+Ese fue un esfuerzo inicial. ¿Por qué? Porque eran los
+    desafíos que nos presentaba la globalización y la revolución
+    tecnológica, para llevarla al nivel de la educación, procurando incluso en
+    determinado momento crear formadores de formadores, si se puede decir en esa
+    forma, a través de una acción permanente de todo el sistema de Educación
+    Pública, pero que llevó precisamente a la tecnificación y la
+    capacitación de los docentes y además, algo que realmente yo digo que se
+    encuadra perfectamente en lo que es esa revolución tecnológica, en la
+    creación de contenidos. Que, sinceramente, en las oportunidades que tuvimos
+    de llegar y conocer en algunas reuniones -precisamente, que tuvimos con la
+    gente de la UTU- nos sorprendimos de los esfuerzos y de lo que se podría
+    lograr a través de todo este especto de la revolución tecnológica, de la
+    digitalización; en fin, de todos estos aspectos que parecían realmente que
+    irrumpían en la vida del país. Pero, además de ese aspecto fundamental,
+    porque era apuntar al ciudadano del mañana, estaba también en esta
+    revolución tecnológica y en todos los aspectos de la digitalización, la
+    reforma del Estado. O sea, buscar una mejor gestión en la función
+    pública, implementando de alguna forma proyectos informáticos y
+    tecnológicos para lograr esos objetivos de mejorar la gestión pública.
+Y entonces se empezó dentro de la Presidencia de la
+    República, en convenios con ANTEL y naturalmente la acción del CEPRE, de
+    la Oficina de Planeamiento y Presupuesto, a convenios para crear lo que es
+    hoy una realidad: elPortaldel Estado uruguayo. Y eso trae aparejado
+    naturalmente que todos los trámites en línea que se pueden hacer a través
+    del Portal del Estado uruguayo benefician directamente, y en la medida en
+    que podamos seguir avanzando, al ciudadano de este país.
+Y así hay distintas oficinas nacionales, organismos, que
+    han ido incorporándose a esta nueva tecnología, así podemos hablar de lo
+    que ha venido haciendo todo el tema de compras del Estado, en donde
+    realmente se han logrado resultados muy positivos no sólo por los aspectos
+    que se han instrumentado en cuanto a la Unidad de Compras, sino también a
+    los beneficios que permite el acercamiento incluso de pequeñas y medianas
+    empresas a este sistema, y que ya hoy en la evaluación previa se puede
+    decir que ha generado ahorros significativos.
+Los últimos días, o hace semanas, estuvimos
+    precisamente en esta misma sala recordando la aplicación de un catálogo,
+    un catálogo que había iniciado UTE. Por supuesto, limitado a lo que era y
+    que se fue ampliando permanentemente hasta tener hoy una importancia
+    significativa que facilita naturalmente y hace más transparente todo el
+    sistema de compras del Estado.
+El tema de requerir hora, para poder obtener la Cédula
+    de Identidad, con la Dirección de Identificación Civil; con la Auditoria
+    Interna de la Nación poder consultar los registros de los estados contables
+    de las empresas, hoy está en marcha eso que también hace unas semanas lo
+    inauguramos. La presentación de la Declaración Jurada ante la Dirección
+    General Impositiva, que, por supuesto, a la brevedad también se
+    instrumentará la posibilidad de la Declaración de Impuestos dentro de la
+    Dirección General Impositiva. También podríamos hablar de la
+    presentación de planillas del trabajo, de la obtención de las partidas de
+    nacimientos a través del Registro de Estado Civil.
+Podemos analizar, entonces, que a través del Portal del
+    Estado uruguayo, hoy, el ciudadano de este país tiene mucha más facilidad
+    para acceder, en función de esta tecnología moderna, a buscar su solución
+    en ese sentido.
+Yo diría que hoy, además, damos otro paso; otro paso
+    realmente que nosotros consideramos de trascendencia: estamos consiguiendo
+    la interconexión de la Presidencia con prácticamente todo los Ministerios,
+    van estar en los próximos días, hoy ya tenemos incorporados creo que más
+    cerca de diez Ministerios y en los próximos días estarán todos.
+    Naturalmente, la Oficina de Planeamiento y Presupuesto, el Tribunal de
+    Cuentas, la Oficina de Servicio Civil y, naturalmente, el Poder Legislativo,
+    tanto la Cámara de Senadores como la Cámara de Diputados.
+Y
+    esto, en definitiva, permitirá hacer un seguimiento mucho más preciso de
+    todos los expedientes que se tramitan dentro de la Administración pública.
+    Las consultas podrán ser mucho más eficaces, porque el interesado -en la
+    medida en que está autorizado, porque todo eso se va regulando- podrá
+    hacer un seguimiento entonces de cómo va evolucionando ese expediente. Por
+    ello, tendremos una mejor calidad de la información, que no se va a
+    traducir simplemente en baranda o en las reguladoras de trámite, como
+    estamos acostumbrados hasta la fecha, y naturalmente la gente va a poder
+    acceder muy rápidamente a esa documentación. Y tendremos algunos aspectos
+    que parecen más simples, pero tener una numeración única y una
+    clasificación temática también única, sin lugar a dudas, va a facilitar.
+    O sea, toda esta metodología garantiza que las actuaciones del Estado, y
+    las de los gobernantes que se encuentran actuando dentro de la
+    Administración, esté a la vista de todos y para siempre.
+Yo digo que esto es otro de los aspectos, porque
+    priorizamos la eficacia y la eficiencia de la gestión pública, pero acá
+    hay otra cosa que es importante destacar: este Expediente Electrónico no se
+    pierde, no se pierden folios, siempre es legible, es fácilmente auditable,
+    porque cuando entra se puede saber cómo ha ido pasando.
+Y estos principios que surgen de todo esto, como esta
+    inalterabilidad, no se pierden folios como decía, se sabe de cuándo es el
+    texto, la fecha, el autor, todo esto realmente da muchos beneficios. El
+    control automático que surge, porque cuando hay demoras se establecen de
+    alguna forma algo así como alarmas que permiten detectar si hay una demora
+    en todo el funcionamiento. Algo que a veces pude ser considerado común, es
+    un término que en la jerga administrativa a veces se usa,
+    "cajonear" los expedientes, eso ya no es tan fácil porque surge
+    cuando hay alguien que lo ha demorado, y además se conoce el contenido y
+    esa evolución que tiene que tener. Tampoco surgirá aquello "ya lo
+    mande" si el expediente no fue mandado.
+En fin, yo creo que todas estas cosas que son, no
+    llamaría vicios, pero que son algo natural en todo el manejo de la
+    Administración, por esta vía realmente se superan y en forma importante.
+Quiero destacar que en la Presidencia de la República
+    desde el año 2002, enero del 2002, está instrumentado y en vigencia el
+    Expediente Electrónico. Por supuesto, que limitado en esa fecha y hasta
+    ahora a la Presidencia de la República.
+Pero quiere decir, entonces, que desde esa fecha toda la
+    documentación que entra en Presidencia no puede ser alterado. En
+    definitiva, aquí logramos uno de los aspectos que creo que es bueno
+    destacar: la transparencia, cuando surgen a veces dudas de qué es lo que
+    pasa con la historia administrativa del país.
+El otro día me decía el Director de la Oficina de
+    Planeamiento y Presupuesto, el estimado amigo Ariel Davrieux: tenemos a
+    veces triplicado los respaldos de toda la documentación de los últimos 20
+    años, con todo lo que significan montañas de papel en ese sentido.
+Acá no hay ninguna posibilidad ahora, en la medida que
+    se vaya formalizando esto, de tener triplicado porque todo estará muy
+    claramente determinado.
+Yo creo que, en definitiva, lo que hemos pretendido en
+    estas cosas, recogiendo la inquietud del señor Presidente Batlle y que han
+    instrumentado el CEPRE y quiénes han colaborado, tanto ANTEL como UTE y
+    como en su caso la Administración Pública y los asesores informáticos de
+    Presidencia, era más que una solución tecnológica, más que dejarse
+    deslumbrar por algo que puede aparentemente funcionar bien, buscar un
+    sistema de gestión, de reforma del Estado, que beneficiara en definitiva a
+    los ciudadanos.
+Sin duda, en todo esto va a haber necesidad de
+    adecuaciones institucionales porque todo esto trae cambios realmente
+    profundos, que tendrán que seguirse instrumentando, pero de cualquier
+    manera esto lo que permite es, sin lugar a dudas, fortalecer la gestión
+    pública y buscar sobre la base institucional que hoy tenemos para que estos
+    programas se transformen realmente en una verdadera incorporación de
+    tecnología.
+En definitiva, yo quisiera en primer lugar agradecer a
+    todos los que han trabajado, y que son muchos en cada uno de los
+    Ministerios, naturalmente con UTE y CONEX que son con los que vamos a firmar
+    hoy esta nueva etapa; a la Presidencia de la República, a ANTEL, en
+    definitiva también -por qué no decirlo- a la colaboración que tuvimos con
+    el Banco Interamericano de Desarrollo, sobre todo en la primera
+    instrumentación del Programa de Conectividad Educativa, y al mismo tiempo
+    hoy estamos recibiendo a especialistas que nos van a permitir, entre el
+    CEPRE y la Auditoria de Presidencia, seguir analizando cuáles son los
+    caminos que habremos de recorrer hacia el futuro.
+Pretendemos, entonces, cumplir con esa obligación que
+    tienen los gobernantes de buscar, dentro de lo posible, la igualdad de
+    oportunidades a los ciudadanos, mayor eficacia en la gestión pública, y
+    por sobre todo algo que ha sido un desvelo de este gobierno: la mayor y
+    absoluta de las transparencias en las gestiones que se realizan. Gracias.

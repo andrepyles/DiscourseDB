@@ -1,0 +1,78 @@
+Imprimir
+Participaron en la nueva presentación 
+                     del servicio  telefónico la ministra del Interior, Daisy 
+                     Tourné, el director de Asuntos Internos,  del Ministerio de 
+                     Interior, Héctor Di Giacomo, el presidente de Antel, 
+                     Edgardo Carvalho y el director del IMPO, Álvaro Pérez Monza.
+Con el slogan “Construyendo Seguridad y 
+                     Confianza” se relanzó formalmente en todo el país el 
+                     servicio que ya brinda el Ministerio del Interior a la 
+                     ciudadanía,   que busca mejorar su gestión a través de la 
+                     línea telefónica 08005000.
+Este servicio, dependiente de la 
+                     Dirección de Asuntos Internos, recibe aquellas llamadas 
+                     relativas a todo el funcionamiento del Ministerio del 
+                     Interior también denuncias donde se comuniquen delitos de 
+                     cualquier índole que se pretendan dar a conocer( artículo 
+                      92,  Ley de Procedimiento Policial).
+Desde el 1º de setiembre del año pasado 
+                     el horario de atención es de 8 a 20 horas de lunes a 
+                     sábados.
+A través de esta línea gratuita, el 
+                     usuario también puede solicitar información sobre los 
+                     distintos servicios que brinda el Ministerio, establecer 
+                     quejas referidas a la función policial, o informarse sobre 
+                     como proceder para realizar una denuncia.
+La ministra Tourné dijo que esta 
+                     iniciativa exige una  fuerte campaña  de difusión de una 
+                     herramienta con la que cuentan la ciudadanía y también la 
+                     Policía.  Asimismo, destacó el compromiso de empresarios, 
+                      del Estado y de los funcionarios que contribuyen a que 
+                     esta línea funcione. Informó que  se reciben nueve mil 
+                     llamadas por mes y apeló a la importancia del reforzamiento 
+                     de  vínculos entre la Policía y los ciudadanos.
+El director de Asuntos Internos, Héctor 
+                     Di Giacomo indicó que la línea telefónica 0800 5000 depende 
+                     de su Dirección y coincidió en el anhelo de que  ésta sea 
+                     un nexo de comunicación entre la sociedad y el Ministerio 
+                     del Interior.
+Por otra parte, recordó que esta 
+                     posibilidad,  desde hace años está en funcionamiento y que 
+                      ha sido fundamental por la cantidad de insumos que aporta 
+                     día a día para poder mejorar.  En la consideración del 
+                     jerarca,  lo más importante es el conocimiento que acerca 
+                     de esta herramienta tenga la población en general, para que 
+                     pueda así recurrir a este mecanismo.
+Además, aseguró que se brinda permanente 
+                     asesoramiento a la población en cuánto a los trámites que 
+                     debe realizar. Insistió en el concepto de “la comunicación 
+                     entre la sociedad y el Ministerio para que la población 
+                     pueda aportar aquellos defectos que detecta en el sistema 
+                     de trabajo de la Policía.”
+El Director de Asuntos Internos exhortó 
+                     a la población a que aporte datos que puedan servir para el 
+                     esclarecimiento de delitos. En este sentido, informó que ya 
+                     están recibiendo este tipo de llamadas. Explicó que unos 
+                     veinte casos se llegaron a aclarar gracias a estas llamadas 
+                     y aclaró especialmente que el servicio mantiene el 
+                     anonimato del denunciante.
+Por otra parte, cuarenta mil afiches 
+                     impresos por el IMPO con la imagen de policías prestando 
+                     servicios, podrán verse en la mayoría de comercios, 
+                     estaciones de servicios y centros de cobranzas de facturas 
+                     del país.
+Por otra parte,  Antel enviará a los 
+                     usuarios de Ancel mensajes de textos, con el número 
+                     gratuito como  forma de promoción de la línea.
+Colaboraron para la concreción de esta 
+                     iniciativa las cadenas Abitab, Redpagos, Cambadu, la Unión 
+                     Nacional de Vendedores de Nafta, la Cámara de Alimentos, 
+                     que integran panaderías, carnicerías y fábricas de pastas, 
+                     supermercados y centros comerciales del interior.
+Por otro lado,  se sumarán más 
+                     computadoras a las comisarías para que sea posible la 
+                     elaboración de  una red de datos.  En un futuro,  se prevé 
+                      que con cada denuncia se le otorgue un número al 
+                     ciudadano,  para que en lo sucesivo  pueda consultar 
+                      acerca del curso  en  se encuentra la misma.
+document.include('/_web/pages/derecho.htm');

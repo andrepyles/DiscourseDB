@@ -1,0 +1,230 @@
+República de Chile
+Presidencia
+Secretaría de Prensa
+Con improvisación
+Intervención de S.E. el Presidente de la República,
+D. Ricardo Lagos Escobar, en seminario de la Asociación
+De Periodistas Digitales de América Latina - PEDAL
+Santiago, 8 de mayo de 2002
+Saludo
+Amigos y amigas:
+Estuvimos juntos acá en noviembre del 2000, donde se hizo en primer Seminario
+"Chile Digital: De los Sueños a la Realidad". Y ese fue el primer encuentro que
+hubo entre el Gobierno, empresas de tecnologías de la información y los periodistas
+del sector de las tecnologías de información.
+Seminario 2002
+Y creo que la presente versión es un buen momento como para revisar lo que
+hemos ido haciendo, las tareas que tenemos por delante y también la importancia
+que tiene el esfuerzo que aquí se está haciendo.
+Cómo superamos la brecha en Chile: infraestructura
+En Chile estamos conscientes que existe hoy una brecha todavía ente el mundo
+desarrollado y el mundo en vías de desarrollo, en este ámbito. Y tenemos un
+conjunto de políticas públicas que nos apuntan a cómo superar la brecha:
+3526 04
+1. Cómo desarrollamos una infraestructura en el ámbito de telecomunicaciones;
+2. Cómo fomentamos el acceso a nuevas tecnologías;
+3. Cómo somos capaces de generar un conjunto de medidas legales y
+reglamentarias para empujar la nueva economía;
+4. Cómo somos capaces de abordar el tema de educación y capacitación; y
+5. Cómo somos capaces de hacer lo nuestro, a través de un gobierno electrónico.
+Es en estos cinco campos que hemos venido trabajando para poder acortar la
+brecha, y en donde a ratos el énfasis en uno o en otro de estos temas nos impide
+ver la globalidad del enfoque que estamos haciendo.
+Tener una infraestructura en el ámbito de telecomunicaciones de punta, es el punto
+inicial que nos permite seguir avanzando.
+Aquí hoy tenemos, como ustedes saben, un ámbito de telecomunicaciones
+íntegramente en manos del sector privado; no tenemos restricciones a la inversión
+extranjera ni limitaciones al desarrollo de nuevos negocios; y hoy día tenemos
+redes digitales en un 100 por ciento; telefonía móvil con una penetración del 34 por
+ciento respecto a la población, superando a la telefonía fija, que es de un 23 por
+ciento; tenemos la más alta tasa de penetración de Internet en América Latina;
+conexión de banda ancha con el resto del mundo mediante fibra óptica submarina.
+Y recientemente se han introducido con éxito la telefonía fija inalámbrica, y está en
+etapa experimental la tecnología PLC, que permite la transmisión de información de
+alta velocidad a través de la red eléctrica. No necesito decir que este último
+elemento, que está de una manera tentativa en Chile, como país experimental, junto
+con otras experiencias similares en España, introducirían una revolución que es
+difícil todavía conceptualizar. Pensar que por el tendido eléctrico vamos a poder
+transmitir información, es realmente un elemento muy revolucionario. Y, por cierto,
+este año se espera introducir el acceso inalámbrico de banda ancha y el sistema de
+trunking digital radial.
+Todo esto nos permite apuntar que calculamos que de aquí hacia el 2005-2006
+tendremos inversiones en este ámbito de alrededor de 1.000 millones de dólares.
+Conectividad
+El segundo elemento, a partir de la infraestructura, es cómo somos capaces de
+generar un aumento en la conectividad, que es tal vez la tarea más urgente, porque
+en el acceso a la conectividad es tal vez el elemento más democratízador al cual
+podemos aspirar. Y aquí de nuevo, como en muchos otros campos, la
+colaboración público-privada pasa a ser fundamental, y el apoyo internacional
+también. Y es en este sentido el aprovechamiento que hemos venido haciendo en
+Chile, tanto del mundo privado como de los esfuerzos que se hacen a nivel
+internacional.
+Señalé la necesidad de tener Infocentros a lo largo del país, centros abiertos a la
+comunidad que estén conectados a Internet, y que se han convertido en iniciativas
+tremendamente populares en todas las regiones del país. Están orientados a las
+familias de escasos recursos, a la microempresa, la tercera edad, minorías étnicas,
+zonas rurales y regiones apartadas. De un total de más de 200 Infocentros, 55
+están dedicados en forma exclusiva a pequeña y mediana empresa. A estos,
+estamos experimentando, a partir del 2003, la posibilidad de abrir como Infocentros,
+los establecimientos educacionales que están conectados a Internet, y que
+prácticamente no tienen utilización después de las seis o siete de la tarde. En
+consecuencia, convertir la escuela en un Infocentro después que se cierra la
+escuela y los alumnos la abandonan. Eso tiene ciertas implicancias financieras, y
+estamos viendo modo de poder financiar adecuadamente la apertura de las
+escuelas como Infocentros después de las seis de la tarde. +
+El otro elemento que ha sido fundamental en conectividad, es algo que comienza
+este año, y es el fomento al acceso que se han adoptado, como la dotación de 368
+bibliotecas públicas del país, todos los cuales hoy tienen terminales de computación.
+Aquí la Fundación Gates ha sido fundamental, es la primera experiencia de la
+Fundación Gates en un país emergente, para poder hacer que la totalidad de las
+bibliotecas públicas de Chile están dotadas y conectadas a Internet. +
+Nueva economía
+En tercer lugar, cómo somos capaces de fomentar el ámbito que dice relación con
+generar un ambiente propicio a la nueva economía y al comercio electrónico.
+Resalté, respecto al tema de conectividad, los esfuerzos que se han hecho por
+dotar, a través de programas financiados por la Corporación de Fomento y
+empresas privadas, como Sonda, para poder entregar computadores a precio
+especial, tanto a profesores como a empresarios de pequeña y mediana empresa.
+En tercer lugar, respecto al tema de la nueva economía, hemos generado un
+conjunto de cambios en la legislación que apunta en esta dirección. La Cámara de
+Comercio de está estimando que el comercio electrónico ascendió
+aproximadamente a 2 mil millones de dólares, un 3 por ciento del Producto Interno
+Bruto, actualmente, cifra que cuadruplica la que había el 2000, y cifra que está
+lejos de los 12 mil millones de dólares que se estima será el comercio electrónico en
+Chile hacia el año 2005. +
+Por lo tanto, el comercio electrónico es el nuevo ámbito de desarrollo de la nueva
+economía y es la razón por la cual este año afortunadamente logramos promulgar
+la ley de firma electrónica, estamos impulsando fuertemente la factura electrónica,
+los medios de pago vía Internet, compras públicas electrónicas y la mayor
+protección a los derechos del consumidor en el comercio electrónico, así como los
+derechos de propiedad intelectual.
+Y de igual manera, con motivo de la Reforma al Mercado de Capitales II, se creó
+una bolsa de valores emergentes, se liberalizaron las industrias de seguros y fondos
+mutuos, se expandieron mecanismos de ahorro voluntario y se modernizó la ley
+bancaria para promover competencia y banca especializada. Todo esto tiene que
+ver directamente con el ámbito de la incorporación de nuevas tecnologías en el
+ámbito de la actividad de capital de riesgo y la actividad bancaria.
+Y luego, también, hemos sido capaces de generar, a través de fondos tecnológicos,
+el desarrollo de proyectos de mercado intensivos en tecnologías de información. Es
+decir, cómo generamos un espacio para poder, en tecnología de la información,
+muchos de los proyectos que ustedes desarrollan puedan tener y ser acogidos en
+este ámbito a partir de recursos públicos.
+Educación y capacitación
+En cuarto lugar, el tema tal vez más desafiante, es la relación de educación y
+capacitación. Una política coherente de ingreso a la era digital es cómo es el
+esfuerzo que hacemos en el ámbito educativo. La Red Enlaces, parte de los cuales,
+uno de los que hoy día fue premiado tiene que ver con ello, ha dotado a escuelas y
+liceos de terminales de computación con conexión a Internet en un 90 por ciento de
+cobertura de la población escolar estatal y subvencionada, 90% de cobertura. A
+fines del año 2001, todos los textos escolares fueron puestos en la red a través del
+Portal Educativo del Estado, en un tremendo esfuerzo público-privado. +
+Y en el ámbito de la capacitación, otorgamos subvenciones estatales para capacitar
+nuevas tecnologías de información, básicamente a los profesores.
+El tema más complejo y difícil en este ámbito es cómo somos capaces de capacitar
+profesores. Usted puede llegar con Enlaces a los establecimientos, puede llegar
+con computadores, pero si el que hace la revolución en la sala de clases, que es el
+profesor, no está directamente involucrado, difícilmente vamos a avanzar.
+En consecuencia, el tema más complejo que tenemos en este momento, no
+solamente es un tema de cobertura que nos satisface, 90%, pero 90% de cobertura
+quiere decir que hay un 90% de escuelas conectadas. Ahora, la cantidad de
+computadores que dentro de cada escuela existe, es otro tema. Segundo, la
+capacidad de utilización de esta conectividad, que es muy elevada, por parte de los
+profesores, es tal vez el desafío más grande que en este instante tenemos.
+Sin embargo, el desarrollo de páginas con alto contenido educacional, como el
+Portal Educativo o el Portal Cultural, son elementos que en este instante Chile está
+siendo pionero y creo que estamos en condiciones de poder seguir avanzando en
+colaboración con otros países latinoamericanos, a quienes les estamos ofreciendo
+este portal.
+En este contexto, el acuerdo suscrito recientemente con la Unión Europea
+contempla, entre otros, en el acuerdo Chile-Europa, la creación de redes de
+excelencia para investigación científica, proyectos integrados, para ayudar,
+precisamente, a abordar un conjunto importante de temas.
+Hace pocas semanas, en Sevilla, en la reunión ministerial Unión Europea, América
+Latina y el Caribe, preparatoria de la Cumbre de Madrid de la semana próxima, hubo
+también un acuerdo significativo en donde en Sevilla se resolvió aumentar la
+interconexión entre las redes de investigación de las Comunidades europea y
+latinoamericana.
+De hecho, según las previsiones, el número de proyectos de investigación y
+desarrollo sobre cuestiones referentes a sociedad de la información, que interesen a
+los asociados, va a aumentar a lo menos en un 20% durante los próximos cuatro
+años, dado lo que se planteó como desafío en Sevilla.
+En otras palabras, creo que aquí tenemos un ámbito nuevo e inédito: cómo
+establecemos estos avances que tenemos aquí y la posibilidad de conectarnos y
+aprovechar mejor lo que estamos haciendo también en Europa.
+Los becarios que van a Alemania, una tarea importante es cómo aprovechar esta
+posibilidad. De igual modo como hemos sido capaces de abrir espacios en Estados
+Unidos, con Silicon Valley.
+Gobierno electrónico
+La última área que hemos abordado es la que dice relación con las actividades
+propias del gobierno y lo que hemos hecho en el ámbito de gobierno electrónico. Y
+aquí yo creo que hemos dado un impulso contundente, grande, innovador.
+Nos hemos planteado tres metas: uno, cómo hacemos mejor atención de público;
+dos, cómo introducimos eficiencia en la gestión; y tres, cómo generamos una mayor
+participación, con proyectos transformadores, al alcance de todos, y que consideren
+los efectos geográficos, sociales, etéreos, etc.
+Hoy día, en materia de atención de público, es posible solicitar -bueno, si no están
+en huelga-, certificados de registro civil, es posible pagar contribuciones de bienes
+raíces, pagar cotizaciones previsionales, presentar documentos de internación y
+exportación de mercancías, inscribir una marca o patente o postular a subsidios de
+vivienda o a crédito fiscal universitario por Internet. Todas las postulaciones al
+sistema universitario este año, por primera vez se hicieron todas vía Internet, todas.
+Todos los muchachos, todos los alumnos, se incorporaron vía Internet.
+El haber sido capaces, a través de Impuestos Internos, que la forma de poder
+participar en la declaración de impuestos se haga a través de Internet, significó que
+este año más del 50% de las declaraciones se hicieron vía Internet. Y, más
+importante, el que Impuestos Internos elaborara un borrador de declaración al
+contribuyente, que se le entregaba directamente, y era lo que Impuestos Internos
+creía que era lo que debía declarar el contribuyente, unido a la línea 800, que le
+permitía a cada contribuyendo hablar con Impuestos Internos respecto a la
+declaración, ¿qué ha significado en la práctica? El que la expansión del sistema
+Internet en el mundo de los contadores y la contabilidad, ha sido enorme.
+Prácticamente ningún contador está en condiciones de participar con un cliente, por
+modesto que sea, en su declaración tributaria, si no está conectado a Internet. +
+Es en ese sentido que digo: lo que se hace del punto de vista de gobierno, ayuda a
+expandir la red como muy pocas otras actividades lo ayuda.
+Y en ese contexto, entonces, lo que se ha hecho con Impuestos Internos es un
+elemento, yo diría, pionero en la región, y me atrevería a decir, en el mundo. Son
+7
+pocos países en donde se está en condiciones de avanzar en esta forma como aquí
+se ha hecho, y creo que del punto de vista de gobierno electrónico, ha sido muy
+importante.
+Y más recientemente, estamos haciendo un esfuerzo en que ciertas iniciativas de
+modernización del aparato del Estado contemplan el enlace de distintas páginas
+estatales. Estamos haciendo el portal Trámite Fácil, que contiene información
+respecto de 1.300 trámites correspondientes a 88 servicios, de los cuales más de 80
+pueden llevarse a cabo en línea. +
+En otras palabras, creo que a través de este sistema estamos en condiciones de
+abrir un portal de características muy inéditas.
+Final: becas
+Es en este sentido que creemos que estamos haciendo el esfuerzo que nos
+propusimos cuando comenzamos el año 2000 el gobierno, a dar un gran impulso en
+torno a estos cinco rubros, y en donde creo que vamos a tener un país que va a
+estar, a la mitad de esta década, a la cabeza en materia de infraestructura,
+conectividad, educación y, lo más importante, yo diría, gobierno electrónico.
+Si eso lo mantenemos así, entonces creo que el efecto que estamos planteando del
+punto de vista de las tareas que más interesan a ustedes, de lo que significa un
+periodismo de información en la forma que ustedes lo están planteando, pasa a ser
+muy determinante.
+Todas estas nuevas tecnologías tienen un tremendo efecto multiplicador, e
+indudablemente que acá hay un tema de cómo los gobiernos no podemos ser
+indiferentes a lo que está ocurriendo. Cómo entendemos que la evolución implica
+una cierta lógica a la cual tenemos que dar, y cómo hacemos que las políticas
+públicas se adapten a lo que es esta nueva realidad.
+En ese sentido, creo que lo que ustedes están haciendo es algo importante, lo que
+ustedes están haciendo de generar este seminario cada cierto tiempo, entre
+gobierno, empresas y periodistas, es la forma de poder abordar adecuadamente
+esta tarea del punto de vista de toda la región.
+En ese sentido, les deseo el mayor de los éxitos en las tareas que van a tener en
+este segundo encuentro, y esperemos que en el tercer encuentro podamos de
+8
+nuevo tener nuevas becas que entregar, hacer un balance de lo que hemos
+realizado, y si así lo hacemos, no me cabe duda que esta Asociación de Periodistas
+Digitales de América Latina va a ser también capaz de marcar rumbos como lo ha
+venido haciendo hasta ahora, en la relación de estos tres actores que son
+fundamentales.
+Después de todo, el elemento más democratizador que podemos tener, a través de
+las nuevas tecnologías de la información, es que sirvan para una población más
+informada, Y en eso, la tarea les corresponde a ustedes.
+Muchas gracias.
+*****
+Santiago, 8 de mayo de 2002.
