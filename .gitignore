@@ -1,0 +1,8 @@
+# bases tabulares derivadas ou volumosas
+*.parquet
+*.xlsx
+
+# artefatos locais
+*.csv
+*.jsonl
+__pycache__/
