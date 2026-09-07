@@ -10,7 +10,7 @@ DiscourseDB is an open, structured corpus of presidential and executive politica
 
 ## Coverage
 
-The repository contains 19 country folders, covering presidential discourse from 2000 to 2025:
+The repository contains 19 country folders. The cataloged 18-country corpus runs from 2000 onward (through 2024 in the historical release); the Cuban supplement extends through 2025:
 
 | ISO3 | Country |
 |---|---|
