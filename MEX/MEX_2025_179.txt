@@ -1,0 +1,3312 @@
+Buenos días.
+Se nos hizo un poco tarde.
+Disculpen a quienes nos ven, nos oyen y
+a ustedes.
+Bueno, el día de hoy vamos a hablar de
+dos de los proyectos
+de
+investigación y desarrollo tecnológico,
+que es parte del programa de nación de
+los 100 puntos de compromiso con el
+pueblo de México.
+Para ello está con nosotros la doctora
+Rosaura Ruiz, secretaria de Ciencia,
+Humanidades, Tecnología e Innovación.
+Está también el Dr. Arturo Reyes
+Sandoval, director general del Instituto
+Politécnico Nacional, el maestro Ramón
+Jiménez, director general del
+Tecnológico Nacional de México.
+Y como parte de o el liderazgo que lleva
+los dos proyectos que vamos a presentar
+hoy, está Roberto Capuano
+y Rafael
+Garayoa, que son Roberto es el
+coordinador general del proyecto Olínea
+y también Rafael es coordinador del
+proyecto y después Edmundo Antonio
+Gutiérrez Domínguez que es director
+general de Innova Bienestar y que nos va
+a hablar de el proyecto del taller de
+diseño de semiconductores que van muy
+avanzados y nos visitan el día de hoy
+investigadores y investigadoras que son
+parte de ambos proyectos. Estamos muy
+contentos, va muy avanzado y el día de
+hoy pues presentamos estos avances. Para
+ello le pido, bueno, y está Miguel
+Elorza también para cerrar con el
+detector de mentiras.
+Lo dejaron ahí atrás, doctor. A usted.
+Pásese para adelante para que no Bueno,
+Rosaura,
+con su permiso, presidenta.
+Buenos días todos y todas. La Secretaría
+de Ciencias, Humanidades, Tecnología e
+Innovación, la CCIT, además de dar
+continuidad y fortalecer todos los
+programas que tenía el CONASIT como
+becas de posgrado, posdoctorado, el
+sistema nacional de investigadores,
+investigadoras, los proyectos de
+investigación, el apoyo a todas las
+instituciones, entre otros, estamos
+impulsando nuevos proyectos en los que
+colaboramos con las secretarías de
+Estado y las entidades federativas.
+Asimismo, estamos impulsando la
+formación de cuadros especializados
+desde el bachillerato hasta el posgrado
+en temas prioritarios para el país.
+Conducimos las nuevas universidades
+también de Rosario Castellanos.
+Además, conducimos proyectos
+estratégicos encargados con por la
+presidenta que nacen de una articulación
+inédita entre las necesidades reales de
+la sociedad mexicana, instituciones como
+la UNAM, Instituto Politécnico Nacional
+y Tecnológico Nacional de México y demás
+universidades y también los centros
+públicos de investigación de la CESIT,
+por ejemplo. Hoy les vamos a presentar
+el estado actual de dos de estos
+proyectos. Kutsari para el diseño y la
+fabricación de semiconductores y Olíia
+para la construcción de un vehículo
+eléctrico. Es importante destacar que el
+desarrollo de las ciencias básicas como
+la física, las matemáticas, la química,
+la biología, etcétera, también las
+ciencias sociales son indispensables
+para el avance de la tecnología. Por
+ejemplo, los semiconductores del
+proyecto Kutsari son el resultado de el
+resultado fascinante de la física de
+partículas, los chips, los
+microprocesadores, que son como
+pequeñísimas computadoras con miles o
+millones de transistores integrados
+apenas en un área pequeñísima como la
+que tiene nuestro teléfono celular y
+otros eh instrumentos son surgen
+precisamente de los semiconductores de
+esa estudio de la mecánica cuántica. Por
+su parte o línea nace del principio
+rector que guía este gobierno, la
+ciencia como fuente de bienestar social
+y prosperidad compartida. Esta
+tecnología está pensada para ser un
+vehículo para múltiples usos, más
+seguro, más ecológico y más accesible
+para miles de personas. Este proyecto
+propone soluciones hechas en México para
+México y lo hace con un propósito claro
+de mejorar la vida de quienes lo
+utilizan. Lo que verán adelante sobre
+Olinia y Kutsari, además de ser avances
+de los proyectos prioritarios, son el
+inicio de una nueva etapa del país, en
+donde la ciencia y las humanidades se
+convierten en justicia social y la
+tecnología en soberanía. Muchas gracias.
+Va a empezar eh con Mundo, por favor.
+¿Puedes pasar? Vamos a
+Gracias.
+Gracias,
+por favor. El el video.
+Kutsari, que significa arena en
+Purépecha, es un proyecto estratégico
+impulsado por la presidenta Claudia
+Shane Bombardo y coordinado por la
+Secretaría de Ciencia, Humanidades,
+Tecnología e Innovación, CESCI, que
+busca incorporar a México en la cadena
+de proveeduría de semiconductores y
+avanzar hacia la soberanía tecnológica.
+Los semiconductores son materiales que
+tienen propiedades muy interesantes. A
+diferencia de los materiales conductores
+en donde los electrones transitan
+libremente o los aislantes como los
+plásticos en donde los electrones no
+pueden transitar en ese material, en los
+semiconductores, a través de diferentes
+estímulos externos podemos permitir o
+detener el tránsito de los electrones. Y
+esa propiedad pues la hace muy útil para
+muchos de los dispositivos y muchos de
+los avances tecnológicos que hoy gozamos
+en la sociedad.
+Quizás el circuito más conocido es el
+microprocesador, que está en todos los
+equipos electrónicos que realizan cierta
+inteligencia, la computadora, los
+celulares, las tablets, las pantallas,
+todo lo que vean con electrónica que
+tiene algún grado de interacción con el
+ser humano, todo conlleva
+semiconductores.
+Los semiconductores se utilizan para
+fabricar circuitos integrados como
+chips. En México tenemos aproximadamente
+cuatro décadas de experiencia a nivel
+académico y de investigación en el
+diseño de circuitos integrados. El
+objetivo principal de Kutzari es tomar
+estos grupos, estas personas con
+capacidad de desarrollo tecnológico de
+alto nivel y concretar un centro que
+pueda competir a nivel industrial y
+nivel global. fabricar nuestros propios
+semiconductores, tener nuestra cadena de
+diseño y fabricación de estos circuitos
+para poder generar nuestra propia
+tecnología.
+Kutsari articula capacidades existentes
+en tres nodos para conformar el Centro
+Nacional de Diseño de Semiconductores en
+Puebla, Jalisco y Sonora.
+El grupo es multidisciplinario porque
+llegar a generar un circuito integrado
+es una tarea ardua que requiere mucho
+talento y mucho compromiso. Estas
+personas son, yo diría, las más
+talentosas como grupo de este país y
+creo yo que cuando quieres realizar un o
+afrontar un reto como lo es el proyecto
+Kutzari, tiene que escogerse al mejor
+equipo.
+Este proyecto Kutsari es verdaderamente
+una apuesta muy inteligente por parte
+del gobierno mexicano para entrar a
+competir en el ámbito de diseño de
+semiconductores y tener presencia a
+primer nivel en el mundo actual.
+Estamos en un momento muy importante
+porque tenemos la gran ventaja de que a
+nivel gobierno se tiene la voluntad de
+hacer. Hay industria que está teniendo
+ganas de venir y nosotros los
+investigadores o la academia estamos
+estamos colaborando.
+Por primera vez esta parte del diseño de
+circuitos integrados se está tomando la
+relevancia que realmente tiene en el
+mundo.
+Ser parte de un proyecto estratégico de
+la primera presidenta de México es un
+reto que todos en Cutzari estamos
+dispuestos a a llevar a buen fin para
+lograr la soberanía de México en el área
+de diseño de circuitos integrados.
+Tenemos las bases, tenemos el entusiasmo
+y tenemos la capacidad humana y de
+infraestructura para poder desarrollar y
+llegar algo real que nos empuje como
+país en donde comencemos a hacer este
+gran desarrollo que es más que
+necesario.
+Gobierno de México.
+Muy buenos días a todas y todos. Muy
+buenos días, eh, presidenta. Es un honor
+y es un placer estar aquí por segunda
+vez y darles eh un reporte de
+actividades. Muy buen día. Eh, doctora
+Rosaura Ruiz Gutiérrez, secretaria de
+Ciencia, Humanidades, Tecnología e
+Innovación. Buen día a todos los que nos
+acompañan eh aquí al frente y a la
+audiencia en general. Eh, el día de hoy
+voy a hacer un reporte de actividades
+realizadas del mes de febrero al mes de
+julio. Voy a presentar cinco puntos eh
+de manera breve. Voy a hablar sobre las
+tres unidades eh de diseño el del Centro
+Nacional de Diseño de Semiconductores
+Kutzari, ubicadas en la ciudad de en el
+estado de Puebla, en particular en la
+ciudad de Cholula, en el estado de
+Jalisco, en la ciudad de Guadalajara y
+en el estado de Sonora eh en la ciudad
+de Hermosillo.
+Les hablaré también un poco sobre
+ejemplos,
+un ejemplo de innovación.
+Por favor, si
+si regresan a donde estábamos.
+Les hablaré también sobre e un ejemplo
+de innovación eh que nos ha permitido
+llevar la investigación y el desarrollo
+tecnológico del nivel académico a un
+prototipo que puede ser aplicado en el
+sector salud.
+Les mostraré también un poco sobre
+vinculación, eh lo que hemos hecho en
+vinculación, las acciones en proceso
+hacia diciembre del año 2025 actual y
+finalmente un cronograma de actividades.
+Bien, lo que quiero comentar aquí
+básicamente es que tenemos tres unidades
+con las cuales hemos trabajado y quiero
+en este momento reconocer a los
+gobiernos de los estados de Puebla,
+Jalisco y Sonora por el apoyo decidido
+que nos han estado dando, no solamente
+con apoyo económico, sino con todo el
+apoyo logístico, el apoyo en
+infraestructura y sobre todo lo más
+importante, el apoyo en recursos humanos
+de alto nivel tecnológico. ógico. En
+este momento en Puebla estamos listos
+para la inauguración, señor doctora
+presidenta. Estamos listo, listos, lo
+van a ver en las imágenes siguientes.
+En Jalisco estamos trabajando eh de
+manera articulada con el Simbestf,
+Unidad Guadalajara. Tenemos también ya
+eh un espacio disponible allí para
+empezar a trabajar y con Sonora firmamos
+un convenio que nos va a permitir eh la
+instalación de la unidad en la
+Universidad de Sonora en la ciudad de
+Hermosillo. Esto fue lo que hemos
+realizado durante el mes de julio,
+perdón, de febrero a julio, en cuanto a
+establecer las condiciones básicas, el
+diálogo y los convenios con estos tres
+gobiernos. para iniciar operación
+en estas tres unidades. La que sigue,
+por favor.
+Bien. ¿Por qué Puebla? Lo que están
+mirando ahí son unas imágenes del
+espacio físico con el cual ya contamos
+en Puebla. Gracias al apoyo decidido del
+gobierno de Puebla. Estas instalaciones
+están ubicadas en la ciudad de Cholula y
+básicamente hemos elegido Puebla por ser
+un polo académico generador de talento
+eh de alto nivel en diseño de
+dispositivos semiconductores.
+Eh conjuntamente en estos tres lugares
+tenemos una experiencia de más de cuatro
+décadas en el sector académico de
+investigación y de desarrollo eh
+tecnológico.
+Cholula. Cholula representa mucho.
+la combinación del rescate de toda una
+tradición, una cultura reflejada en la
+ciudad milenaria, la ciudad más antigua
+del continente americano que ha estado
+continuamente habitada y que ha sido un
+pilar para el desarrollo de la cultura,
+el desarrollo de la identidad de México
+y sobre todo porque se caracterizó por
+ser un centro religioso, ser un centro
+de religioso en su momento por ser un
+centro de
+gobierno y por ser un centro de
+intercambio comercial. Hoy en día
+rescatamos eso ubicando el centro en
+Cholula, además de que contamos con
+centros de investigación y la
+Universidad Autónoma de Puebla eh que
+nos permite nutrirnos de recursos
+humanos. La que sigue, por favor.
+Guadalajara. Guadalajara, el estado de
+Jalisco en general y la ciudad de
+Guadalajara se han caracterizado desde
+hace ya muchas décadas de ser un polo de
+atracción de la industria de la
+electrónica y de los semiconductores en
+general. y las universidades y el los
+entes académicos que están en
+Guadalajara, como es la Universidad de
+Guadalajara, el Simbestf y muchos otros
+como el ITESO también en el sector
+privado, eh han realizado un trabajo de
+interacción con el sector industrial que
+ha establecido las condiciones eh
+mínimas necesarias para poder hacer ese
+enlace entre la academia y la industria.
+Por esa razón elegimos también
+Guadalajara porque complementa el
+desarrollo de talento humano de alto
+nivel en Puebla. La que sigue,
+¿por qué Sonora? Sonora, básicamente es
+un estado que tiene un proyecto muy
+interesante, eh, el Plan Sonora, que
+básicamente en el caso específico de
+electrónica y semiconductores tiene una
+relación estrecha con el estado de
+Arizona, en Estados Unidos, donde se
+está dando un desarrollo de la industria
+de semiconductores muy fuerte. En Sonora
+contamos no solamente con el apoyo del
+gobierno del estado de Puebla, sino de
+la Universidad de Sonora, del
+Tecnológico Nacional de México y muchas
+otras instituciones locales en las con
+las cuales vamos a estar participando
+para generar y para empezar en el mes de
+en este mes de agosto con un programa de
+capacitación acelerada, no solamente
+para los investigadores que se están
+uniendo en Sonora, sino para otros
+investigadores. y estudiantes de todo el
+país. La que sigue, por favor.
+Eh, en cuanto a la innovación,
+eh, es importante mencionar aquí que
+este es un asunto inédito en México, al
+menos en el caso de la electrónica y los
+semiconductores.
+Es la primera vez que gracias a la
+iniciativa y a la decisión política del
+actual gobierno federal de México y la
+participación de varios estados de la
+República, se está logrando enlazar todo
+ese conocimiento y desarrollo de talento
+humano que ha venido generándose en el
+sector académico con el sector
+industrial para identificar algunos
+casos donde se requiere generar
+soluciones. Aquí me refiero al caso
+específico, solamente como un ejemplo de
+muchos que tenemos en México, la
+investigación básica en materiales del
+Centro de Investigación de Materiales
+Avanzados ubicado en Chihuahua y que es
+uno de los centros públicos de A City
+junto con el desarrollo tecnológico de
+un chip, de un circuito integrado
+diseñado en INAOE y finalmente hacer la
+parte de desarrollo de ingeniería para
+terminar con la creación de un prototipo
+de un instrumento para detección de
+creinina en saliva para el sector salud.
+La que sigue, por favor.
+Y estas son unas imágenes que les
+muestran eh lo que hemos estado haciendo
+en esta etapa de articular y enlazar de
+manera complementaria nuestras
+actividades en México. Lo que ven en la
+parte central es investigación básica,
+investigación fundamental en ciencia de
+materiales
+y eso es algo que en México hemos hecho
+por muchas décadas. La investigación y
+el desarrollo tecnológico en México está
+muy bien reconocido y ahora es el
+momento de enlazarlo para resolver
+problemas que tengamos a nivel nacional
+o a nivel global. Allí lo que ven
+ustedes es una imagen del desarrollo de
+un sensor de creatinina que detecta la
+presencia y la concentración o las
+características de la creatinina en
+saliva de el ser humano. ¿Qué se hizo?
+ese sensor
+eh la información que genera ese sensor
+tiene que ser leída por un chip y
+procesada por un chip. El chip fue
+diseñado en Inahoe, lo ven allí arriba
+en la en la imagen a la derecha y ven
+que es un es un circuito integrado, es
+un chip que apenas tiene 2.5 por 2 mm.
+es extremadamente pequeño y ahí se
+integran todas estas funcionalidades.
+Finalmente, eh esto se integra en una
+tarjeta PCB y como ven en la parte
+izquierda tenemos el desarrollo del
+instrumento para censado universal, en
+este caso de creatinina y ese es uno de
+los ejemplos eh en eh de la integración
+y la articulación complementaria de
+estas actividades. Y solamente para
+darles un ejemplo, cuando yo era eh
+estudiante en la escuela secundaria y en
+la escuela preparatoria, tomé talleres
+de electrónica y me tocó estudiar,
+analizar y construir circuitos con esto.
+Un bulvo, un bulvo.
+Ya estamos, ya somos de otra época.
+Sí, de eh desafortunadamente esto delata
+nuestra edad.
+Eh, fíjense, voy a poner un número en en
+cuestión de tiempo. Eh, esto
+probablemente dejó de usarse hace 40 45
+años, aunque todavía se puede encontrar
+en algunas aplicaciones específicas,
+pero imagínense construir ese chip con
+bulvos. Ese chip que ven allí tiene del
+orden, es un chip muy sencillo, eh,
+solamente tiene del orden de unos 5,000
+o 10,000 transistores. Imagínense montar
+ese circuito integrado, ese chip con
+10,000 de estos bulvos. sería una cosa
+tremendamente enorme. Con esto lo que
+quiero comentarles es que apenas en unas
+cuatro o cinco décadas el desarrollo
+tecnológico ha sido impresionante.
+Impresionante porque hoy en día podemos
+integrar, como ya lo comenté, en un
+circuito integrado como este. Aquí tengo
+dos ejemplos.
+Estos los hicieron aquí.
+Eso está hecho.
+Sí, perdón.
+Esos son algunos de los chips eh de
+ejemplo que se han diseñado y algunos
+fabricado en México y otros fuera de
+México. Cuando digo fabricados en México
+me refiero a un prototipo de un
+laboratorio de investigación que hay en
+el INAOE en Puebla, en el Sidesi y en
+Querétaro y parcialmente también en la
+Universidad Autónoma de Ciudad Juárez y
+en algunos otros espacios y lugares en
+México. Entonces, con esto quiero
+remarcar
+que introducirse en el sector de
+semiconductores implica mantener la
+investigación, el desarrollo tecnológico
+y la formación de talento de manera
+dinámica y permanente para que nutra de
+nueva de nuevo conocimiento al
+desarrollo de la industria y sirva esta
+para sustentar el desarrollo de México.
+La que sigue, por favor,
+en vinculación.
+Eh,
+estamos conscientes de que este proyecto
+para que tenga un beneficio en nuestra
+sociedad, en el entorno nacional y
+global tenemos que vincularlos y por eso
+hemos tenido diálogos con la Asociación
+Coreana de Semiconductores. Con ellos
+estamos explorando posibles
+colaboraciones en el ámbito de diseño y
+fabricación de chips de circuitos
+integrados. Hemos iniciado también
+diálogos con otras empresas, no
+solamente con empresas de Asia, sino
+también en Europa, con la empresa
+Siemens, en una posible colaboración en
+diseño y sobre todo apertura a la
+cartera de clientes para empezar a darle
+una salida y iniciar el proceso de
+autosustentabilidad
+económica del Centro Nacional de Diseño
+de Semiconductores en Bélgica. También
+tenemos conversaciones con el IMEC. que
+es un centro de desarrollo tecnológico
+de de semiconductores. Estamos
+trabajando, estamos en diálogo con
+ellos.
+Eh, internamente en el país hemos estado
+trabajando con la Canieti, con la Cámara
+Nacional de la Industria de la de la
+Tecnología y la Información, con la
+Secretaria de Economía, con la embajada
+de Estados Unidos en los foros
+binacionales de semiconductores para
+tratar de integrar también esta
+iniciativa de manera eh más allá de
+nuestras fronteras.
+Y también eh se firmó un convenio con la
+empresa Intel con la posibilidad de
+acceder a su tecnología de 18 Amstrones,
+es decir, 1.8 nanómetros. La que sigue,
+por favor.
+Bien, estas son las acciones que tenemos
+hacia finales del año 25. Vamos a a
+tener una una reunión con eh personas de
+la Unión Europea. Tenemos un primeros
+diálogos con una empresa mexicana que se
+llama Cirquify Semiconductors, pero no
+la voy a mencionar aquí. La que sigue,
+por favor, para cumplir con el tiempo. Y
+estas son las acciones que tenemos hacia
+el eh para finalizar el año 2025 y el
+cronograma que tenemos hacia el 2030,
+por favor.
+Esto es en el 2025, no se ve muy bien,
+pero el objetivo es llegar a finales de
+este año con la firma de al menos un
+convenio o un contrato para el diseño
+del primer chip comercial de nuestro
+centro. la que sigue
+hacia el 2030 estamos estimando que
+tendremos autosustentabilidad del centro
+de diseño cuando ya tenga del orden de
+100 diseñadores en el 2027 y finalmente
+hacia el 2030 seremos un centro que no
+solamente prestará servicios, sino
+también generá generará mucha propiedad
+intelectual eh que podrá ser
+comercializada.
+Y bueno, esto es en cuanto a la fábrica
+eh de semiconductores, la cual podremos
+eh es la segunda fase del proyecto
+Cutsar y la podremos analizar en otro
+momento. Eh, muchas gracias por su
+atención y solamente quiero eh terminar
+mi intervención haciéndole un pequeño
+obsequio a nuestra presidenta.
+Le quiero regalar este libro que habla
+un poco sobre la industria de
+semiconductores y su impacto a nivel
+social.
+Tenemos una descripción.
+Muy bien. Muchas gracias.
+Gracias.
+Adelante, Roberto.
+Buenos días, señora presidenta. Con su
+permiso,
+hace unos meses, desde este mismo lugar,
+expusimos nuestra misión de crear la
+primera armadora mexicana de
+minivehículos eléctricos diseñados por
+ingenieros e ingenieras mexicanas.
+Hoy venimos a dar una actualización de
+cómo estamos convirtiendo línea en una
+realidad.
+Desde el inicio entendimos que la misión
+no podía ser simplemente fabricar un
+vehículo eléctrico. Nuestra misión
+contenía una promesa fundamental,
+ofrecer una movilidad sin emisiones al
+alcance de millones de mexicanos y
+mexicanas. Olía, tiene un propósito
+profundo, usar la ciencia y la
+tecnología para mejorar la vida de las
+personas, específicamente en la forma en
+la que nos movemos.
+La necesidad más latente la encontramos
+en lo que se llama movilidad de primera
+y última milla. Son esos trayectos
+cortos, pero vitales que millones de
+mexicanos realizan todos los días para
+llevar a los niños a la escuela, para
+hacer el mandado o para conectar con
+vías principales de transporte. Son
+viajes que hoy dependen de soluciones
+con un ingenio admirable, pero que
+frecuentemente carecen de seguridad y
+formalidad.
+Para diseñar vehículos que realmente
+sirvan a México, sabíamos que la
+respuesta estaba en la gente. Por eso
+nuestro equipo de ingenieros y
+diseñadores se sumergió en la realidad.
+Viajamos en mototaxi y en varias
+ciudades del país. Hemos conversado
+durante horas con conductores, pasajeros
+y dueños de flotillas. documentamos sus
+jornadas de trabajo que a menudo superan
+las 10 horas, sus frustraciones cuando
+los vehículos se descomponen o porque
+son inseguros, pero también su ingenio y
+la fuerza con la que buscan salir
+adelante. Nuestro acercamiento al diseño
+no es desde la ingeniería, sino desde la
+empatía, centrados en torno a las
+necesidades de los y las mexicanas.
+Para atacar este reto, nuestra
+estrategia se enfoca en el diseño de una
+plataforma vehicular modular que permite
+construir dos herramientas de trabajo.
+La primera es un vehículo de transporte
+de pasajeros que represente una
+verdadera alternativa al mototaxi, una
+opción más segura tanto para quienes la
+conducen como para quienes la usan para
+viajar. Para las personas usuarias
+ofrecerá mayor comodidad y amplitud. se
+adaptará a la a la variedad de usos que
+hoy demandan y tendrá un costo igual o
+menor al de hoy. Para los y las
+conductores será un vehículo más cómodo
+para sus largas jornadas, más moderno,
+pero sobre todo más rentable gracias a
+una reducción drástica en el costo de
+operación.
+La segunda, un vehículo de uso comercial
+para reparto orientado a atender la
+creciente necesidad de transporte de
+mercancías en entornos urbanos. Creemos
+crear queremos crear una herramienta
+para acelerar el crecimiento de los
+pequeños comercios, que son un motor
+clave en nuestra economía y también que
+las empresas que tienen necesidades de
+logística urbana tengan un vehículo que
+esté diseñado para nuestras calles, que
+lleve productos hasta zonas de difícil
+acceso y que sea más rentable.
+Tras décadas de operar en México, la
+industria automotriz ha florecido y con
+el paso del tiempo se han formado un
+talento excepcional tanto en la
+industria como en la academia. El
+proyecto Línea ha sido recibido con los
+brazos abiertos y gran expectativa por
+parte de los mexicanos que trabajan en
+la industria automotriz. Todos nos dicen
+lo mismo. México ya se había tardado en
+lanzar un proyecto así.
+Nos hemos reunido con clústers
+automotrices y empresas mexicanas que
+nos han hecho evidente las
+impresionantes capacidades de
+fabricación y diseño de partes que hay
+en México. Olíia será orgullosamente un
+coche hecho en México y nuestro país
+podrá tener una marca de vehículos que
+refleje nuestro talento y nuestra
+cultura primero aquí y más adelante en
+otras partes del mundo. Ahora, para ser
+realidad este proyecto, hemos recurrido
+a los mejores. Conformamos un equipo
+multidisciplinario con el mejor talento
+del Tecnológico Nacional de México, del
+Instituto Politécnico Nacional Nacional,
+la UNAM y los Centros Públicos de
+Investigación a cargo de la CCTI. en un
+ejercicio nunca antes visto en México.
+Todos colaboramos en un solo equipo para
+lograr la misión y cumplir la promesa de
+Olínea. Algunos miembros del equipo me
+acompañan el día de hoy aquí, por lo que
+aprovecho para dar un reconocimiento a
+las más de 70 personas de 17 estados de
+la República, de todas estas
+instituciones que hoy conforman nuestro
+equipo de trabajo. Todos ellos y ellas
+son personas de gran talento y quienes
+cargan en sus hombros junto conmigo y
+con Rafael la responsabilidad de
+cumplir. Confiamos en su capacidad de
+ingenio para demostrar que el hecho en
+México está bien hecho.
+Señora presidenta, hoy comparto que
+hemos plazado de la planeación a la
+acción. Ya establecimos nuestro centro
+de diseño e ingeniería en el tecnológico
+de Puebla, un espacio de innovación que
+ya está en pleno funcionamiento y cuyo
+edificio se encuentra en construcción
+dentro del campus del mismo Tecnológico
+de Puebla. Esto lo logramos con ayuda de
+la secretaria Rosura Ruiz, el apoyo
+fundamental de las instituciones que ya
+mencioné y sus directores que hoy nos
+acompañan aquí, el así como el
+compromiso que hemos recibido de los
+estados de Puebla y Sonora.
+Hoy quiero mostrar una prueba de ese
+trabajo. Es un vistazo a la seriedad, la
+disciplina y el corazón con el que este
+equipo de mexicanos está trabajando para
+ustedes. Adelante.
+Estamos desarrollando un vehículo para
+que todos en México puedan acceder a una
+forma de transporte que sea sustentable,
+que sea accesible y que sea amigable con
+el medio ambiente.
+Es un mini vehículo eléctrico ensamblado
+en México con mexicanos desde cero,
+desde la parte de diseñarlo, trabajar
+hacia prototipos y posteriormente la
+producción para un armado, ¿no? En un
+primer término,
+tenemos que diseñar un vehículo
+ultralero y eso es un reto considerable.
+Eh, tenemos que integrar muchas
+tecnologías que ya existen y estamos
+trabajando ya en la construcción de un
+prototipo que nos va a llevar a una
+flotilla piloto que se va a presentar en
+junio de 2026.
+Olinia es desarrollado en las
+instituciones de educación superior del
+país y coordinado por la Secretaría de
+Ciencia, Humanidades, Tecnología e
+Innovación, CCIT, mediante un modelo de
+colaboración interinstitucional que
+articula las capacidades científicas y
+tecnológicas nacionales. Olinia se ha
+vuelto un proyecto emblemático en el
+área de ciencia y tecnología porque le
+ha dado orientación a diversas
+instituciones y a sus programas
+académicos y de investigación alrededor
+de un propósito común que es desarrollar
+un vehículo que logre llegar al mercado,
+generar ingresos y que podamos
+reinvertir esos ingresos en nuevos
+programas de innovación para tener más
+desarrollos tecnológicos exitosos en el
+futuro.
+Actualmente los trabajos del proyecto se
+realizan en el Centro de Diseño o línea
+ubicado en el Instituto Tecnológico de
+Puebla. Aquí convergen más de 50
+especialistas de instituciones como el
+TEC NM, el IPN, la UNAM y los centros
+públicos de la CCIT. Creo que nos
+quitamos la camiseta de cada institución
+y en este lugar y en este momento somos
+Olínea y eso nos hace que digamos
+dejemos a un lado la burocracia porque
+tenemos claro que nuestro objetivo es el
+desarrollo del vehículo.
+El proyecto se encuentra en un estado de
+conceptualización ya más avanzado, ya no
+es solo una idea. Estamos entrando en lo
+que sería la ingeniería detalle de cómo
+y en forma van a ir cada una de esas
+piezas,
+pero ya te rezando lo más a ingeniería,
+ya teniendo modelos tridimensionales,
+pensando más en los procesos de
+fabricación para poder validar con estos
+usuarios, ¿no? Obtenerse feedback
+necesario.
+El centro de diseño o línea, que pronto
+contará con instalaciones definitivas,
+es el corazón donde la ciencia y la
+tecnología se transforman en bienestar
+para las y los mexicanos.
+Confiar este proyecto a gente mexicana
+va a demostrar que México tiene esa
+capacidad de poder diseñar o trabajar
+como un país de primer mundo y
+demostrarle a todos los demás que
+tenemos el conocimiento, la capacidad.
+Veo muchísimas capacidades, veo muchas
+ganas, el tiempo apremia y los minutos y
+las horas son escasos, pero los ánimos
+están muy por arriba.
+Es un orgullo muy grande, pero creo que
+está directamente relacionado con el
+nivel de responsabilidad para poder
+estar a la altura de lo que se exige de
+nosotros. No
+nos mueve el hecho de realizar un
+proyecto que va más allá de nuestra
+propia institución, sino va por toda la
+nación.
+[Música]
+Gobierno de México.
+Lo que acaban de ver es el cerebro
+detrás de Olíia, la estrategia de
+colaboración y la unión entre la
+ingeniería, la tecnología y el diseño
+para crear un producto viable, factible
+y emocionante. Hoy queremos compartir
+que este septiembre próximo estaremos
+develando el diseño de los primeros
+vehículos o línea.
+Les puedo adelantar que serán
+eléctricos, ligeros,
+pero con la potencia suficiente para
+subir las pendientes, que podrán
+recargarse en cualquier enchufe
+convencional y su costo de operación
+será menor al de cualquier coche a
+gasolina e inclusive que al de una moto.
+Pero además
+de la ingeniería, un proyecto, esta
+transcendencia para que realmente se
+convierta en un proyecto de nación
+necesita algo más. Nacimos con el nombre
+Olinia, derivado de Olín, la palabra
+nawat para movimiento. Es un
+recordatorio permanente de que existimos
+para crear tecnología, para mover a los
+mexicanos, pero también refleja nuestro
+arraigo y el orgullo en la herencia de
+nuestro pasado.
+Este logotipo que ven aquí es nuestra
+firma comercial. Cada trazo de este
+logotipo fue pensado para evocar un
+equilibrio entre la precisión de la
+ingeniería y de la calidez humana.
+Cuando vean este logotipo, verán nuestra
+promesa de crear tecnología centrada en
+las personas, pero una firma no es
+suficiente. Los grandes proyectos tienen
+un símbolo,
+un icono que resuena sin necesidad de
+palabras. Por eso buscamos ese icono en
+el corazón de nuestra cultura y lo
+encontramos.
+Lo encontramos en la magia, el color y
+el ingenio de los alebrijes, esas
+criaturas fantásticas. nacidas en Oaxaca
+de los sueños. En ellos vimos la
+combinación perfecta de fuerza, fantasía
+y movimiento. Por lo que hoy, señora
+presidenta, quiero pedirle el honor de
+revelar el emblema que irá en todos los
+vehículos o línea. Por favor, Rafael.
+Este emblema es nuestra liebre albrije.
+¿Por qué una liebre? Porque es un animal
+que simboliza perfectamente la
+inteligencia práctica, la adaptabilidad,
+el aprovechamiento eficiente de la
+energía. Nos identificamos con su
+dinamismo que como México es imparable
+y sus salas representan la libertad de
+moverse, de trascender obstáculos de
+nuestra capacidad de soñar. Son un guiño
+de nuestra águila, sí, pero de una forma
+única y propia simbolizan un nuevo tipo
+de vuelo, el vuelo de la innovación.
+Esta lebrije será el sello que garantiza
+que es un producto auténtico, un símbolo
+de calidad y de la transformación de
+México. Señora presidenta, esto es
+Solínea, un esfuerzo en equipo con el
+alma de México y aquí estaremos de
+regreso pronto. Muchas gracias.
+Presentamos a los a los infosen los
+compañeros. Vénganse,
+pásense,
+vénganse de
+acá de este lado.
+para lado.
+Muy bien, gracias.
+Gracias. Traemos unas gorras que
+mandamos hacer especialmente para este
+evento. Se las vamos a entregar después
+del evento a todos los que están aquí.
+¿Cuánto? Adelante el poli. Doctoro,
+querida presidenta.
+Perdón, estaba aquí.
+Buenos días a todas y a todos. En nombre
+del Instituto Politécnico Nacional,
+quiero expresar nuestro orgullo por ser
+parte de Olíia, un proyecto
+transformador que posiciona a México
+como líder en innovación y en la
+movilidad eléctrica. Sin duda, las
+instituciones de educación superior como
+el Instituto Politécnico Nacional y el
+Tecnológico Nacional de México son
+claves para que Olínea sea una realidad
+viable. Ambas instituciones estamos
+aportando soluciones basadas en el
+conocimiento científico, pero también en
+la aplicación práctica de ellos.
+Hay que recordar, y es algo que poco se
+sabe, que en los años de 1973
+y 1974, el Instituto Politécnico
+Nacional hizo la conversión por primera
+vez en México de un auto eh de
+combustión a un auto eléctrico. Ese auto
+eléctrico eh circuló durante 60 minutos
+por las calles de la Ciudad de México a
+una velocidad de 50 a 60 km/h.
+a 50 años de que eso sucediera.
+Ahora somos parte de este gran proyecto
+y hemos formado una gran cantidad de
+estudiantes y de investigadores, de
+científicos con la capacidad suficiente
+para participar en un proyecto de talla
+mundial. De las seis áreas principales
+que conforman el desarrollo de este
+vehículo, el Instituto Politécnico
+Nacional ha asumido el liderazgo en tres
+de ellas: el diseño exterior, el diseño
+interior y el desarrollo de los sistemas
+embebidos.
+Ello consiste en el software a través
+del cual será posible el control,
+comunicación, operación y monitoreo de
+una unidad.
+Es importante destacar que nuestras
+labores no se limitan al diseño. Estamos
+generando un catálogo integral de
+infraestructura y equipos para la
+construcción y prueba de todos los
+componentes, también desarrollando el
+cargador del vehículo. Además, hemos
+asumido la responsabilidad de crear un
+sistema de gestión integral de calidad
+para todos los procesos. Sin duda,
+presidenta, el corazón de este proyecto
+es la gente que está participando en él,
+con la firme convicción de mostrar que
+en México hay capacidad tecnológica y
+mucha capacidad para la innovación.
+También de las 82 personas que colaboran
+a nivel nacional, 33 pertenecen al
+Instituto Politécnico Nacional. Ellos
+incluyen investigadoras e investigadores
+de primer nivel, pero también nos da
+gusto que participan alrededor de 12
+estudiantes de excelencia del posgrado
+del mismo Instituto Politécnico Nacional
+y un una persona como parte de los PAES
+del personal de asistencia a la
+educación.
+También participan eh como consultores
+expertos, mostrando el prestigio en el
+sector automotriz que hemos forjado a lo
+largo de nuestra historia, pero también
+nuestra capacidad para asumir los retos
+actuales como la movilidad sustentable.
+Y hay que destacar que contamos con una
+escuela específica para esos fines, la
+Unidad Profesional Interdisciplinaria de
+Energía y Movilidad, la UPM, que surgió
+eh siguiendo una idea y nosotros lo
+tomamos como una instrucción de la
+doctora Claudia Shabound. En aquel
+entonces, como jefa de gobierno de la
+Ciudad de México, inicia la actividades
+la UPIM. Además, a partir del 18 de
+agosto de este año se impartirá la
+especialidad de vehículos híbridos y
+eléctricos. En las próximas semanas,
+este semillero de talento politécnico
+dará un primer resultado, el diseño
+exterior ya concluido. Por otra parte,
+para garantizar la viabilidad a largo
+plazo, algunos de los especialistas
+involucrados en Olínea han viajado a
+China y Taiwán con el objetivo de
+explorar el mercado de proveedores y
+también tejer alianzas estratégicas.
+El Instituto Politécnico Nacional está a
+cargo del análisis también del mercado y
+plan de negocios para minivehículos
+eléctricos en México. De este análisis
+eh tengo el placer de informar que
+tenemos ya un avance del 90%.
+Una vez que se concluya, nos permitirá
+dimensionar el tamaño y la localización
+del mercado. Además, trabajamos en el
+anteproyecto de un plan de negocios para
+una planta armadora que incluye la
+logística, la identificación de
+ubicaciones estratégicas, la
+disponibilidad de mano de obra
+calificada, entre otros aspectos.
+Aunque la sede principal del proyecto se
+encuentra en el estado de Puebla, quiero
+destacar que dos de las sedes operativas
+se ubican en la Ciudad de México y son
+coordinadas directamente por el
+Politécnico. Esto nos permite una
+integración profunda y una supervisión
+que sea constante. Finalmente, quiero
+decirles que Olínea no es solo el
+resultado de la ingeniería, sino de la
+investigación, el análisis de datos y
+una colaboración que está siendo muy
+efectiva entre las diversas
+instituciones que participan. Es un
+proyecto transformador que posiciona a
+México en el desarrollo de la movilidad
+eléctrica como un líder regional y
+centro de innovación tecnológica, donde
+el Instituto Politécnico Nacional
+refrenda su misión histórica como brazo
+científico y tecnológico del Estado
+mexicano, cumpliendo con su compromiso
+de poner la técnica al servicio de la
+patria.
+Muchas gracias, presidente.
+Gracias.
+Adelante.
+Buenos días.
+Con su permiso, presidenta.
+Para nosotros como Tecnológico Nacional
+de México es un gran orgullo
+participar en este proyecto estratégico
+que ha diseñado la presidenta de nuestro
+país.
+nos recuerda aquellos años en que el
+Instituto Politécnico Nacional, después
+de la expropiación petrolera, tuvo la
+capacidad con la formación de ingenieros
+técnicos de alto nivel para sacar
+adelante a nuestro país. Hoy es un
+momento nuevo donde la historia
+aparentemente se repite, pero sobre una
+base superior, en el desarrollo técnico
+científico independiente de nuestra
+patria.
+En ese terreno, el Tecnológico Nacional
+de México, de los 254 institutos
+tecnológicos que lo conforman, 20 de
+ellos están participando activamente con
+34 investigadores y científicos de alto
+nivel. Aquí están algunos de los
+compañeros en la primer fila. Quiero
+decir que el Tecnológico Nacional de
+México como líder de calidad y productos
+está Rafael Lara Hernández, como líder
+del tren de potencia Pedro Martín García
+del Tecnológico
+de Ciudad Madero. El líder de diseño de
+plataforma, aquí está con nosotros,
+Marco Antonio Meraz Merlo, del Instituto
+Tecnológico de Puebla.
+El líder de escalamiento, René Romero
+Sánchez,
+líder de integración, David Alonso Tapia
+Ábrego, y la líder de cadena de
+suministro Karen Itzel Vázquez que están
+con nosotros.
+Quiero decirles que 34 científicos e
+ingenieros del Tecnológico Nacional de
+México han dejado su lugar de
+residencia, algunos desde el norte,
+otros desde el sur del país, para
+concentrarse de tiempo completo en esta
+tarea de estado que es el proyecto
+línea.
+Yo en primer lugar quiero agradecer
+mucho la buena disposición de todos los
+científicos, ingenieros
+y quisiera leer un acta de inicio porque
+son el corazón del proyecto.
+Acta de inicio de actividades del equipo
+de trabajo convocado por el Tecnológico
+Nacional de México para el diseño del
+prototipo de vehículo eléctrico, para
+ver también y resaltar el cariño, el
+amor a nuestra patria, el amor por
+construir un México mejor, que no deje a
+nadie atrás. En la ciudad heroica de
+Puebla de Zaragoza, de los Estados
+Unidos Mexicanos, a los 8 días del mes
+de noviembre del 2024, un grupo de
+nacionales patriotas, convencidos de que
+los grandes logros nacionales se
+cimentan en la colaboración y el
+compromiso, unidos por los conocimientos
+científicos y tecnológicos adquiridos en
+diversas casas de estudios, provinentes
+del Instituto Tecnológico de diversos
+Rincones del Territorio Nacional,
+destacados entre otros, por por la
+calidad de sus logros académicos en el
+área de electromovilidad, reunidos en
+este lugar por convocatoria del
+Tecnológico Nacional de México, en
+armonía con la propuesta de la
+presidenta constitucional de México, la
+doctora Claudia Shaum Mampardo, de
+lograr en un mediano plazo la creación
+de un vehículo eléctrico integrado por
+tecnología nacional que se ha denominado
+por ella misma como Olineia, que es una
+forma del verbo nawat. para mover.
+Los firmantes de este documento declaran
+su propósito de contribuir al desarrollo
+del vehículo eléctrico o línea, que será
+un hito en la independencia científica y
+tecnológica de México en el ámbito de la
+electromovilidad.
+Inspirados por la historia de los
+grandes movimientos nacionales y la
+determinación del pueblo mexicano, los
+firmantes visualizan en este proyecto un
+medio para consolidar la revolución
+científica y tecnológica de nuestro país
+hacia un futuro de innovación y
+sostenibilidad,
+donde la industria nacional coexista en
+una sinergia imparable con la academia y
+con el Estado mexicano. Esta acta
+representa no solo un acontecimiento que
+quedará registrado en la historia,
+vivido por las partes aquí presentes,
+sino una promesa implícita con el pueblo
+de México por parte de sus
+representantes, que han propiciado que
+este hecho tenga lugar y quede asentado
+para la posteridad de las generaciones
+que tendrían el día de mañana la
+responsabilidad de mantener esta luz de
+independencia científica y tecnológica
+en sus manos.
+y les permita atravesar por la senda del
+desarrollo de la humanidad. La tinta y
+el papel que impregnan este documento
+será testimonial eterno de que este día
+cada uno de los participantes ha
+aportado su experiencia, conocimiento y
+visión de la mejor manera que las
+condiciones actuales les brindan. En las
+primera mesa de trabajo para la creación
+del vehículo eléctrico mexicano, los
+presentes han incitado los
+acontecimientos para que México se
+posicione como una nación próspera que
+avanza en la historia, fortaleciendo
+cada día su soberanía e independencia
+nacional. bajo la directriz de la
+presidenta de nuestro país, con la guía
+de nuestro coordinador general Roberto
+Capuano, a quien agradecemos mucho todas
+sus orientaciones y en colaboración
+sistemática y permanente con los
+científicos e investigadores del
+Instituto Politécnico Nacional, estamos
+poniendo lo mejor de nosotros para
+lograr contribuir de manera efectiva a
+la independencia científica y
+tecnológica de nuestra patria. Muchas
+gracias. Gracias, presidenta.
+Bueno, pues como ven, es un proyecto muy
+hermoso.
+Son más de 100
+científicos, científicas,
+tecnólogos, tecnólogas
+que se están concentrando ya en Puebla
+desde hace ya meses.
+y su objetivo
+es tener los primeros vehículos o línea
+a mediados del próximo año. Esa fue la
+tarea que les dimos
+para que a partir de ahí podamos empezar
+a desarrollar la producción de estos
+vehículos. ¿Qué características tienen?
+Eléctricos, no contaminan. Se pueden
+conectar en cualquier conexión de
+cualquier hogar o de cualquier lugar y
+deben
+tener las características del tipo de
+vehículo que usamos los mexicanos.
+Entonces, por eso hicieron una
+investigación de campo tan profunda.
+Eh, de ahí viene el diseño, la
+ingeniería de detalle, todo lo que están
+desarrollando
+y eh pues el costo del vehículo tiene
+que ser menor a cualquier vehículo
+comercial.
+en su tipo. Entonces es un reto bastante
+importante, pero que estamos seguros o
+segura que lo van a cumplir. Eso por el
+vehículo línea y por otro lado, el
+Centro Nacional de Diseño de
+Semiconductores, que también ya va muy
+avanzado, que tiene tres sedes y que ya
+comienza eh a generar diseños de
+semiconductores, particularmente para el
+diseño de equipos médicos.
+Estos son dos de los 12 proyectos
+estratégicos que planteamos para el
+gobierno y ya vamos a ir presentando
+poco a poco los que siguen. Bueno, esta
+es la información y ahora sí agradecemos
+al Poli y al Teek&M y a todos los que
+participan
+sobre el tema. A ver,
+eh, a ver, el compañero.
+Buen día, presidenta Óscar Samudio para
+Sagasin. Sobre el tema, entiendo
+entonces que eh la producción de Olínea
+se estaría ensamblando en el estado de
+Puebla y saber si se tiene ya
+considerada la primer producción,
+cuántas unidades serían y el precio.
+Muchas gracias. En este momento estamos
+trabajando en Puebla. Nuestro centro de
+diseño está en Puebla. Puebla tiene una
+gran infraestructura y herencia en la
+industria automotriz. Sin embargo, no
+hemos establecido en dónde va a estar
+nuestra planta. Tenemos ese ese esa
+advisión la tenemos en proceso. Eh, el
+vehículo, el costo del vehículo es el
+mismo que anunciamos en enero. No va a
+costar más de 150,000 pesos este
+vehículo.
+Entendiendo entendiendo que es un tema
+de ciencia y tecnología para la
+movilidad, estarían considerado
+considerando en hacer un convenio con
+plataformas eh de plataformas digitales
+de reparto a domicilio que tuvieran
+ellos un beneficio eh para ellos como
+empresarios.
+Recuerden que Olíia nace con la
+instrucción de ser una empresa rentable
+que va a tener inversión privada.
+Nuestra meta y nuestra promesa es la
+misma la que acabo de decir. Vamos a
+llevar la movilidad eléctrica de una
+forma asequible a millones de mexicanos
+y mexicanas, al mismo tiempo que la
+empresa debe ser rentable. Y eso quiere
+decir que nuestro modelo de negocios
+debe de permitir vender la tecnología de
+la manera más efectiva posible y
+obviamente cumpliendo siempre nuestros
+principios rectores. Pero la respuesta
+es eh si la empresa encuentra un modelo
+de negocios viable en la opción que
+usted acaba de mencionar, se considerará
+qué segmento de mercado está cubriendo o
+línea con este primer vehículo sería un
+segmento nuevo. algo entre un vehículo
+eh y un una moto.
+Olíia va a tener tres modelos, lo
+anunciamos en enero. En este momento
+estamos empezando con los primeros dos
+que tienen la misma plataforma
+vehicular. El primero es un un vehículo
+que está dirigido para hacer una
+sustituto auténtico al mototaxi. El
+mototaxismo es un medio de transporte
+muy utilizado en el país. En la ciudad
+de México, los que vivimos aquí lo hemos
+visto, pero no solamente eso. En el sur
+y sureste se usa muchísimo para uso para
+inclusive viajes intermunicipales.
+Nuestra intención es poder atender el
+mercado de personas que se mueven en
+mototaxi, las organizaciones de
+transporte y transportistas que se que
+utilizan estos vehículos para moverse. Y
+en el segmento de carga estamos buscando
+darle una alternativa al pequeño
+comercio y también a las empresas que
+tienen flotas de reparto. Les puedo
+compartir que ya tuvimos, por ejemplo,
+una reunión con Cepomex porque estamos
+en el proceso de diseñar nuestro
+vehículo de carga,
+diseñar el diseño, la ingeniería a
+detalle como mencionamos y estamos
+encontrando estas organizaciones adentro
+y fuera del gobierno que requieren
+flotas de distribución urbana. Se usa
+mucho este tipo de de de de pues de
+viajes adentro de las ciudades de todo
+el país.
+Muchas gracias. En otro tema de
+movilidad, presidenta, usted estuvo el
+Sí. Es importante, por supuesto que
+cualquier persona lo puede adquirir. El
+objetivo del diseño es cubrir ese
+sector. Ahora, estamos trabajando para
+ver si la producción es solo pública o
+tiene una alianza con algún privado que
+nos permita pues tener recursos y el
+involucramiento de algún alguna empresa
+privada que quiera ayudarnos a
+desarrollar el vehículo. Ahora estamos
+en el diseño y en el análisis de cómo
+sería ya la producción masiva y
+cualquier persona lo podría adquirir.
+Ahora está pensado pues que en ese
+sector va a ser muy útil. Eh, el diseño
+fue decidido en campo. Entonces, uno ve
+el un mototaxi en el en el sureste, por
+ejemplo, e un pequeño carrito que lo
+traen de fuera, pero tiene problemas
+para que pueda subir una persona con
+discapacidad o tiene problemas para
+poder llevar tus bolsas del mandado.
+Entonces, está diseñado justamente para
+las necesidades de las y los mexicanos.
+Es un proyecto nacional de diseño
+nacional.
+eh va a tener va a ir generando todas
+sus partes a nivel nacional
+e y va a cubrir ese sector, pero
+cualquiera lo va a poder adquirir.
+Gracias, presidenta.
+Ya, ya vamos a la siguiente. En
+septiembre nos vamos a ver de nuevo.
+Van a venir hacia finales de septiembre
+ya con el diseño
+y es para pasajeros y para carga, para
+pequeña carga.
+En el mismo tema de movilidad,
+presidente, el fin de semana usted
+estuvo en el estado de Hidalgo haciendo
+una visita de supervisión de obra para
+los avances del tren Ciudad de México,
+AIFA, Pachuca. saber en términos
+generales cómo va el avance de esa
+sección del tren y si estaría
+considerado eh ese estado como uno de
+los pueblos del bienestar para que
+también se pusiera una planta de
+ensamble de Olínea. Estuvimos en
+Hidalgo, justo en una zona que está
+Ledaña, a un terreno que fue adquirido
+hace mucho tiempo por el gobierno del
+estado de Hidalgo, a principios de el
+siglo XXI de los años 2000,
+cuando se presentó la primera propuesta
+por parte del gobierno federal en
+aquella época para hacer el aeropuerto
+en Tescoco. En aquella época se planteó
+también la posibilidad de hacerlo en
+Tisayuca.
+Entonces, el gobierno de Hidalgo de el
+aquel gobierno compró ese predio en la
+idea de que ya pudiera estar disponible
+para poder hacer el aeropuerto. El
+aeropuerto finalmente se hizo en Santa
+Lucía, en Tecamac, Estado de México, ya
+está funcionando. Pero ese gran terreno
+pues va a ser para un polo de desarrollo
+de bienestar que tiene muchísimas
+opciones desde industria farmacéutica,
+porque cerca la producción de productos
+farmacéuticos hasta muchas otras
+opciones. El tren va muy bien.
+Se tiene ya todo el recurso, ya tiene,
+digamos, ya inició la construcción
+y queremos que esté listo para el primer
+semestre del 2027. El tren México AFA y
+su libramiento del AIFA para llegar a
+Pachuca.
+Ahí mismo, presidenta, en la zona, en la
+región de Tizayuca, el gobierno de
+México informó oficialmente,
+se va a rayar Hidalgo porque va a tener
+los tres trenes, o sea, el que va a
+Querétaro,
+el México, Pachuca, Ciudad de México,
+Pachuca, Ciudad de México, Querétaro,
+también pasa por Tula. Y eh hay otra
+parte que va hacia Irapuatu que también
+va a tocar Hidalgo en otra zona.
+Exactamente, presidenta. En justo ahí en
+esa misma zona, el gobierno de México
+informó a través del IMS eh que el
+gobierno municipal de Tizayucay ya donó
+el el terreno que está pensado para la
+construcción de un hospital ya fue
+autorizado por el INS del terreno. Saber
+si está programado y si existen los
+recursos para este hospital dentro de
+ese de este polo del bienestar para el
+2026.
+Los polos de bienestar tienen el
+objetivo, depende del tamaño, obviamente
+hay unos de 20 haáas, hay otros de 3000
+haáreas, que en la zona se construya la
+vivienda de las personas que van a
+trabajar ahí, tenga las escuelas de los
+hijos de las personas que van a trabajar
+ahí y los centros de salud o en su caso
+hospitales. Entonces, en el caso de
+Hidalgo, una vez que esté definido el
+diseño del polo del bienestar, ya
+tendría pues todo toda la incorporación
+de los servicios que se requieren para
+que las personas puedan vivir cerca del
+lugar donde trabajan.
+Gracias, presidenta.
+Sobre el tema, sobre a ver, sobre el
+tema la compañera
+Soy Mirella Cuellar de la Jornada Baja
+California. Buenos días a todos. Eh,
+presidenta, sobre este tema, primero no
+sé si alguien pudiera decirnos qué tan
+importante es esto de que la creatinina
+que se pueda identificar en la saliva,
+no sé, tiene que ver con la diabetes o
+por qué es importante este desarrollo
+que presentaron hoy.
+Eh, la detección de algunas variables eh
+del cuerpo humano, como por ejemplo la
+creatinina, nos permite monitorear con
+suficiente tiempo de anticipación el
+posible desarrollo de una enfermedad de
+deficiencia renal como puede ser la
+diabetes o alguna otra. Ese es el valor
+eh ejemplificado en un sensor de
+creatinina. Pero no solamente es un
+sensor de creinina, también hay ejemplos
+de detectores eh de calor que pueden
+identificar entre un tumor maligno y uno
+benigno en eh en la mama de una mujer.
+Entonces, son ejemplos eh y el valor
+reside en que podemos tener el control
+completo del diseño, la tecnología y la
+fabricación en México de ese tipo de
+sensores para aplicaciones tan
+importantes como es en la medicina.
+Gracias.
+Y bueno, yo entiendo también,
+presidenta, que el tema de los estados
+de la República que están participando
+en estos proyectos, pero por ejemplo en
+Baja California hay un instituto, hay un
+laboratorio, por ejemplo, de
+semiconductores en la UABC, hay las
+carreras de ingenieros en
+semiconductores muy recientes, pero el
+laboratorio de la UABC, por ejemplo,
+tiene pues muchos años trabajando. y
+empresas de semiconductores en Baja
+California. No sé si por qué algunos
+otros estados que tienen también cierto
+desarrollo en ese sentido no se
+incluyeron en este proyecto.
+Se van a incluir más estados. iniciamos
+en el caso de semiconductores,
+de hecho hay investigadores de la UNAM,
+también del Politécnico que están
+participando, pero en el caso de Puebla,
+Jalisco y Sonora, eh los propios
+gobernadores dijeron que nosotros
+ponemos para que se haga el primer los
+primeros centros de laboratorio. Eso no
+quiere decir que no van a participar
+otros que ya tienen sus propios centros
+de diseño, pero inicia pues con estos
+tres equipos. Eh, ¿qué virtud tienen
+estos proyectos?
+Eh, ustedes saben que yo muchos años
+trabajé en la academia y en la academia
+la academia se fue haciendo muy
+individualista en muchos sentidos. el
+investigador desarrollando con su propio
+grupo de investigación con el objetivo,
+ya sea de tener una patente o de tener
+una publicación en alguna revista
+nacional o internacional,
+pero los grupos de investigación en
+general trabajan aislados. Un grupo de
+investigación del TQNM, del Politécnico,
+de la UNAM, de la UABC o de algún otro
+centro de investigación.
+Rosaura, cuando fue secretaria de
+ciencia en la ciudad de México, creó
+estos grupos de investigación que les
+llama Ecos, es decir,
+equipos de investigación de distintos
+lugares que se ponen juntos a
+desarrollar un objetivo.
+Y esta es una virtud de estos proyectos
+que diseñamos, de estos 12 proyectos. En
+particular, Olíia.
+o línea tiene podría haberse dicho,
+bueno, pues se lo encargamos a la UNAM y
+ya la UNAM que no hay un coordinador de
+proyecto y ese coordinador
+técnico del TQNM y son investigadores
+que levantaron la mano, dijo, "Yo quiero
+participar." Incluso están viviendo en
+Puebla, dejaron sus lugares de origen y
+se fueron allá a trabajar. Y la idea es
+que no solamente esté el vehículo, sino
+que se vincule con carreras que tienen
+que ver con electromovilidad,
+con investigación, que a su vez va a dar
+para otras cosas, porque normalmente
+cuando se desarrolla una actividad, pues
+de ahí vienen semiconductores que van a
+funcionar para otras cosas y es el mismo
+caso del proyecto línea. Entonces son,
+iniciamos y después se van a ir
+incorporando o se pueden incorporar
+investigadores de otras instituciones.
+Bueno, lo que tenemos vale la pena
+porque eh tu pregunta, por ejemplo, con
+distintas instituciones, lo coordina el
+Instituto de Ciencias de la Atmófera y
+Cambio Climático de la UNAM, pero
+participan el CICES y otras
+investigaciones, otros investigadores y
+otros centros de investigación
+eh junto con la Secretaría de Marina en
+lo había platicado aquí en el diseño de
+un sistema que nos permita monitorear
+huracanes o ciclones o eh
+actividades atmosféricas que pueden
+llegar a causar problemas. Entonces eh
+ese es uno de los 12 proyectos.
+Eh, hay radares, por ejemplo, que
+también en este caso no lo estamos
+planteando, que nos permiten poder junto
+con el meteorológico nacional eh no
+predecir, porque es difícil predecir,
+pero sí anunciar con tiempo la
+posibilidad de que venga una lluvia como
+la que se vivió en la Ciudad de México
+para poder prevenir.
+Presidenta, perdón, este, yo quisiera
+también preguntar de de otro tema
+específicamente.
+el que tiene que ver con los
+miembros del crimen organizado que
+fueron entregados a Estados Unidos. ¿Qué
+sentido tiene seguirle entregando a al
+vecino del norte todos estos eh
+presuntos o narcotraficantes
+y al mismo tiempo la reacción que hay de
+aquel lado? que después tienen acuerdos
+con estos personajes, los liberan y
+sigue habiendo un golpeteo terrible
+contra México por el tema del
+narcotráfico, o sea, negocian con ellos,
+no sabemos tampoco en calidad de qué
+este están allá. ha sido muy diverso el
+trato a estos personajes. A mí sí me
+gustaría saber, nos deja un poco de
+dudas el sentido de seguirle dando a
+Estados Unidos a todos estos personajes,
+¿no? Ciertamente pues no los quisiéramos
+en México, pero acá han generado
+violencia, muchos muertos como para
+verlos después negociando con ese país y
+viviendo en libertad.
+Ah, a las 11 de la mañana va a haber una
+conferencia de prensa del gabinete de
+seguridad para poder dar toda la
+información sobre este caso que tomó el
+Consejo Nacional de Seguridad. Lo que sí
+podemos decirles es que en todos estos
+casos no es eh los casos de extradición
+o de envío de estos eh
+eh miembros de la delincuencia
+organizada. La decisión es por la
+seguridad de nuestro país. Son
+decisiones soberanas,
+no tienen que ver con una petición,
+aunque muchos de ellos tienen
+peticiones, pero hay muchos otros que
+siguen teniendo peticiones.
+Entonces, la decisión que se toma por el
+Consejo Nacional de Seguridad tiene que
+ver con la seguridad del país. Son
+decisiones soberanas.
+Tampoco tiene que ver con el acuerdo de
+seguridad. Son decisiones soberanas que
+se toman en México para la seguridad de
+nuestro país y las toma a partir de un
+análisis del propio Sistema Nacional de
+Inteligencia e Investigación, el Consejo
+Nacional de Seguridad.
+A ver, vamos, vamos sobre el tema.
+Buenos días, presidenta Hansa, Lazardes,
+noticiero en redes. Eh, sobre este tema,
+preguntar un poquito si se puede andar,
+si ha habido empresas interesadas,
+empresas privadas sobre coinversión,
+se está explorando, ya lo dijo, pero si
+hay empresas privadas interesadas, eh,
+sería una de las preguntas. otra eh
+sobre estas visitas a países asiáticos
+en particular, porque bueno, pues han
+demostrado mucha vanguardia en el tema
+de los autos eléctricos, si también hay
+una asunto de de compartir pues sus
+avances tecnológicos, algún tipo de
+acuerdo. De hecho, usted ya había
+comentado eh recuerdo que creo que con
+India también se había platicado sobre
+posibilidad al respecto de de de
+acuerdos de este tipo o no sé si me
+estoy confundiendo de tema. Y es también
+preguntarle eh bueno aquí que están eh
+pues los jóvenes
+el que son quienes están desarrollando
+esto y bueno, usted es una presidenta
+científica, eso ya todo el mundo lo
+sabemos. Eh, creo que ahí viene un
+enfoque muy importante y preguntarle
+precisamente eh qué le diría a los
+adolescentes de este país, a los niños,
+a las niñas, cómo impulsarlos también
+desde tempranas edades, porque muchas
+veces tienen algún tipo de término, ¿no?
+Son hiperactivos, pero no son atendidos
+y tienen para desarrollar tantas cosas
+para para eh crear para todo esto. cómo
+encarrilar a un país. Digo, eso si se
+requiere de mucho más tiempo, pero estos
+son los cimientos. Preguntarle en ese
+sentido también, ¿cuál sería el enfoque,
+presidenta? Y pues si alguno de los
+jóvenes quiere comentar su experiencia,
+sería muy interesante y también eh si lo
+permite presidenta, pues para el país
+para ver eh pues que ellos son eh pues
+quienes están metidos de lleno y que
+pues esto pues prácticamente va a ser
+algo no solo innovador, sino va a ser,
+me parece que incluso puede ser un antes
+y un después en este tema tecnológico.
+Sí. ¿Quiere alguno de ustedes comentar
+algo?
+Platiquen de su trabajo, cómo es su
+trabajo, cómo fue que se contactaron
+para el proyecto línea.
+Quien quiera, adelante,
+pásate.
+Sí, que pase.
+Si les van a pagar bien.
+Muchas gracias. Con permiso, presidenta.
+Eh, pues yo provengo del Instituto del
+Instituto Politécnico Nacional, soy
+doctor en Ciencias. Yo empecé con este
+proyecto desde el mes de febrero. Han
+sido diferentes etapas, desde la
+conceptualización, ahorita la ingeniería
+de detalle y dentro de línea tenemos un
+un
+decálogo, una una idea, un pensamiento
+que este proyecto debe de salir de la
+mejor manera y todos estamos dando el
+100%, incluso el 200% para conseguir que
+este proyecto salga. Todos hemos hecho
+sacrificios, como mencionaban eh la
+señora presidenta,
+el coordinador Roberto Rafael. Nos hemos
+movido de nuestras ciudades donde
+vivimos, eh nos hemos separado de
+nuestras familias, pero sabemos que la
+recompensa va a ser enorme. Digo,
+estamos trabajando como mexicanos para
+mexicanos y es un orgullo muchísimo muy
+grande.
+Les impulsa mucho que sea una presidenta
+científica.
+Sí, digo eh más por los antecedentes de
+la señora presidenta, pero es eh el
+impulso que se le ha dado a las
+instituciones académicas en los últimos
+eh sexenios
+eh demuestra que dentro de las
+instituciones tenemos la capacidad para
+poder alcanzar grandes cosas. Muchas
+veces se miraba hacia el extranjero
+cuando aquí en México tenemos la
+capacidad de lograr grandes cosas.
+Entonces es un orgullo.
+Gracias.
+Tu nombre.
+Tu nombre.
+Ah, perdón. José Luis Rueda Requín.
+Muchas gracias.
+Eh, fíjense que ahora que estamos
+vamos a presentar muy pronto un proyecto
+eh que es una plataforma muy grande
+donde van a participar todas las
+instituciones académicas públicas.
+eh para que
+cualquier persona pueda llevar un curso
+a distancia de lo que quiera e y que
+participen permanentemente académicos de
+las universidades públicas, de los
+tecnológicos.
+Eh, para poder, ¿quieres saber de
+inteligencia artificial? Pues te
+conectas ahí y te van a explicar qué es
+inteligencia artificial o cómo acceder a
+los a lo que está hoy disponible.
+Eh, o quieres aprender Nahwatle, pues
+ahí va a haber un curso de Nahwatle. es
+una plataforma muy grande que estamos
+construyendo. A la hora de que estamos
+revisando esto, resulta que muchos
+jóvenes que salen de la preparatoria
+eh la carrera que escogen pues siguen
+siendo las carreras centrales de hace
+100 años, abogado, contador,
+eh
+quizá porque no tienen la idea de lo que
+significaría estudiar matemáticas o
+física o ciencias de la computación o
+entonces parte de estos proyectos, entre
+otras cosas lo que tienen pues es la
+idea de que las y los jóvenes Es primero
+con lo que estamos haciendo en la
+preparatoria para que nadie diga, "Ay,
+no, yo no puedo estudiar matemáticas, no
+sé matemáticas, es muy difícil, ¿no? Las
+matemáticas son accesibles para
+cualquiera si se enseñan adecuadamente.
+Entonces, para que un joven está bien
+que quiera ser abogado o abogada, pero
+que también tenga el sentido de que a lo
+mejor quiere ser matemática o física o
+quiere estudiar ciencias de la
+computación o quiere estudiar filosofía
+también. o quiera estudiar otras
+carreras en donde también encuentre un
+espacio laboral y que estén vinculados
+pues con estos grandes proyectos de
+desarrollo del país. Por eso un proyecto
+de largo plazo, no solamente del diseño
+particular del vehículo. Y sí tenemos
+propuestas de empresas eh privadas que
+están interesadas.
+Eh, Roberto y todo el equipo está
+hablando con ellos, pero queremos
+primero tener el diseño eh para después
+ya en todo caso la producción eh pues ya
+podría ser una alianza, un proyecto
+mixto
+también en transferencia de tecnología,
+no solo en ensamblaje.
+Sí. Eh, bueno, particularmente en el
+caso del taller de semiconductores,
+pues es la creatividad de las y los
+mexicanos puesta a disposición y después
+se puede vender, digamos, esa
+creatividad alguna empresa, pero con
+beneficio para los investigadores
+mexicanos y para las instituciones
+públicas.
+Entonces, todo esto lleva también una
+modificación de patentes y otras cosas
+que estamos haciendo. En el caso de la
+India es un trabajo que tiene que ver
+con una empresa grande que tienen ellos
+que se llama Serum, que es para la
+producción de vacunas principalmente. Y
+ahí estamos en pláticas para ver si es
+factible hacer una alianza para la
+producción de vacunas con Birmex.
+todavía es eh es algo que platiqué con
+el eh ministro Modi cuando estuve en
+Canadá y han estado viniendo además de
+otros proyectos de vinculación.
+Eh, presidenta, si me permite otro tema.
+Eh, bueno, pues todo esto y el programas
+eh, pues no se puede tampoco sin dinero.
+Y a mí me llama la atención en este tema
+que el SAT informó que de enero a julio
+del 2025 los ingresos tributarios
+alcanzaron 3.27 billones de pesos, eh lo
+que representa 102.7% de la meta anual
+establecida, es decir, que rebasó un
+aumento real de 7.2% 2% frente al mismo
+periodo de el del año pasado. Eh, la
+mayor recaudación y un control en el
+gasto han permitido reducir este déficit
+público. Así lo señala. Eh, aquí hay una
+meta. Eh, yo preguntarle sobre esta
+recaudación, eh, cómo eh ha sido también
+la evolución en la atención del SAT con
+la gente. Eh, es decir, estamos hablando
+de contribuyentes de todos los niveles
+eh y de y de las empresas tanto grandes,
+bueno, algunos que no quieren pagar,
+¿verdad? Pero eh en general creo que hay
+una hay una conciencia mayor. Eh,
+¿cuáles serían las metas en este y el
+próximo año? Eh, si nos pudiera comentar
+un poco más. respecto a este tipo de
+este tema de la recaudación, ya que en
+este momento, repito, en este periodo ya
+se superó la meta.
+Ven, todos los días me envían una tabla,
+a ver si la tienen,
+a ver si les puede mandar la tabla. De
+todas maneras, de
+ese es hasta la fecha, ¿cuál es la
+recaudación del 2025 que es histórica?
+Eh,
+334,000,
+no,
+sí, 962
+millones.
+Eh,
+este, ah, es que esta solo es
+tributaria, está la no tributaria, que
+son derechos. A ver si también no la
+pueden poner.
+¿Cómo se logra esto, presidenta? Si nos
+podía comentar un poco más.
+Primero, agradecer
+a todos los que pagan sus impuestos y
+pagan los derechos.
+Eh,
+hay una buena recaudación, pues gracias
+a que la gente está pagando sus
+impuestos y que sabe que los usamos
+bien, que nadie se está robando el
+dinero, sino que se está invirtiendo en
+programas de bienestar, en educación, en
+salud, en programas de vivienda, eh, y
+en obra pública como los trenes, los
+proyectos de agua, las carreteras que
+estamos desarrollando.
+y también en investigación
+eh y desarrollo tecnológico.
+E el SAT
+eh hizo, estoy viendo a ver si Pepe nos
+puede enviar también y si no que venga
+un día Tony con Pepe Merino. Ahora es
+mucho más fácil sacar tu RFC,
+por ejemplo. Antes te pedían montón de
+trámites todavía hasta el año pasado y
+ahora hicimos una reducción de trámites.
+Entonces, eso facilita poder acceder al
+RFC. Eh, y algunos otros trámites que
+tenía el SAT que facilitan para poder
+pagar los impuestos y desde los grandes
+empresarios, con sus excepciones que ya
+conocemos, también están pagando sus
+impuestos igual que el contribuyente
+menor. Y la otra pues es el trabajo que
+se está haciendo en aduanas. Ayer, el
+lunes, tuvimos reunión de aduanas, yo
+dije que eran 150,000 millones, son
+180,000 millones de pesos adicionales
+que se han recaudado de enero a julio en
+aduanas, 180,000 millones de pesos.
+Entonces, eso también es parte de las
+contribuciones.
+Bien, presidenta. Y ya por último, si me
+permite,
+eh,
+las la ayer hubo una sesión en la
+Suprema Corte de Justicia de la Nación y
+en este caso la presidenta de de la
+Corte, la ministra Piña, eh sorprendió
+al convocar a una nueva sesión
+extraordinaria, a pesar de que ya se
+había realizado la que consideraba la
+última reunión del actual pleno antes de
+su del cambio del primero de septiembre,
+que aquí ya sea toc tocado bastante el
+tema y su decisión que se eh extiende la
+actividad judicial hasta el 19 de
+agosto, el próximo 19 e incluso podría
+llegar hasta el 28. Levanta
+cuestionamiento sobre si busca influir
+en resoluciones claves antes de dejar el
+cargo en un contexto marcado por
+tensiones políticas y el inminente
+relevo en el Poder Judicial. la maniobra
+de Piña, eh pues de la ministra Piña,
+perdón, abre dudas sobre esta
+pertinencia y este pues especialmente en
+temas electorales de alto impacto. Eh
+usted seguramente está enterada,
+presidenta, ¿qué pudiera comentar
+respecto a este a este tema que ha se ha
+levantado mucha polémica?
+Pues habría que preguntar por qué
+quieren una sesión extraordinaria.
+A lo mejor iban a resolver los
+impuestos.
+de un una persona que debe mucho,
+eh, y si no que digan por qué
+están llamando a una reunión
+extraordinaria, porque ayer era la
+última sesión ya de la corte del pasado,
+vamos a decir, el primero de septiembre,
+eh
+todavía puede llegar
+impugnaciones de los magistrados y el
+término que da la ley para
+no pues eso sí está
+o que a poco hasta el último momento van
+a querer echar para atrás la reforma al
+poder judicial. Pues eso ya
+impugnaciones.
+Ah,
+todavía no resuelve completamente el
+Tribunal Electoral. No,
+todavía no resuelve. Sí, todavía no
+resuelve el Tribunal Electoral.
+Recuerden que se eligieron
+eh Bueno, estamos ¿Qué? ¿Qué día es hoy?
+13
+de agosto. Pues, ¿qué tanto van a
+esperar para el primero de septiembre?
+Primero.
+Segundo,
+hay de acuerdo con la Constitución, hay
+una sola
+forma en que la Corte puede
+intervenir,
+que es para
+los que participaron en el Tribunal
+Electoral,
+en la sala superior del Tribunal
+Electoral.
+Porque finalmente la sala superior del
+Tribunal Electoral pues no podría
+decidir sobre sí misma supuestamente,
+pero no sé si tienen sustento las
+impugnaciones o no. Lo cierto es que ya
+se van
+y pues vamos a ver esta última sesión
+extraordinaria, la que están llamando.
+¿Qué sentido tiene?
+Eh, presidenta, y a propósito de este de
+la corte también eh aprobaron el
+proyecto para el próximo año en donde
+Ah, sí, de presupuesto, ¿no? Pues no,
+ya viene la nueva corte, ya no van a
+ganar tanto, ya van a ganar
+menos que la presidenta. No pueden ganar
+más que la presidenta. Eso ya lo dice
+claramente la Constitución.
+aprobaron un presupuesto altísimo,
+pero bueno, ya viene la nueva corte,
+los tiempos
+llega aire fresco al poder judicial.
+¿Hubiera sido correcto que la próxima
+corte hubiera sido revisado el
+Pues lo pueden revisar de nuevo, no? No
+tienen por qué no revisarlo.
+Gracias, presidente.
+A ver, vamos allá atrás porque no este y
+luego Reina le prometió, ahorita vamos
+contigo. E
+a ver, a ver, a ver, ¿quién? A ver, la
+compañera que
+de los derechos de los animales siempre
+nos habla.
+¿Me puedo parar? Sí.
+Bueno, para no salirse del tema, aunque
+traigo dos más, ¿será Olíia una
+esperanza para los animales para
+erradicar
+la atracción a sangre?
+La atracción a sangre, o sea, para
+erradicar la esclavitud de los perros,
+de los de los caballos y de los burros
+que utilizan como carretoneros, por
+ejemplo.
+Bueno, se puede usar de distintas
+maneras.
+Será una esperanza línea para eso?
+probablemente
+es otro debate, tal vez otro día
+entramos a eso.
+Bueno, señora presidenta, permítame para
+poder formularle la pregunta, hacer una
+muy breve cronología y recapitulación
+sobre el movimiento por los derechos de
+la naturaleza.
+Vamos siendo breves nada más para que
+Sí, un movimiento que inició hace más de
+50 años. En 2008, Ecuador fue el primer
+país en incluir los derechos de la madre
+tierra, la Pachamama, en su
+constitución. En 2010 entró en vigor en
+Bolivia la Ley de los Derechos de la
+Madre Tierra y en 2012 se aprobó la Ley
+Marco de la Madre Tierra y Desarrollo
+Integral para Vivir Bien. Esta última
+recoge la cosmovisión de las comunidades
+indígenas y pueblos originarios como
+guardianes ancestrales de la naturaleza.
+En México, el Movimiento por los
+Derechos de la Naturaleza tomó fuerza en
+2013 con la Ley ambiental de Protección
+de la Tierra en el entonces Distrito
+Federal. Sin embargo, dicha ley ha sido
+reformada recientemente, eliminando,
+lamentablemente, conceptos clave como el
+que se reconoce a la Tierra como un ente
+vivo. En 2014, el Estado de Guerrero fue
+el primero en reconocer los derechos de
+la naturaleza en su Constitución.
+En 2016 se llevó a cabo el primer foro
+internacional por los Derechos de la
+Naturaleza en la Ciudad de México, el
+cual motivó que en 2017 se incluyeran
+estos en su nueva Constitución.
+Posteriormente se incluyeron en las
+constituciones de las entidades
+federativas de Colima en 2019, de Oaxaca
+en 2021 y el Estado de México en 2024.
+Los gobiernos de Chile y Colombia
+presentaron ante la Corte Interamericana
+de Derechos Humanos una solicitud de
+opinión consultiva sobre las
+obligaciones de los estados parte para
+responder a la emergencia climática.
+Resultado de dicha solicitud el pasado 3
+de julio de 2025 como un gran avance, la
+Corte emitió una histórica opinión, el
+reconocimiento de la naturaleza y sus
+componentes como sujetos de derecho. Así
+también ha habido diversos intentos para
+reformar la Constitución Política de los
+Estados Unidos Mexicanos en ese sentido,
+pero sin éxito. Señora presidenta, es
+apremiante una visión biocéntrica y
+ecocéntrica fundamental para cuidar y
+preservar nuestro patrimonio biocultural
+para las generaciones presentes y
+futuras. Que se reconozca que la
+naturaleza y todos los seres vivos y
+elementos que la habitan tienen derecho
+a existir, prosperar y evolucionar y a
+ser respetados y protegidos por su valor
+intrínseco y no por su utilidad para los
+seres humanos.
+Considerando que no hay justicia social
+sin justicia ambiental y a la inversa y
+siguiendo el enfoque de una sola salud,
+la pregunta, señora presidenta, es,
+¿será tiempo de que México reconozca la
+naturaleza a sus especies, individuos y
+ecosistemas como un ente colectivo
+sujeto de derechos en su carta magna?
+Estoy analizando
+hasta dónde ha llegado la Constitución
+en nuestro país. Eh, se reconoce el
+derecho a un ambiente, a un medio
+ambiente sano.
+Eh, se reconoce
+los derechos de los animales,
+eh, o por lo menos el no ejercer
+violencia contra los animales.
+y habría que ver. Vamos a plantearle
+este tema Alicia Barcenas.
+Gracias, señora presidenta. Y una
+segunda pregunta más breve.
+Eh, en el marco del segundo festival y
+académico por los derechos de los
+animales y contra la violencia, el 18 de
+agosto se inaugurará la exposición
+revocar el silencio en la secretaria de
+educación pública. Muestra que tuvo
+lugar en 2022 en el complejo cultural
+Los Pinos y que inauguró en aquel tiempo
+la secretaria de educación, la maestra
+Delfina Gómez, en representación del
+presidente Andrés Manuel López Obrador.
+En esa ocasión se en esta ocasión se
+distribuirá un tríptico informativo y
+será el inicio de una campaña, erradicar
+el maltrato, la crueldad y la tortura
+animal, un compromiso por la paz.
+Agradecemos a la Dirección General de
+Planeación, Programación y Estadística
+Educativa por su altura de miras. Señora
+presidenta, revocar el silencio es un
+ensayo fotográfico a través del cual,
+como lo señalara la escritora Francesca
+Gargalo, confirmamos que los derechos de
+los hombres y mujeres han pervivido a
+costa de la negación de los derechos de
+los animales y la naturaleza. Esta
+exposición estará un mes en los recintos
+emblemáticos,
+perdón, de la Secretaría de Educación
+Pública y posteriormente itinerará al
+Senado de la República la última semana
+de septiembre, cuyas anfitrionas serán
+las senadoras Aní González Hernández y
+reina Celeste Asencio Ortega. Nos
+acompañarán indistintamente el poeta
+Homero Arigis, la escritora Elena
+Poniatovca y el músico Horacio Franco,
+embajadores de buena voluntad del
+Movimiento Conciencia, entre otras
+personalidades tanto del gobierno
+federal como artistas, académicos y
+ciudadanos comprometidos que se han
+solidarizado en esta lucha.
+Nada nos gustaría más que contar también
+con su presencia, señora presidenta. Su
+opinión tiene un peso enorme en el
+despertar de las conciencias. La
+pregunta es, ¿usted me aceptaría la
+invitación a conocer este ensayo
+fotográfico por los derechos de los
+animales?
+Bu,
+¿qué día es la inauguración?
+Se inaugura el lunes 18 a las 11 de la
+mañana. Estará un mes en la Secretad de
+Educación Pública.
+Bueno, vamos. El lunes va a estar
+difícil, pero vamos a ver si vamos a dar
+la vuelta.
+Muchas gracias, señor presidente,
+Gracias. Bueno, vamos eh a ver aquí el
+compañero atrás y luego reina porque se
+lo prometí desde hace dos días.
+Eh, gracias presidenta. Yo quisiera ah
+vamos yendo rápido porque ya sonó. Soy
+Marco Antonio Olvera del periódico
+Digital Hidalgo News y del Canal México
+México Newswor. Presidenta, quisiera
+saber de cuántos serán los empleos
+generados de manera directa e indirecta
+con la fabricación de este automóvil y
+también saber eh
+quién será el encargado de distribuir
+las mismas unidades y la cantidad de
+unidades que saldrán al mercado en un
+primer ciclo, por decirlo. Vamos primero
+a lo primero. Vamos al diseño. En
+septiembre se presenta el prototipo, o
+sea, ya el próximo mes. Después viene ya
+la fabricación de los primeros y en el
+proceso pues ya es la instalación de la
+planta o las plantas pueden ser también.
+O las plantas. Presidenta. En otro tema
+rápido, el pasado 11 de junio de los
+Corrientes, el CEO de la cervecera
+Heinek con Ceden Ámsterdam, capital de
+los Países Bajos, vino a anunciar una
+inversión de 2.7 millones de dólares con
+el objetivo de obviamente generar pues
+empleos en el país y a su vez hacer más
+productiva el líquido que es la cerveza.
+También hubo un acuerdo con eh más de
+1087 productores de cebada provenientes
+de los estados de Puebla, Clascala,
+Hidalgo y el Estado de México. Estos
+1087 productores tienen eh sembradas
+87,000 haáreas, de las cuales son eh
+producen estas hectáreas 35,000
+toneladas. En ese sentido, Heineket,
+bueno, pues eh ha roto eh el acuerdo
+comercial con estos productores y hoy se
+quejan de que pues la cebada se les está
+ahí, eh las bodegas incluso se están
+echando a perder. Entonces, eh ya
+incluso también fueron la Secretaría de
+Gobernación a la acceder para que eh
+obviamente eh renegocien ese acuerdo
+comercial para que eh estos eh pequeños
+productores de cebada pues tengan pues
+sus ganancias de la siembra de la
+cebada. Y hay que recordar que Heineker
+pues en el país ha generado un 65%
+de su crecimiento. Entonces pues es si
+hubiese la posibilidad de explicarlo.
+Pedimos le pedimos a Julio Verdegué que
+inmediato.
+Gracias, presidenta. Por otro lado,
+rápido con la cuestión de los
+periodistas. Eh, bueno, cuando se
+asesina o se persigue a cualquier
+periodista, así sea de un medio
+independiente o de un machuchón, como
+decía el presidente, pues se cuarta eh
+la democracia. Sin la prensa no hay
+democracia en cualquier país. En ese
+sentido, presidenta, quisiera saber cuál
+es su opinión de la muerte de dos
+corresponsales en Gaza de la agencia
+Alcheguira. Terrible lo que pasa en
+Gaza. Es terrible. Es es eh
+es muy triste.
+Eh y particularmente pues eh lo que
+ocurrió con los periodistas no solo
+fueron dos, eh han sido más, pues
+también evidentemente no. Por eso
+nosotros siempre hacemos un llamado a la
+paz urgente
+y al reconocimiento de ambos estados.
+Gracias, presidente. Buenos días.
+Gracias.
+Muy buenos días, presidenta. Este Amir
+Ibrahim de El Quintanarro MX. Muy buenos
+días. Voy a centrarme por las cámaras.
+Este, la primera pregunta pues sería
+también sobre el auto, eh, que si tienen
+ya como el concepto de la seguridad que
+lleva el auto, pues en los cuestiones de
+seguridad, porque pues puede haber
+algunos accidentes si están si el modelo
+contempla alguna tecnología de seguridad
+interna.
+Roberto,
+una de las primeras cosas que estamos
+haciendo en Olínea es definir
+normativamente qué es un mini vehículo.
+Entonces, hoy si queremos nosotros
+emplacar un mini vehículo, lo tenemos
+que emplacar como una cuatrimoto y eso
+no es adecuado. Tampoco puede ser un
+vehículo. Entonces, al crear la norma,
+estamos estableciendo y trabajando con
+la Secretaria de Economía para
+precisamente asegurarnos que la
+categoría de minivehículo de la cual
+Olínea será un participante
+pueda ofrecer las mejores condiciones de
+seguridad para el vehículo. Es un
+asunto, sin duda que nos nos ocupa y nos
+tiene trabajando.
+Muchas gracias. Y en otro tema, este, el
+sargazo en Quintana Ro es un es un
+problema que ya tiene temporada, ¿no?
+Más o menos inició como en el 2017 la
+primera oleada fuerte de Sargazo que se
+tuvo conocer. Yo tuve la oportunidad de
+documentar muy de cerca
+porque en ese momento pues una empresa
+que había ganado la licitación para
+extraer el sargazo y todo eso como una
+medida emergente eh pues nos permitió
+cubrir exactamente cómo llevaban las
+acciones en varios puntos de las playas.
+Hicimos dos tomos de documentación,
+trabajamos con unos compañeros que son
+biólogos también en en ese trabajo. Unos
+documentamos, digamos, lo que estaba
+pasando y la verdad es que el programa
+de Sargazo era es fue un problema muy
+fuerte, o sea, lo sacaban y básicamente
+al otro día estaba exactamente igual,
+¿no? Y pues se implementaron medidas
+como estas de las barreras, las famosas
+barreras que contienen hasta cierto
+punto el zargazo, pero en realidad las
+oleadas fuertes de sargazos la barrera
+no no funciona tampoco, funciona hasta
+cierto punto, ¿no? y ha venido
+evolucionando este tema del sargazo,
+pero
+el gobierno de México, claro que ha
+hecho este el esfuerzo con la Secretaría
+de Marina también de extraer el zargazo
+y sin embargo, señor presidente, no es
+suficiente y es un problema que sí daña
+fuerte el tema del turismo en Quintana
+Rosa, porque las personas que van pues
+no esperan tener una playa llena de
+sargazo y pues los hoteleros también han
+estado contribuyendo en lo que se puede,
+pero es un trabajo muy arduo los
+municipios y todo, sin embargo, tiene un
+origen.
+La pregunta sería, ¿por qué no atacar el
+tema del sargazo desde el origen? Esto
+quiere decir, al se crea, eh, tengo
+entendido, en las islas de Sargazo, en
+Brasil, ¿por qué no hacer un pacto
+internacional con Brasil, no?
+aprovechando la buena relación que
+tienen eh los gobiernos mexicanos y y el
+brasileño, ¿no?, para atacar el fenómeno
+desde la creación del sargazo porque
+pues no para y cada temporada pues
+empieza a hacer. Y qué pasa también en
+este sentido, que es un problema
+interesante
+de analizar que la competencia hotelera
+de otros países, porque el turismo es
+una competencia también entre países,
+pues las islas, digamos, del Caribe
+cercana o los los este la competencia
+hotelera, pues empieza, digamos, a usar
+ese argumento como pues no vayas a
+Playa, no vayas a Cancún, no vayas a
+Tulún porque hay sargazo, ¿no? Y pues
+mejor aquí tenemos estas playas en donde
+no llegan. Y entonces pareciera que en
+este momento pues no es tan grave porque
+pues llegan
+muchos turistas al estado de Quintana
+Ro, gracias a Dios y eh este y pero
+podría avanzar en algún momento si el
+sargazo se mantiene, digamos, como una
+ya eh corriente, porque a partir del
+2017 lo que ha sucedido es que ya hay
+temporada, o sea, ya en el 2018 llegó en
+en ciertos meses
+2019 llegó en ciertos meses hasta el día
+de hoy ha estado, digamos, hay meses que
+baja mucho el sargazo y tampoco impacta
+todas las playas, llega a ciertos puntos
+eh eh de playas públicas, sobre todo que
+son las más importantes. Saber si el si
+el acuerdo con Brasil o este análisis de
+de atacar el problema desde el fondo
+podría ser una opción para poder reducir
+este impacto que está teniendo
+Quintanarro con el Sargazo. presidenta,
+pero
+se está trabajando en ello. Eh, no es
+claro cuál es la causa del sargazo.
+Eh, hay quien eh o hay científicos que
+plantean que es un tema de la
+deforestación de la Amazonia. Entonces,
+tampoco es tan sencillo decir, pues
+vamos a atender la causa tan
+sencillamente como que de un día a otro
+se resuelva.
+Hay quien habla que está impactando el
+cambio climático porque sargazo siempre
+ha habido, solamente que no llegaba al
+Caribe mexicano, sino que se iba a otros
+lados.
+Eh, entonces hay un grupo de
+investigación que tiene Rosaura que
+están trabajando sobre las causas de la
+llegada del sargazo y la colaboración
+internacional que pudiera haber para
+atenderlo.
+Y la otra pues es la contención del
+zgazo para que no llegue a las playas
+como las barreras, las máquinas que
+están recogiendo el zargazo y en la otra
+línea es cómo usamos el zargazo para
+algo que funcione, para que no sea solo
+basura e que pudiera llegar incluso pues
+a a generar un problema en términos de
+dónde se deposita el sargazo. Entonces,
+está trabajando en los tres temas. Ha
+habido un trabajo muy importante de la
+gobernadora, de la secretaria de Marina,
+de los hoteleros también que han estado
+trabajando. Realmente no hay un impacto
+real que uno pueda ver que debido al
+zargazo que hay en algunas playas ha
+disminuido el turismo en Quintanar Ro. E
+pero hay que atenderlo. Entonces,
+estamos en las tres áreas atendiendo el
+sargazo, conteniendo para que puedan
+estar limpias las playas, analizando,
+investigando cuál es la causa y viendo
+cómo puede contenerse desde el origen. Y
+la otra, cómo puede usarse el zargazo
+para que pueda servir, para generar
+energía, para construir tabiques, en
+fin, hay varios usos que pueden tener
+siempre y cuando se capture en el mar.
+Y como un tercer tema ya rapidísimo
+también de Quintana Ro, sucede que hay
+una, digamos, este
+en el en los temas del predial, las los
+hoteleros, los hoteles grandes, los que
+tienen eh digamos este un precio sobre
+el predial, digamos eh mucho menor al
+que paga
+una persona que vive en una casa, ¿no?
+Eh, y trabajadora, ¿no? Precisamente
+este se ha optado en algunos algunos
+municipios por aumentar ese costo del
+predial a los a los a los hoteleros y
+tratar de reducir el costo también del
+predial a otras a este a las casas
+normales, pues no. Eh, ¿qué opinarías
+sobre este tema? Eh,
+pues son temas eh municipales,
+principalmente el predial se cobra a
+nivel municipal. Hay algunos estados que
+no que lo tienen a nivel estatal. La
+Ciudad de México, por como está
+constituida, el predial se cobra a nivel
+de la entidad, pero tiene que ver con
+pues con los municipios. Ahora, mi
+opinión pues es como siempre los
+impuestos. Quien más tiene pues debe
+pagar más, quien menos tiene debe pagar
+menos.
+porque si no profundizas las
+desigualdades y la pobreza. Y hay
+estados que han avanzado mucho en eso y
+otros que pues todavía falta. Y el la
+Agencia de Transformación Digital tiene
+asesorías para los catastros, porque
+para poder decir dónde puede aumentar el
+predial para ciertas zonas que son de
+muy alto nivel económico, pues tienes
+que tener mapeado el municipio o los
+distintas poblaciones de los municipios
+para saber realmente cuáles son esas
+zonas y ahí eh ayuda mucho la agencia de
+transformación. Entonces ahí los
+alcaldes pueden acercarse a la agencia
+para
+pueden acercarse a la agencia para toda
+la asesoría
+eh sin costo alguno para que puedan
+digitalizar sus catastros.
+Muchas gracias, presidente.
+Sí, ahora sí.
+Gracias. Gracias, presidenta. Parece que
+no me quiere dar mucho tiempo, pero
+espero que me deje tocar los tres temas
+que que traigo y y sí quisiera hablar
+del tema, pero tengo como un año que no
+hablo y este porque la movilidad es muy
+importante, presidenta, hasta le iba a
+platicar de mis vacaciones en en un
+paradisíaco lugar de este México.
+En La Paz hay un camión para una
+colonia. O sea, que si la gente no sale
+en la
+Ah, estamos ayudándole a la paz porque
+vamos a
+tardan una hora, presidente.
+Creo que a ver, pregúntale Andrés,
+¿cuántos autobuses vamos a comprar para
+qué bueno que lo
+el municipio de La Paz? Sí, desde hace
+mucho
+y está muy caro. 12 pesos.
+Bueno, o sea,
+con excepción de la Ciudad de México,
+porque no sé cuánto cueste allá en
+Hermosillo.
+En Hermosillo cuesta eh igual 10. Y
+con excepción de la Ciudad de México,
+fíjense, el programa social
+o uno de los programas sociales más
+importantes de la Ciudad de México es el
+subsidio al transporte público.
+El metro cuesta 5 pesos, pero en
+realidad su costo es como de 12, 13
+pesos. Entonces, lo que no paga el
+usuario, pues lo paga el gobierno para
+poder
+Y, ¿por qué no hacen algo parejo así?
+piso parejo para todo México porque
+no bueno, eso depende de los Estados.
+O sea, es que yo a mí me tocó ver una
+hora, presidenta, para que llegue Hay un
+solo camión, por ejemplo, para la
+Lomalinda y eh eh para cada colonia.
+Entonces, eh, la gente sufre mucho con y
+luego el calorón hay tiene tienen un
+camión que le llaman tiburón, muy
+elitista, trae aire, pero pues también
+cuesta más y tienes que comprar una
+tarjeta para poderte subir a él que
+cuesta 50 pesos. Entonces, pues no, las
+condiciones en la paz no son porque ya
+se ya ve cómo está Cancún, la mitad
+ricos, muy ricos y la otra mitad muy
+pobres. Los cabos es igual, una mitad
+muy ricos y otra mitad muy pobres.
+Entonces, la paz ya está casi igual. Hay
+mucha pobreza, eh, marginación, no hay
+transporte. Me tocó una semana sin agua.
+Eso eran las vacaciones.
+Vamos a hacer una presa ahí en La Paz
+y se van a adquirir autobuses este mismo
+año.
+Bueno, ese no era el tema, pero como
+estaban hablando de movilidad, ojalá
+llegara esos camioncitos. Imagínese, no,
+hombre. Pero bueno, presidenta, ¿cuánto
+gana usted ahorita que habla de sueldo
+de de que ya se van a bajar estos
+señores el sueldo? Que qué bueno.
+¿Cuánto gana usted? Si nos puede
+recordar, por favor, porque
+a ver, ¿cuánto gano yo. Vamos.
+Bruto, ¿no? Bruto. ¿Y cuánto le queda?
+No, Neto. A ver si nos puede decir
+Luisa,
+neto son como 130, creo.
+O sea, que queda como c bruto. ¿Cuánto
+sería? Como c
+no bruto es con los impuestos, con el
+Iste, con lo que es es como,
+o sea, me descuentan debe ser como un
+40% más o menos. Entonces serían centé
+160, 70
+133000 pesos
+en bruto
+mensuales neto
+y bruto.
+Vamos a ver.
+191.
+191. Ah, bueno, sí, ganan un poquito
+menos los del Senado, pero hay un
+trabajo de investigación por ahí que
+habla de que hay 60 personas que ganan
+170 y tantos pesos. Y
+por cierto, este año no aumentamos los
+salarios de
+independientemente de las
+ni el año que entra de los
+de los funcionarios, de los servidores
+públicos de confianza. Sí,
+se bajó,
+no no aumentó. Normalmente aumentaba la
+inflación
+incluso con el presidente López Obrador
+y nosotros no.
+Entonces, ¿cuál sería el promedio de un
+funcionario federal, por ejemplo, el
+promedio salarial?
+Sobre 70, yo creo.
+70. Y
+bueno, depende. Ahí este
+sí de administrativo,
+sí, funcionarios que ganan 15,000 pesos.
+Y bueno, y ahora porque ya ve con esta
+ola que se ha venido de
+ya como que ya le salió el cinismo
+panista por ahí algunos que se vinieron
+a la a Morena y la corrupción priista
+que también se vino para acá y
+ahí andan exhibiéndose con sus ropas y
+todo. Usted vive
+Ya, ya hablamos de eso, ya hablamos
+muchas
+usted vive en la justa medianía,
+presidenta.
+Ya hablamos de eso. No, pero usted no
+nos ha contado su historia.
+A ver, yo vivo aquí en en Palacio, ahora
+en un departamento, en el mismo
+departamento donde vivía el presidente
+López Obrador.
+Pero
+previo a ello, vivía en un departamento
+rentado ahí en la colonia
+Toriello Guerra en en Tlalpa
+y previo a ello vivía en una casa donde
+crecieron mis hijos, en San Andrés
+Totoltepec en Tlalpa.
+Entonces, consideraría que sí vive en la
+justa medianía,
+¿no?
+gano mucho más que lo que gana el
+trabajador medio. El salario medio de un
+mexicano, mexicana, de acuerdo con el
+Instituto Mexicano del Seguro Social es
+sobre 18,000 pesos más o menos,
+porque la el problema de que, por
+ejemplo, lo último que sacaron del
+Senado, 60 personas, amigos, familiares,
+como jefa de gobierno ganaba 86,000 pes
+mensuales.
+Bueno, pues eso sí es muy imagínese el
+salario promedio de un mexicano no llega
+ni a 7000 pesos a la semana.
+El promedio es de 17000. Ajá.
+3500 más o menos. Y eso yéndoles muy
+bien. O sea, no son ni 3000 pesos.
+Por eso hay que seguir aumentando el
+salario mínimo.
+Entonces,
+digo 60 personas que ganan 170,000 pesos
+y en la mayoría de los casos son
+administrativos.
+Por cierto, hoy iba a salir el resultado
+de pobreza del INEG. Ya salió.
+Pero a veces las encuestas no reflejan
+muy bien lo que vive vive la gente en
+las
+en las colonias.
+Ah, no a las 10.
+Entonces, eh aquí la pregunta,
+presidenta, es por qué esa disparidad
+que ya se la ha hecho muchas veces,
+ojalá tenga usted oportunidad de de
+contarnos qué pasa ahí, por qué un
+administrativo,
+un exfuncionario gana más que un
+policía, que un enfermero, que un
+doctor, que un maestro. Tenemos que
+publicar, por cierto, ya se aprobó en el
+Congreso y tenemos que publicar
+porque se aprobó que el salario
+mínimo
+de un policía, de un soldado, de no
+puede ser, o sea, tiene que ser el
+salario medio del IMS y después del 2024
+y después aumentar de acuerdo a la
+inflación.
+esa esa
+resolución del Senado tenemos que
+publicarlo. Va a ser publicada en estos
+días, pero no hay no hay no sé si usted
+tenga alguna iniciativa o algún
+pensamiento de que pudiera equiparar un
+poco más o hacer un poco más este
+homologado. O sea, es que
+bueno, este año el salario de los
+maestros lo aumentamos 10%.
+Bueno, aumentar los 10.
+¿Por qué no lo comparamos con lo que
+eran los salarios? Lo de los
+administrativos
+en el periodo neoliberal
+es igual que con el PRI que con el PAN
+ganan mucho dinero.
+Recuerda
+ganan mucho dinero.
+Peña Nieto ganaba como el doble.
+Pero los funcionarios 170,000 pesos a
+usted le parece justo por vea los los
+empleos que tienen técnico de no sé qué
+de no sé qué.
+Asistente del asistente del asistente.
+Eso es eso sí sigue siendo
+no. Se ha reducido muchísimo todo eso
+del asistente. El asistente eso ya no
+existe,
+pero sigue. Imagínese si se ha reducido,
+o sea, todavía les falta pues un poco
+más porque
+Pero fíjate, reina, porque
+es importante comparar con lo que era
+antes. O sea, recuerden que el salario
+mínimo estaba sobre 3,500 pesos en el
+2018.
+Hoy el salario mínimo es 8000, más de
+8000 pesos
+y va a seguir aumentando para que el
+salario mínimo alcance
+por lo menos a 2.5 canastas básicas. O
+sea, lo que fue todo el periodo
+neoliberal, el salario mínimo no aumentó
+y los salarios de los funcionarios eran
+el doble de los que son ahora.
+Y así están muy altos y luego aparte la
+vida se ha encarecido mucho. 50 pesos un
+kil de naranjas en La Paz.
+A ver si ya lo que ya salió publicado en
+el INEGI.
+Entonces, ¿cómo no voy a citar cuál
+salió publicado en
+presidenta? Si son tiempos de la 4T,
+pues este sería el momento. O sea,
+porque
+no pues ya a ver una disminución de los
+salarios, reina, no te que no se nos
+olvide esa parte. Y ahora no hay
+aumentos salariales para los
+Pero aún siguen ganando mucho y sigue
+habiendo el nepotismo y sigue habiendo
+la preferencia de meter al primo, al
+hermano, al pariente. Ya ve la pareja de
+Gutiérrez Barreras.
+¿Dónde?
+¿Cómo que dónde? Acaba de salir ese
+reportaje de de lo que está en el
+Senado. Están los Gutiérrez Barreras que
+no tienen la mínima decencia de seguir
+las reglas del que dejó el presidente. O
+sea, es son ostentosos, cínicos. Yo no
+sé qué hice. ¿Qué pasó?
+A ver, pero ¿por qué no hablas tú de la
+hipocresía de la derecha?
+¿De quién? De
+de la derecha. Que ahora se
+Ah, pues ya lo hablado mucho, pero
+los domingos van a misa y luego
+presidenta, pero ahorita la derecha y y
+usted lo sabe bien. ¿Para qué quiere que
+le cuente yo? Eh,
+a ver, ¿por qué no hablamos del cártel
+inmobiliario? No pinta en el en el país,
+presidenta, porque fue el México.
+Ah, en eso sí estoy de acuerdo.
+México, México,
+en eso sí estamos de acuerdo.
+México votó por
+¿Cómo dijiste la derecha no pinta en el
+país.
+México votó por el presidente porque
+justo se iba a acabar los excesos y la
+corrupción y la impunidad
+que dejó el PRI, que dejó el PAN. Pero
+no ha sido así, presidenta.
+Y lo estamos viendo.
+¿Sabes cuánto destina el gobierno?
+El presupuesto público
+para los programas de bienestar
+son 85,000
+millones de pesos. El próximo año,
+suficiente año. El próximo año
+los programas de bienestar van a
+representar un billón de pesos.
+¿A dónde se iba antes ese billón?
+Porque no había programas de bienestar
+universales como hay ahora.
+Hoy todos los adultos mayores reciben
+una pensión. Hoy todos los jóvenes de
+preparatoria tienen una beca, si van a
+escuela pública.
+Hoy todas las personas con discapacidad
+reciben un apoyo. Hoy todos los pequeños
+propietarios, sejidatarios, comuneros
+que cultivan el campo reciben
+fertilizantes gratuitos, ¿no? Por
+supuesto que tiene que mejorar todavía
+más. Por eso
+y que falta trabajar un poco más arriba,
+o sea, con estos funcionarios. La no ha
+hecho el presidente quería pasar a la
+historia como el que terminó la
+impunidad y la corrupción.
+Lamentablemente no fue así porque había
+la esperanza de que lo lograra. No,
+no. Él lo él lo dijo. Él lo dijo aquí en
+la mañanera.
+Sí, pero es tu opinión. Pero no podría
+haber habido programas de bienestar sin
+haber aumentado impuestos.
+Sí, hay hay.
+Entonces, antes todo eso se lo robaban o
+era para altos salarios de los
+funcionarios.
+con que me des un ejemplo, se presenta
+la denuncia, nosotros no vamos a cubrir
+a nadie. Eso ya lo he dicho, pero
+tiempo, pero sí hay ejemplos, lo estamos
+viendo. Eh, ahora también acaban de
+decir que se siguen tapando con la misma
+cobija. Por ejemplo, ahorita para pasar
+al otro,
+este muchacho Arturo o señor, que sé que
+será, que acaban de de la PGR que acaban
+de detener,
+tenía tres sexenios en el gobierno
+federal en y hasta hoy. Lo bueno que ya
+lo van a investigar. Espero que tengan
+la inteligencia y los elementos para
+poderlo consignar por corrupción, qué sé
+yo, porque hasta ahorita también en ese
+punto no se ha avanzado mucho. Hay la
+impunidad está arriba del 90 y tantos
+por en México. Entonces, Arturo Serrano,
+eh, presunto,
+le acusan de presuntos actos de
+corrupción ahí en la fiscalía, eh, pero
+tenía tres sexenios. Sí, entró con
+Calderón, presidenta, en 2009 y lo
+mantuvo Peña Nieto y lo mantuvo Andrés
+Manuel López Obrador.
+No, pero en la fiscalía, cuenta que la
+fiscalía.
+Pero la misma cosa, ya ve que aquí el
+fiscal ayer no me dejó preguntarle,
+presidenta, me hubiera dejado
+preguntarle a él. Eh, se protegen, pues,
+se protegen entre ustedes, entre los
+políticos, entre, no sé qué pasa cuando
+llegan ahí, presidenta. No sé, no sé.
+que a lo mejor usted un día nos quiere
+decir porque se empoderan, se
+envalentonan,
+empiezan a corromperse, empiezan a ver
+cuando así en general, reina, porque hay
+que dar casos en particular,
+le doy
+porque la corrupción
+tiene que documentarse. Ahí tenemos a
+los
+cuando se habla así en general, por
+ejemplo, yo cuando estuve en el gobierno
+de la Ciudad de México, la fiscal
+general de justicia documentó la
+corrupción
+de el cártel inmobiliario
+y hay personas en la cárcel. Documentó
+la corrupción de personajes que habían
+participado en el gobierno anterior
+y hubo detenidos.
+Hubo detenidos incluso del gente que
+había sido subsecretaria
+en su momento del gobierno anterior al
+que nosotros llegamos. Pero tiene que
+documentarse.
+Claro,
+porque tiene que haber pruebas de decir,
+"A ver, esta esta persona,
+pero le correspond
+cometió un acto de corrupción
+y ¿quién lo documenta?
+Para una sanción administrativa.
+Administrativa, ¿qué quiere decir? que
+deje su puesto, que no pueda seguir
+trabajando en el gobierno, que las
+sanciones administrativas las hace ahora
+el Tribunal de Justicia Administrativa
+como parte del llamado sistema
+anticorrupción y cuando es penal, cuando
+se van a la cárcel, pues es la Fiscalía
+General de la República y un juez tiene
+que dictaminarlo.
+Hay muchos jueces,
+hay cerca de,
+creo que son como 60 denuncias,
+¿sí? de personas que no pagan impuestos
+eh por parte del SAT y que cada vez que
+lo presenta la fiscalía un juez dice,
+"No procede, no procede, no procede."
+Por eso, qué bueno que ahora en los
+temas
+podamos ir reduciendo la impunidad con
+la nueva corte, ¿no? Ahí en los temas
+del no tengo mucho conocimiento yo, pero
+en los penales sí. Y en los en lo que es
+de la justicia y hay un
+amafiamiento
+entre no es nada más los jueces. Cuando
+llega a los jueces ya es otra cosa.
+Viene desde el policía, el Ministerio
+Público, el el
+No, pero te estoy dando el caso de cómo
+la Fiscalía General de la República
+presenta un caso de una denuncia,
+pero este señor Arturo Serrano,
+de factureros, por ejemplo,
+trabajaba en la fiscalía anticorrupción
+y el juez, porque ¿quién dicta una orden
+de aprensión? Un juez.
+Sí, pero con lo que ya le dieron los el
+MP y los demás
+los de abajo. Entonces viene la
+la negligencia y la desde todo es una
+cadenita de de y que es ahí donde
+llegamos al
+Pero te estoy poniendo otro caso.
+La fiscalía actúa, presenta las pruebas,
+se las da un juez y el juez dice, "No,
+no te puedo dar la orden de apción." ía
+pruebas
+ampliar un poco porque ya ve la fiscalía
+ha sido muy negligente. Ahorita yo creo
+que es la primera vez que detienen a
+alguien de adentro de su No sé si usted
+tenga conocimiento de que
+no pues tiene que explicarlo el fiscal
+dentro de la fiscalía
+y por ejemplo ese muchacho, fíjese
+estaba en entre el dos con Peña Nieto y
+que tampoco le hicieron nada a Peña
+Nieto,
+pero ya lo detuvieron. estuvo en el en
+la fiscalía an, ¿no? Estu Fiscalía
+Anticorrupción, o sea, él era el que
+revisaba toda la corrupción de la
+fiscalía. Imagínese, ahí estaba este
+muchacho y ahora
+Bueno, pero tú estás diciendo que ya
+tiene orden de aprensión. No,
+no, no, no. Eh, no, apenas lo están
+investigando.
+Ah,
+entonces el problema es que ahí se
+quedan años. Ya voo de Israel, 20 años y
+nunca le pudieron encontrar un un
+indicio de culpabilidad.
+O sea, en un secuestro. Entonces,
+bueno, vamos, vamos rápido. Ya son 9:46
+ahora sí vamos a romper récord de
+mañana.
+Pero de ahí viene lo otro que ahora
+Estados Unidos está diciendo que hay que
+30 en 30 estados del país hay este
+violencia tipo terrorista y está
+alertando a sus a sus ciudadanos. Sí,
+pero eso es porque ellos este
+eh
+hacen esto desde hace mucho tiempo.
+Ahora le usan esta palabra pues porque
+así nombraron a los cártel. Pero
+fíjense, principal destino turístico de
+los estadounidenses es México.
+Bueno, aquí viven cerca de un millón de
+estadounidenses
+porque les gusta más vivir aquí, porque
+han decidido vivir. Y aquí, bueno, el
+sureste,
+la península de Baja California,
+el Pacífico,
+la Ciudad de México,
+es el el principal destino de Estados
+Unidos. Entonces, están equivocados
+ellos en
+No, pues lo que digo es que la gente
+sigue viniendo a México, entonces este
+alertamiento
+pues porque es bonito México,
+presidente, eso como México no hay dos.
+Pero sí hay, por ejemplo, en el noro,
+usted estuvo en Wasoshi, digo, allá en
+en la sierra Taraumara. Ahí la gente le
+pidó, justamente llegó usted un día
+después de que hubo una balacera ahí, la
+gente le pidió opinar al respecto. Yo
+ayer le iba a preguntar de eso a esta
+gente. Ojalá que algún martes, por
+favor, me dé la oportunidad de hablar en
+cuando vengan los el gabinete de
+seguridad para preguntarles qué está
+pasando. Usted dijo, "De eso no vinimos
+a hablar ahorita de seguridad le porque
+le cuestionaron allá. Eh, pero hoy puede
+hablar qué está pasando en la Sierra
+Taraumara, porque sí, de verdad siembran
+el terror en Sonora siembran el terror.
+Hay presencia
+en Baja California Sur siembran el
+terror.
+Pero fíjate, reina, disminución del 25%
+de homicidio dolos
+en 11 meses de gobierno. Por supuesto
+que tenemos que seguir trabajando y
+trabajamos todos los días para ello,
+pero hay una reducción del 25%.
+Y tiene el aumento de desapariciones,
+presidenta, también
+cómo ha aumentado las desapariciones.
+Sí, pero ese es el lo que dice Loret de
+Mola.
+No, no. Yo le pregunto cuál es cuánto ha
+aumentado las desapariciones.
+Sí, hay datos de ello y las vamos a
+presentar, pero
+nadie esconde porque eso es importante,
+porque cuando no
+había una reducción tan marcada porque
+no había y ahora que hay reducción 25%
+porque hay reducción. O sea, nunca va a
+aceptar la derecha, ni los datos, ni la
+información,
+ni Salió un índice hace poco de que
+México está entre los 10 países donde la
+gente se siente más feliz de todo el
+mundo,
+pues porque no le queda de otra.
+Imagínese si se quitan la felicidad
+porque en Sonora
+que contigo no se puede.
+Ay, pues ni modo que lloremos.
+como la derecha, que si es por una cosa,
+una cosa que por otra, pero no es la
+derecha, independientemente de la
+derecha, ya le, o sea, son pocos o serán
+muchos, pero qué sé yo,
+¿no? Ya, es esa fue tu frase de hoy.
+Pero,
+¿cómo cómo fue la derecha?
+Ya no pinta,
+reina.
+Y ojalá no pinte.
+Ya está dictando línea de la Y le pueden
+hacer caso, presidenta, porque ya
+controla muchos medios, ¿eh? Le van a
+hacer caso. Entonces, le van a hacer
+caso poner esa cabeza. Pero en Sonora,
+¿por qué usted considera que no se nota
+este 25%?
+Ayer vi cifras muy alegres, pero usted
+la invito, como la invitan a ver la
+exposición, yo le invito a a la loma
+obrera sin guardias, la invito a a los
+barrios. Camino por todo el país. Camino
+por todo el país y hablo con la gente,
+las escucho.
+Lo que me dicen lo llevo al gabinete de
+seguridad. Vienen no solamente los
+gobernadores, sino
+Pero no cualquiera se le puede acercar.
+Ah, cómo no. Claro que sí.
+Leyó la carta del alcalde de de de
+Wasoshi.
+Sí. Y estamos trabajando ahí también en
+la sierra.
+Sí. Yo donde dice que no les hicieron
+caso porque le dijeron que no atendieron
+la emergencia que ellos tenían de la
+balacera porque estaban hablamos ahí con
+la compañera que es la presidenta
+municipal de Guadalupe y Calvo.
+Guadalupe y Calvo es un municipio
+muy peligroso,
+está justamente en el límite con
+Sinaloa.
+Eh,
+sí.
+Y es eh un municipio que ha tenido
+problemas. Ahí hablamos con la
+presidenta municipal, vino incluso la
+presidenta municipal y con todos, con
+cualquier alcalde de cualquier partido
+político, gobernador, gobernador,
+apoyamos siempre y nos coordinamos para
+la seguridad de la gente.
+Pero, ¿por qué no le quiso dar un
+mensaje a la gente que estaba sufriendo
+en ese momento? Presidenta
+me acerqué, yo me acerco a todos. Si en
+algún momento alguna persona no la
+atendí, eh, le pido disculpas, pero
+cuando estoy en los mítines, por
+ejemplo, en las asambleas y hay personas
+que levantan una cartulina y que
+quieren participar en el momento de la
+asamblea, les digo, "Espérenme un
+segundo, terminamos la asamblea y voy a
+a atenderlos y en general me voy hasta
+el lugar donde están para poder atender
+y escucharlos y de inmediato muchas
+veces se canaliza su denuncia. para que
+puedan estar en contacto si es de
+seguridad con el gabinete de seguridad.
+Entonces, se daría un informe sobre lo
+que pasó en Washoshi en esos días decía
+el alcalde que no atendieron la
+emergencia porque estaban comisionados a
+la gira de usted para resguardar la
+seguridad. Eso dijo.
+Sí, pero no. Pero sí se daría un informe
+de qué está pasando en la sierra con si
+hay detenidos
+de cualquier lado. Nuestra obligación
+siempre es informar y no
+pero lo harían presidenta. Se
+comprometería con la sierra Taraumara
+para darles un informe de seguridad,
+algún avance.
+Sí. y y con Baja California Sur gabinete
+de seguridad también Baja California Sur
+que es una es un estado con muy pocos
+ya tienen tres meses de
+delitos
+de dur,
+pero tuvieron uno o dos delitos graves
+eh que por supuesto eh la gente se
+preocupa y ahí estamos tamb
+nueve muertos en un fin de semana entre
+ellos una una señora que la bala entró a
+su casa entonces ahorita está muy fuerte
+también ahí la
+atendemos a todos
+ciudad Constitución
+a todos
+y Sonora, pues, ¿qué le digo de Sonora?
+Ya lo se lo dije una vez al presidente.
+Tenemos un gobierno en muchas partes
+porque ya luego recibí información, pero
+ándale, reina,
+ma. Sí, sabe usted, presidenta, que hay
+un gobierno alterno en algunos estados.
+Es muy buen gobernador Alfonso esa es mi
+opinión. Muy buen
+es de los gobernadores mejor evaluados
+de todo el país.
+Pero usted sabe que hay gente que
+recurre no al gobernador sino a otras
+personas para hacer gestiones o
+justicia.
+No, a ver, no
+es un buen es un buen gobernador y en
+Sonora, como en todo el país, estamos
+atendiendo la seguridad y cualquier otro
+tema. Por eso le digo que la invito a
+que vaya, porque basta ir un fin de
+semana para darse cuenta como
+pues lo triste que es, cómo no se nota
+esto, esto que anuncian aquí de verdad,
+presidenta, de verdad, en las colonias
+no se nota, sigue la misma situación,
+sigue la pobreza, sigue el empleo, el
+empleo propio, o sea, no no no hay
+garantía de un empleo seguro.
+Por ejemplo, el Cesites,
+hay en las colonias, en los barrios,
+presidenta, hay este
+hay niños que solo tienen tres opciones.
+O la consumen o la venden o hacen otra
+cosa más fea. Sí, pero fíjate, somos de
+los pocos países que tiene una campaña
+desde las escuelas
+y cuando quieren regresar a la escuela
+para que le cierran las puertas, por
+ejemplo, necesites, le estás cerrando la
+necesites van los muchachitos que que
+pues están en muchas de estas
+situaciones y cuando quieren está bueno
+pues ya voy a regresar, ya voy a entrar
+no les aceptan, les dicen que se vayan,
+que mejor lo estudien en la prepa
+abierta cuando lo que necesitan es
+reforzar. Pero si estamos siendo más
+preparatorias, es que estamos siendo más
+preparatorias, más universidades.
+Hay una campaña masiva de por la paz y
+contra las adicciones,
+pero allá
+y vamos a seguir trabajando todos los
+días por el bien del pueblo de México.
+Todos los días.
+¿Haría usted un llamado a las
+preparatorias a que pues que tengan más
+sensibilidad en estos casos?
+Vamos a traer a Tania Rodríguez para que
+platique todo lo que estamos haciendo en
+las preparatorias.
+Es una preocupación de las familias.
+Bueno, vámonos ya, reina, porque ya son
+9:55 ya.
+Récord,
+el tren fantasma y otros
+tiempo.
+El tren fantasma. Y
+gracias a todas y a todos. Muchas
+gracias a los compañeros de Olínea y
+todavía falta el detector de mentiras.
+No se vayan. Buenas tardes,
+con su permiso, presidenta.
+Buenos días a todas y todos. Fieles a la
+estrategia de desinformación que han
+seguido desde 2006. políticos de
+oposición, comentaristas y en esta
+ocasión hasta exconsejeros del INE y del
+desaparecido IFE han lanzado mentiras
+contra la reforma electoral que no
+conocen, pues en un ejercicio
+democrático la iniciativa de reforma
+electoral se presentará luego de que la
+comisión presidencial realice foros y
+consultas. Veamos el video del detector
+de mentiras de esta semana.
+[Música]
+Desde la falsa extinción de la oposición
+y del voto libre hasta la supuesta
+reelección de López Obrador son algunas
+de las noticias falsas que el detector
+de mentiras localizó esta semana. Uno,
+la reforma electoral es un retroceso
+democrático y una imposición
+autoritaria. Mentira. A pesar de que la
+Comisión Presidencial para la Reforma
+Electoral encabezada por Pablo Gómez se
+instaló el 11 de agosto y los resultados
+de sus trabajos serán presentados hasta
+enero de 2026, medios de comunicación,
+políticos de oposición y comentaristas
+ya difunden tres líneas de
+desinformación. A. La reforma busca
+exterminar a la oposición.
+¿Qué quieren en este momento con una
+malllamada reforma electoral, un traje a
+la medida de la 4T? y obviamente
+terminar con la oposición.
+Lamentablemente con todo lo que hemos
+visto y con el personaje que han puesto
+a cargo, como es Pablo Gómez, el augurio
+es muy negativo y parecerá que es una
+reforma para evitar tener cualquier tipo
+de contrapeso y buscando tener partidos
+de oposición completamente controlados,
+sometidos desde el propio
+mentira. La Comisión Presidencial para
+la Reforma Electoral tiene como
+principio garantizar que las libertades
+sean ejercibles hasta el punto de que
+las minorías puedan convertirse en
+mayoría a través de apelar a la única y
+legítima fuente del poder, la libre
+decisión ciudadana. B. La reforma
+electoral eliminará el voto libre.
+Mentira. La iniciativa constitucional
+garantizará el ejercicio libre del voto.
+El temario general de la Comisión
+Presidencial para la Reforma Electoral
+dedica exclusivamente su punto seis al
+desarrollo de un sistema que garantice
+la efectividad del sufragio. C. La
+reforma electoral permitirá la
+reelección del expresidente Andrés
+Manuel López Obrador.
+La reelección para reelegir a quién, a
+Claudia Shan. Cuando ya hay encuestas
+que dicen que si hoy la señora
+presidenta fuera electa, estuviera en
+una de las elecciones, no ganaría esa
+elección. A pesar de que algunos dicen
+que tiene 75% de popularidad
+para que se reelija, ¿quién? El señor
+que está en Palenque.
+Mentira.
+El artículo 83 de la Constitución
+establece que el ciudadano que haya
+desempeñado el cargo de presidente de la
+República en ningún caso y por ningún
+motivo podrá volver a desempeñar ese
+puesto. Además, la presidenta Claudia
+Shan ha expresado su postura en contra
+de la reelección y el primero de abril
+fue publicada en el Diario Oficial de la
+Federación la reforma constitucional que
+prohíbe la reelección inmediata de
+diputados, senadores y autoridades
+municipales. una iniciativa de la
+presidenta Shan. Dos. México entregó
+agua a Estados Unidos a costa del
+consumo humano de los mexicanos.
+Mentira. La Comisión Nacional del Agua
+informó el 10 de agosto que las lluvias
+recientes en la cuenca del Río Bravo han
+contribuido a la mejora en los niveles
+de las presas, por lo que el abasto de
+agua potable para uso público urbano
+está garantizado al 100% en todas las
+ciudades fronterizas. El 11 de agosto,
+la presidenta Claudia Shabound desmintió
+que haya entregado agua a Estados Unidos
+a costa del consumo humano de los
+mexicanos y aclaró que la cantidad de
+agua que se entrega a Estados Unidos
+como parte del Tratado de Aguas de 1944
+se realizó de acuerdo con la cantidad
+captada de este recurso cada año. Tres.
+El gobierno de México prepara una
+reforma para quitarle a los gobernadores
+el control sobre las notarías. Mentira.
+En la mañanera del pueblo del 6 de
+agosto, la presidenta Claudia Shan
+señaló que es falso que su gobierno esté
+preparando una reforma para quitarles el
+control de las notarías a los gobiernos
+estatales con el objetivo de que estas
+dependan de la Secretaría de Economía,
+como se afirmó en medios de
+comunicación. Cuatro. El Hospital del
+IMS Bienestar, Dr. Enrique Cabrera,
+sufre falta de medicamentos.
+Es el Hospital General Enrique Cabrera.
+Pertenece al IMS Bienestar y también
+padece los estragos de la falta de
+medicamentos.
+Mentira. El IMS Bienestar informó el 6
+de agosto que el abasto de medicamentos
+está garantizado en el Hospital General
+Dr. Enrique Cabrera y el material de
+curación se ha suministrado en tiempo.
+Además, aclaró que durante 2025 se han
+realizado acciones de mantenimiento y
+supervisión de infraestructura. También
+es mentira que el hospital del IMS
+Bienestar en Tuxtepec, Oaxaca, enfrenta
+una falta de personal, equipo e insumos
+básicos. El 4 de agosto, el IMS
+Bienestar informó que el hospital en
+Tuxtepec, Oaxaca, inició sus operaciones
+en plena capacidad con 46 especialistas,
+150 camas, 25 consultorios de
+especialidad, tres quirófanos y abasto
+de medicamentos garantizados.
+[Música]
+Muchas gracias, presidenta.
+Nada más mañana vamos a hablar de esto,
+pero vean la cifra del INEGI. Va a salir
+hoy a las
+Ya salió
+la pobreza.
+Eh, el porcentaje de población en
+situación de pobreza se redujo a 29.6%.
+En 2018 era de 41.9%.
+Ya mañana detallamos. Que viva la cuarta
+transformación. Gracias.
+Muy

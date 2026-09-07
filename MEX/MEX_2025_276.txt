@@ -1,0 +1,2605 @@
+Buenos días.
+¿Cómo están?
+Bien, muy bien.
+Bueno,
+el día de hoy
+vamos a ver dos temas.
+Adelante, adelante. Siéntense, por
+favor.
+Listo.
+Bueno, vamos a ver dos temas. Un tema es
+una
+un enlace que vamos a hacer para una
+obra en Colima de Conua.
+Lo va a presentar Efraín Morales. Le
+pedí también aprovechando que pudiera
+aclarar sobre la ley de aguas, que es lo
+que eh las falsedades que están diciendo
+que tiene la ley de aguas y lo que sí
+tiene lo relevante de por qué se envió
+la ley de la reforma a la ley de aguas
+nacionales. Eso sería lo primero.
+Y después está aquí
+Pepe Merino, Rosaura Ruiz,
+Jorge Luis Pérez Hernández, coordinador
+nacional de infraestructura. Ah, bueno,
+digital. A ver, están con Pepe Merino,
+Jorge Luis Pérez Hernández, coordinador
+nacional de infraestructura digital,
+Raúl Soto García, director ejecutivo
+interino de Infotec,
+el Dr. Arturo Reyes, director general
+del Poli, del Politécnico,
+eh, y también Héctor Benítez Pérez,
+director general de Cómputo y
+tecnologías de información y
+comunicación de la UNAM y la secretaria
+de Ciencia, Humanidades, Tecnología e
+Innovación. Vamos a presentar el la
+semana pasada presentamos el convenio
+que hicimos con el Centro de
+Supercómputo de Barcelona
+y ahora vamos a presentar cómo vamos a
+hacer la supercomputadora
+Coatlicue se llama en México que va a
+iniciar su construcción el próximo año.
+Entonces, nos lo van a presentar ellos y
+la importancia que tiene que México
+tenga una supercomputadora de este
+nivel. Entonces, primero vamos con
+Efraín y después con Pepe Merino y
+Rosaura. Adelante.
+Buenos días, presidenta. Con su permiso.
+No sé si ya tengamos listo el enlace.
+Primero,
+bueno, vamos a a dar inicio a una obra
+muy importante para el estado de Colima.
+Se trata de una obra que hemos
+denominado Agua para Colima. Es la
+construcción de un acueducto de
+alrededor de 21 km que va a tener una
+inversión de alrededor de 1780
+millones. Este acueducto va a dotar eh
+de prácticamente el doble del suministro
+a la ciudad de Colima. Es un acueducto
+que está planeado para resolver eh tanto
+el suministro de agua en cuanto a
+cantidad y en cuanto a calidad para los
+siguientes 30 años en el estado de en la
+ciudad de Colima. Y si me lo permite,
+presidenta, le cedería el uso de la voz
+de aquel lado a la a la gobernadora
+Indira Vizcaíno. Buenos días. También se
+encuentra con ella el subdirector
+general de agua potable, drenaje y
+saneamento de la Comisión Nacional del
+Agua, Felipe Zatarain. Adelante,
+gobernador.
+Muchísimas gracias, Efraín. Presidenta,
+muy buenos días. Me da muchísimo gusto
+tener la oportunidad de coincidir
+nuevamente con usted. El día de ayer
+tuvimos la oportunidad de coincidir en
+este histórico 25N y el día de hoy con
+el arranque de esta obra Agua para
+Colima, que es fundamental para nuestro
+estado, particularmente para la zona
+metropolitana de la capital, Colima por
+décadas ha tenido un suministro en esta
+zona metropolitana desde un acueducto
+que viene de la comunidad indígena de
+Zacualpan, a la cual estamos
+profundamente agradecidos. Pero el
+crecimiento de nuestra zona
+metropolitana hacía indispensable desde
+hace ya varios años el tener nuevas
+fuentes de abastecimiento que
+garantizaran el acceso al agua, que nos
+garantizaran además la presión que se
+requiere y las cantidades necesarias
+para poder suministrar de forma adecuada
+a esta zona. Y con esta obra que se ha
+autorizado a través del gobierno que
+usted encabeza, presidenta, pues se deja
+una muestra clara de la sensibilidad, de
+la empatía, del amor que usted tiene por
+el pueblo de Colima. Yo lo decía en una
+visita a nuestro estado y lo quiero
+reiterar el día de hoy. De pronto, en el
+pasado neoliberal había decisiones que
+se tomaban estrictamente en función de
+cuántas personas habitaban un estado,
+por no decir de cuántos adultos eran
+parte de un listado nominal. Y con su
+gobierno queda demostrado que la visión
+de este gobierno de México, encabezado
+por la primera mujer president de
+nuestro país, toma decisiones en función
+de que todas y todos los mexicanos
+valemos exactamente lo mismo, seamos
+parte de un estado con poca población
+como el nuestro o no, que todas y todos
+los mexicanos somos seres humanos que
+merecemos tener a salvo y garantizados
+nuestros derechos y el derecho al agua
+se convierte en una realidad con esta
+obra que da viabilidad, como lo decía el
+director de Conagua, para los próximos
+por lo menos 30 años de esta zona
+metropolitana de nuestra capital. Una
+inversión sin precedentes que nos
+posibilita garantizar este servicio y
+este abasto para nuestra zona
+metropolitana. Agradezco muchísimo que
+nos acompañe el Dr. Felipe Sataraín,
+quien es nuestro director general
+también de agua potable, drenaje y
+saneamiento. Muchísimas gracias por
+estar en Colima. Y de corazón,
+presidenta, con esta y con todas las
+obras que se ha respaldado a las y los
+colimenses, al pueblo de Colima, quiero
+insistir en el agradecimiento profundo
+que tenemos esa sensibilidad que se ha
+tenido para poder atender las
+necesidades más profundas de nuestro
+estado.
+Gracias Indira
+va a comentar,
+¿no? Adelante.
+Sí, sí. Muchas gracias a todos. Un
+aplauso, [aplausos]
+si podemos poner la presentación, por
+favor.
+Bueno, en cuanto al paquete de reformas
+en materia de aguas nacionales que se
+envió al al Congreso, a la Cámara de
+Diputados, quisiéramos hacer los
+siguientes comentarios. Si me ayudan con
+la siguiente lámina, por favor. Se trata
+de dos iniciativas. Por un lado, la Ley
+General de Aguas, que establece las
+bases para la reglamentación del
+artículo cuarto constitucional y por
+otro lado la reforma a la ley de aguas
+que es reglamentaria del artículo 27. Es
+muy importante establecer que esta
+segunda es la que sienta las bases para
+que el Estado mexicano recupere la
+rectoría sobre la el manejo de nuestras
+aguas nacionales en favor del pueblo de
+México. Adelante, por favor.
+La primera eh establece las bases, como
+ya lo comenté, para garantizar el
+derecho humano al agua. se definen las
+competencias, que es un tema muy
+importante entre los tres niveles de
+gobierno. Y entre los aspectos más
+importantes es que se reconoce la eh a
+los sistemas comunitarios de agua que
+operan en distintas zonas del país.
+Adelante.
+El principal cambio es que el agua deje
+de verse como una mercancía y se
+reconozca como un derecho humano, como
+un bien estratégico para el desarrollo
+de nuestro país. Este ordenamiento de
+las concesiones, y aquí quiero
+puntualizar, eh es con esta nueva ley.
+El principal cambio es que el Estado
+mexicano, el gobierno de México es el
+único facultado para poder llevar a cabo
+el otorgamiento de concesiones.
+No será posible ya transmitir títulos de
+concesión entre particulares, porque
+esto ha generado fuertes afectaciones,
+se han generado una gran desigualdad en
+cuanto a la distribución. Con la ley de
+1992 se permitía que se realizaran
+trámites entre particulares y esto lo
+que provocó es que quien tenía recursos
+económicos o contiene recursos
+económicos, pues acumula uno o muchos
+títulos de concesión y con ello grandes
+cantidades de agua. Mientras que hay
+otros que no cuentan con los recursos
+suficientes, que no pueden tener el
+acceso al agua para las actividades más
+elementales. Estamos hablando de
+comunidades y de pequeños y medianos
+agricultores.
+También se eliminan los cambios de uso.
+Es un tema muy importante porque
+actualmente se puede cambiar el uso de
+las concesiones y esto a donde nos ha
+llevado es que, por ejemplo, se otorgan
+concesiones para uso agrícola que
+terminan siendo utilizadas en parques
+industriales, que terminan siendo
+utilizadas en campos de golf o que
+incluso se llevan a desarrollos
+inmobiliarios sin que exista un control
+del Estado y esto ha generado un gran
+desorden y grandes afectaciones.
+También se elimina, se crea un nuevo
+registro de agua nacional público que
+nos va a ayudar a tener total
+transparencia en todas las concesiones
+que se tienen otorgadas en las distintas
+regiones del país. ¿Quiénes son los
+beneficiarios, cuál es el volumen que
+tienen otorgado? y cómo se otorgaron
+estas concesiones. Adelante.
+Este es un asunto que quisiera eh
+puntualizar porque es un tema que ha
+causado muchas especulaciones, que se
+está utilizando de una manera inadecuada
+eh sobre las herencias y la compraventa
+de tierras. Eh es totalmente falso
+porque hay quien ha querido decir que ya
+no se va a permitir. Sería absurdo
+pensarlo así. El binomio binomio tierra
+agua está garantizado. Eh, se mantienen
+los derechos para heredar a sus hijos.
+En el caso de las tierras, si son uno,
+dos o tres hijos, pues se realiza este
+de manera proporcional. También se
+mantienen los derechos cuando se trata
+de la compraventa de propiedades. Se
+puede y se va a otorgar un nuevo título
+de concesión a nombre del nuevo
+propietario. Entonces, que tengan
+totalmente
+certeza de que así va a ser. Adelante,
+por favor.
+se se fortalecen los procedimientos para
+combatir el robo de agua. Aquí hemos eh
+presentado algunas imágenes de lo que de
+las afectaciones que esto implica y de
+lo sofisticado que son los sistemas,
+pero a veces no se pueden llevar a cabo
+las sanciones porque los procedimientos
+son muy laxos y se incrementan las
+sanciones para inhibir esa conducta.
+Adelante.
+Se crea un fondo de reserva de aguas
+nacionales que nos va a permitir tener
+agua suficiente para garantizar el
+derecho humano al agua, sobre todo de
+comunidades indígenas, de comunidades
+que desafortunadamente no tienen en este
+momento concesiones que les permitan
+tener un suministro constante y también
+se ya no se podrá se estamos evitando el
+acaparamiento, ya no se pueden mantener
+títulos de concesión que son utilizados
+de manera especulativa, es decir, decir,
+hay muchas eh beneficiarios de títulos
+de concesión que no los están
+utilizando, que únicamente los tienen
+almacenados y que no permiten que quien
+realmente necesita esos títulos de
+concesión agua la pueda utilizar. Es
+como tener formada una cubeta y no
+permitir que el que la necesita, que la
+tiene atrás, la pueda utilizar.
+Adelante.
+Eficiencia en el uso del agua. Se
+promueve la la tecnificación del riego,
+se fortalecen los mecanismos para medir
+el agua porque lo que no se mide no se
+puede eficientar. Se establecerá una
+regulación correspondiente para la
+captación pluvial. Nosotros somos
+promotores de la captación pluvial. Es
+un mecanismo que ayuda mucho a
+agricultores y a comunidades que se
+encuentran en zonas altas. Lo que se
+está regulando es que no se lleven a
+cabo infraestructuras pues que salen de
+cualquier proporción. En algunos lugares
+ya son verdaderamente lagos. Eh, cuando
+esto afecte la eh el ciclo del agua, es
+decir, que esa agua deje de llegar a los
+ríos, pues tiene afectaciones para
+especies de animales, para eh especies
+vegetales y lo que estamos cuidando es
+que no se cometan abusos en ese sentido.
+Adelante.
+Bueno, y finalmente quisiera terminar
+diciendo que quienes están en algunas
+ocasiones oponiéndose a esta iniciativa,
+quienes generan campañas de
+desinformación, quienes están muy
+preocupados porque no se pase esta ley
+en los términos que se ha planteado,
+pues es que lo que están haciendo es
+defendiendo sus intereses porque son
+quienes durante muchos años al amparo
+del poder político y al amparo del poder
+económico han acaparado grandes
+cantidades de agua. Y con eso no han
+permitido que quien realmente la
+necesita, sobre todo pequeños y medianos
+productores, sobre todo comunidades
+rurales y comunidades indígenas, puedan
+acceder al agua que le pertenece al al
+pueblo de México. Entonces, eso es lo
+que en son los aspectos más importantes
+que quisiéramos destacar de la
+iniciativa. Decimos que seguramente se
+discutirán los próximos días en la
+Cámara de Diputados. Sabemos que en
+algunos aspectos se está trabajando para
+enriquecer la propuesta y estamos muy
+atentos dando seguimiento a estos
+trabajos. Es cuanto de mi parte,
+presidenta. Gracias.
+Muchas gracias. Pues bueno, llegó el día
+de presentar a Cuatlique, eh uno de los
+proyectos de innovación, tecnología,
+pues más importantes y que hemos hecho
+junto con la secretaría a cargo de de
+Rosario y por supuesto bajo la
+instrucción de la presidenta Claudia
+Shabound, Cuatlicue, la supercomputadora
+pública eh mexicana que forma parte,
+como decíamos, de eh el plan el plan
+México. siguiente, por favor. Si me
+permite, presidenta, explico muy rápido
+que es una supercomputadora porque yo
+creo que ayuda a dimensionar,
+sí, la importancia.
+Muchas gracias.
+Bueno, una supercomputadora es una
+computadora hecha de miles de
+procesadores. Un procesador es lo que
+compone a una computadora normal como la
+que tenemos en nuestras casas o en
+nuestros trabajos o en la escuela que
+trabajan al mismo tiempo. Esta es la
+parte quizá más importante. con miles de
+computadoras que al mismo tiempo están
+trabajando en la solución de un mismo
+problema y usualmente suelen ser
+problemas pues que usan millones y
+millones y millones de datos y que en
+una computadora, incluso la computadora
+más avanzada que podamos tener en
+nuestro lugar de trabajo, pues tomaría
+meses, a veces hasta años. Nosotros en
+la agencia a veces procesamos conjuntos
+de datos que nos pueden tomar 3 semanas
+en procesar, pues con esto sería 2
+segundos, 2 minutos y estaría listo. ¿Y
+cómo se compone? Uno de los componentes,
+además de los CPUs, que son lo que
+normalmente tienen las computadoras en
+en nuestras casas, tienen GPUs. ¿Qué son
+los GPUs? son unidades de procesamiento
+gráfico. Estos son procesadores de
+computadoras que nacieron para
+videojuegos que demandan mucha memoria
+porque tienen pues imágenes y cada vez
+imágenes de mayor nitidez y calidad. Eh,
+los GPUs además una de las eh usos clave
+es que están eh ni mandados a hacer para
+procesar temas de algoritmos de
+inteligencia artificial. Entonces, todo
+lo que ustedes ven en temas de
+inteligencia artificial, sean imágenes o
+sean textos, los procesadores que usan
+para para poder resolver estos
+algoritmos son los GPUs y eh Quatlique
+tendrá un aproximado de 15,000 GPUs.
+Estos GPUs van en unas cositas que les
+llamamos chasí. Algunos eh usando la
+palabra en inglés les llaman racks.
+Estos chasís como los del coche, ¿no?
+Que tienes la base de de metal y sobre
+esa montas el resto de cosas. Es la
+misma lógica. Tienes el chasís y sobre
+el chasí pues montas los distintos
+procesadores. En esta cosa, en este
+caso, perdón, dos procesadores y en el
+caso de Cloud Lique estamos hablando de
+7500 chasís aproximadamente.
+Cada chasís no es lineal la conversión,
+pero pensemos, digamos por claridad que
+cada chasís equivale a unos 50 60
+computadores.
+Es decir, si multiplicamos 50 por 7,500,
+estaríamos hablando de 375,400,000
+computadoras. Imagínense 400,000
+computadoras como las que conocemos, eh,
+digamos con con una capacidad RAM
+importante, trabajando al mismo tiempo.
+Estos chasís se ensamblan en unos
+muebles que llamamos gabinetes que
+tienen en promedio o en este caso
+tendrán 36 eh charolitas chasí eh
+trabajando. Detrás de estos gabinetes
+hay una cantidad enorme de cables que
+justamente lo que permiten es garantizar
+que todas estas computadoras trabajen al
+mismo tiempo y los chasís eh perdónenme,
+los gabinetes eh el conjunto de
+gabinetes es justamente la
+supercomputadora, que en este caso
+tendrá alrededor de 200 gabinetes eh
+alineados, por supuesto, todos
+conectados. Esto requiere tres cosas
+importantísimas. agua para enfriamiento,
+como las computadoras, ¿no? Este,
+ahorita que la tienen en la pierna
+notarán que se calientan un poquito,
+pues estas son supercomputadoras que
+también se calientan mucho y que
+requieren un infraamiento eh importante,
+energía eléctrica justamente para eso y
+conectividad pues para poder eh dar
+servicios remotos y dentro del del la
+misma supercomputadora. Entonces,
+estamos hablando de una computadora pues
+que pues que casi ninguno de nosotros ha
+visto nunca en su vida y que en 2 años
+veremos construida en México. Siguiente.
+¿Para qué sirven analizar cantidades
+inmensas de datos en segundos para
+mejorar decisiones importantes? Eh, por
+ejemplo, ahorita hablo de las
+utilidades, pero por ejemplo en el caso
+de agua, eh, estimar eh la cantidad de
+agua superficial y profunda, por
+ejemplo, en el país y otros temas,
+salud, clima, energía, movilidad,
+telecomunicaciones, etcétera. Y esto,
+pues, por supuesto, impulsa el
+desarrollo tecnológico del país, la
+prosperidad económica y la investigación
+científica, ¿no? Es un proyecto que
+vincula tres áreas claves, ¿no?
+tecnología, prosperidad económica,
+incluyente, inclusiva y la investigación
+científica nacional de punta. Siguiente,
+por favor.
+Y este es Quatle Quatlique, como les
+decía, será la supercomputadora más
+poderosa de América Latina. Eh, un
+procesamiento de 14,480
+GPUs más o menos que son los
+procesadores y una capacidad. La forma
+en que se mide en la supercomputadora se
+llaman petaflops y perdón por el
+terminajo, ¿no? Pero es como para que
+ustedes tengan la referencia. Un
+petaflop lo que significa es que se
+pueden realizar 1000 billones de
+operaciones por segundo. Un billón es un
+millón de millones. 1000 de esos por
+segundo es lo que significa un petaflop.
+cuatlique, que aquí me ilustraba José
+Alfonso, que es profundo conocedor del
+tema. La fuente de poder, ¿no? La fuente
+de vida. 314,000
+billones de operaciones por segundo.
+Imaginen lo que vamos a poder hacer en
+términos de estimaciones y cálculos. Y
+una inversión pública de alrededor de
+6,000 millones de pesos, eh, que por
+supuesto esperamos amortizar muy rápido
+solo por la utilidad que que nos va a
+generar. Siguiente, por favor.
+Y este es el comparativo. Hoy la
+computadora más poderosa, más grande de
+América Latina está en Brasil. es una
+supercomputadora privada, se llama
+Pegaso, que tiene 42 betaflops, es
+decir, 42,000 billones de operaciones
+por segundo. Este es el comparativo.
+Vean el tamaño, ilustra la diferencia de
+de quatlique, siete veces la que hoy es
+la más grande. Y en el caso de México,
+que no es menor y que además en su
+momento la más poderosa el día de hoy es
+Yuca, que tiene 2.3, que está en Sonora,
+en la Universidad de Sonora, 2.3
+betaflops. Siguiente, por favor.
+Entonces, bueno, que hoy vamos a poder
+hacer y además es importante decirlo,
+además de que es una computadora
+pública, esto implica que vamos a poder
+hacer de manera soberana los mexicanos,
+las mexicanas, cuatro cosas centrales.
+Uno, resolver problemas públicos que
+requieren alta capacidad de cómputo. Y
+ahorita ilustro algunos. Dos, y en esto
+Rosaura es la experta de su equipo,
+realizar investigación científica de
+punta en sectores estratégicos. Tres,
+ofrecer capacidad de cómputo para apoyar
+proyectos emprendedores. Por ejemplo, si
+hay eh un un iniciativa, una como le
+llaman un startup, que requiere mucho
+cómputo para su su proyecto de de
+negocio, de emprendimiento, pues poder
+reservar un poquito de esta capacidad
+para ello que de otra forma no podrían
+acceder. Y cuatro, dar servicios de
+cálculo masivo a la iniciativa privada y
+así también pues generar un modelo
+autosustentable. financieramente, ¿no?
+Siguiente, por favor.
+Entonces, con la supercomputadora
+podremos fortalecer desde lo público la
+capacidad nacional en en áreas de alto
+impacto tecnológico y económico.
+Siguiente.
+Algunos usos públicos, no es una lista
+exhaustiva. predicciones climatológicas,
+lo hablábamos la semana pasada, que
+requieren un procesamiento enorme de
+datos, imágenes, indicadores de manera
+simultánea y que se puede prever no solo
+la ocurrencia, sino también el impacto
+de los fenómenos, planeación de siembras
+para mejorar cosechas y esto en términos
+de la soberanía alimentaria es
+importantísimo. Por ejemplo, este es uno
+de los usos más importantes que hace
+India de su supercomputadora.
+procesamiento de imágenes de suelo y
+subsuelo, les decía lo del agua, pero
+también se puede aplicar para petróleo y
+gas, eh planificación de consumo de
+energía y procesamiento de grandes
+volúmenes de datos, por ejemplo,
+aduanas, facturas, este, etcétera, que
+previenen, pues, por supuesto, actos de
+corrupción y de evasión fiscal y que
+generan, pues beneficios públicos muy
+muy obvios. Y en salud tiene también un
+chorro de aplicativos. Siguiente, por
+favor.
+Entonces, bueno, la la supercomputadora
+más poderosa de la región será pública,
+es importante, y un modelo de gestión
+que además implica la colaboración entre
+instituciones gubernamentales y
+educativas. Eh, el Politécnico que nos
+acompaña, su director, muchísimas
+gracias. Infotec que es el área de
+tecnología del gobierno federal y parte
+de la Agencia de Transformación Digital.
+Y por ejemplo el IPCIT, que es el
+Instituto Potosino de Investigación
+Científica y Tecnología, que es uno de
+los centros de investigación de la
+Secretaría de Ciencia, Humanidades,
+Tecnología e Innovación, pues más
+importantes y más dirigidos al tema de
+cómputo o cómputo avanzado. Siguiente,
+por favor. Pues la supercomputadora será
+operada, además, es importantísimo
+decirlo, por mexicanas y mexicanos.
+México tiene un una capacidad técnica en
+sus ingenieros, en sus ingenieras, en
+sus científicos, científicas enorme y
+que tendrán, por supuesto, una formación
+específica sobre cómputo avanzado, pero
+que serán quienes operen científicos,
+científicas, investigadores, por
+supuesto, estudiantes, que forme parte
+de un programa de formación de cómputo,
+supercómputo, emprendedores. Siguiente.
+La ubicación la definiremos en enero de
+manera colegiada. eh porque hay varios
+criterios que que considerar. Capacidad
+hídrica, aunque allá hay modelos de
+reciclamiento de agua para enfriamiento,
+acceso a energía, que sí es
+importantísimo, sismicidad y
+conectividad y el tiempo de construcción
+será 24 meses, pero como anunciamos la
+semana pasada, pues no nos vamos a
+quedar esperando 24 meses para empezar a
+resolver problemas. Se crea eh desde la
+semana pasada que se firmó el convenio
+con el Centro de Supercómputo de
+Barcelona, el Centro Mexicano de
+Supercomputo en Barcelona, que además,
+como decíamos la semana pasada, han
+estado en este centro más de 1000
+investigadores, investigadoras mexicanas
+y ese es un una capacidad que tenemos,
+por supuesto, que aprovechar eh con la
+creación de de Cuatlique, siguiente.
+y contaremos con el acompañamiento
+técnico por lo pronto de dos
+países y centros de supercómputo
+hermanos. Uno, el Centro de Supercómputo
+de Barcelona, que lo anunciamos la
+semana pasada, y el otro el Centro para
+el desarrollo de Cómputo Avanzado, que
+es un centro público también eh en la
+India. siguiente.
+Entonces, bueno, le dejo la palabra a
+Rosaura para que nos explique cómo
+Cuatlique se va a vincular con algo que
+ya existe, que es el clúster de
+supercómputo, que está conformado por
+universidades y centros públicos. Muchas
+gracias.
+Con su permiso, presidenta.
+Buenos días todos y todas.
+Yo creo que lo más grandioso que tenemos
+que decir de este gran proyecto de la
+doctora Shemon es que es el gobierno en
+quien encabeza este proceso de
+superación de lo que se ha venido
+haciendo por las universidades, por los
+institutos de que antes eran centros
+conita, ahora son centros e city, pero
+el paso que se da es un paso muy grande
+y sobre todo quiero destacar ese papel
+del gobierno coordinando todo este
+proceso.
+Ya decía Pepe, la computadora
+Cuatwickler recibe su nombre y nos
+explicó muy bien José Alfonso de esa
+idea de agua de la energía total, pero
+también es el símbolo de poder creador y
+es la madre de dioses como Wiiloposli y
+la diosa más poderosa de la mitología.
+Ahora Cuaticler va a ser el nodo
+principal. la que sigue,
+el nodo principal va a encabezar este
+nodo que hemos estado haciendo desde
+desde el lado de la academia. Eh, es es
+eh está formado, ya vieron, por estas
+por estas por estas computadoras, por
+ejemplo, Yuca, que ya mencionaba
+que ya mencionaba Merino de la de la
+Universidad de Sonora. Están ahí todas,
+no las leo, ustedes las pueden ver, pero
+este es el ese es el clúster que que
+actualmente tenemos con el que estamos
+iniciando también ese trabajo que decía
+encabezará Cuatricle. La que sigue.
+Estas estas todas estas computadoras son
+supercomputadoras de un tamaño muchísimo
+más reducido que Cuallique,
+evidentemente están conectadas
+actualmente ya en el país y vamos a
+fortalecerla para que eh operen
+conectados mediante enlaces de alta
+velocidad y tendrán rendimiento de
+cómputo por nodo en órdenes de petafos
+que ya explicaba eh Merino. Es para
+dimensionar esto, decía él, un PEFlops
+equivale a realizar 1000 billones de
+operaciones por seg por segundo. Son un
+un seguido de 15 ceros. Esto es lo
+impresionante de la velocidad que va a
+tener esta esta
+computadoras están, les decía, unidas.
+Está eh están están en el norte, está
+Cicese, está en Baja California, eh está
+en la Ciudad de México, está el
+Politécnico, la UNAM, el SIMBestap y la
+y la el Politécnic, el Politécnico, la
+UNAME sinestap están en la ciudad de
+México, también está la Huam. Esta red
+de supercómputo, esta que estamos con la
+que tenemos hoy, permite trabajar de
+manera precisa el modelado y la
+simulación de problemas complejos, al
+igual que desarrollar sistemas de
+inteligencia artificial que involucren
+grandes cantidades de datos. Ya creo que
+la la exposición de PP fue muy clara de
+la importancia de la magnitud que tiene
+este paso que está dando el gobierno de
+la doctora Shemon. Les decía, esta red
+está conectada y la red, la nueva
+computadora Cuaticle va a encabezar esta
+red. La que sigue, por favor.
+Eh, este el la este es el cronograma que
+tenemos para el proceso que va a durar
+24 meses y que está ahí expuesto de en
+estos 24 meses, pues se tenía que hacer
+una planeación y modelo de gestión, un
+diseño de conceptual y permisos,
+ingeniería detallada de licitaciones,
+obra civil y adecuación, suministro y
+logística, integración e instalación,
+pruebas de y validación y la puesta en
+marcha en 24 meses. Esto es muy
+relevante. La doctora también nos ha
+indicado que se cree un consejo
+directivo que va a estar al pendiente.
+el nombre se se discutirá este consejo,
+pero estará encabezado por la Agencia de
+Transformación Digital y la CECIT para
+coordinar este trabajo, ya dijimos, eh
+asesorado por diferentes eh formado por
+científicos, por personal del gobierno y
+también empresarios que estén en este en
+este grupo. Este este comité tendrá que
+decidir, por ejemplo, el porcentaje de
+procesamiento por usuario de la
+supercomputadora, el manejo de la
+velocidad de transmisión en la red de
+comunicación, las estrategias para
+renovar al propio consejo directivo.
+Creo, insisto solamente en que esto es
+un gran paso en la en no solo para la
+ciencia en México. Ya decía Pepe, como
+la producción científica a nivel mundial
+es de millones de artículos, de millones
+de datos que ya humanamente es imposible
+procesar. una persona no puede eh de en
+salud o en medio ambiente o en
+predicción de posibles desastres
+naturales por efectos de de fenómenos
+naturales sola o un equipo. El nivel de
+de dato que tenemos en el mundo es es
+magnitud. Por eso necesitamos ya para
+que la ciencia mexicana, la industria
+mexicana, el propio gobierno en su
+funcionamiento llegue a etapas mucho más
+modernas, utilizando las tecnologías
+pues que se han creado en el planeta y
+que tenemos que sacar beneficio de
+ellas. Aquí está con agua, que no tengo
+la menor duda, va a ser uno de los
+beneficiados para para hacer su trabajo
+con esta nueva computadora que decía
+encabeza a todo lo que lo que se ha
+venido haciendo de forma institucional
+por las instituciones mexicanas, pero
+que ahora encabeza el gobierno de la
+doctora Shema. Muchas gracias.
+Bueno, pues es esto. La verdad estamos
+muy entusiasmados.
+la supercomputadora Cuatlique
+que va a iniciar su construcción el
+próximo año. Estamos definiendo la
+ubicación y va a permitir que México
+entre de lleno al uso de la inteligencia
+artificial y procesamiento de datos, que
+hoy no tenemos capacidad de hacerlo
+porque no tenemos
+la suficiente capacidad de cómputo.
+Entonces nos va a ayudar muchísimo, no
+solo al desarrollo de la ciencia,
+las tecnologías,
+sino en esencia el desarrollo del país.
+Bueno, esto es cuatlici.
+Vamos sobre el tema. A ver,
+¿qué tal? Muy buenos días a todos y a
+todas. Juan Hernández de Diego Basta,
+Tabasco hoy, Campeche hoy yanao hoy de
+Grupo Cantón. sobre el tema de Ecuatori,
+eh
+hablando de todo este eh digamos toda
+esta tecnología, todo este esta
+inversión que se va a realizar, de
+cuánto estamos hablando de personas que
+van a ser eh empleadas, van a ser este
+ocupadas de de cómo va cómo se va a
+conectar, digamos, todo México a través
+de este de este gran este
+proyecto que van a echar a andar.
+Perdón, eh, para hacer un símil, porque
+depende de la tecnología y la tecnología
+pues va cambiando muy rápido. Eh, el
+equipo base en la supercomputadora de
+Barcelona son alrededor de 80 personas.
+Eh, nosotros pensaríamos en un equipo
+central para toda la gestión de
+infraestructura, energía, enfriamiento,
+mantenimiento, etcétera. Y en todo caso
+es un equipo que se va eh se puede ir
+creciendo y reduciendo de manera
+flexible de acuerdo a los proyectos, por
+supuesto, ¿no? Pero como un equipo base,
+yo pensaría entre 80 a 100 personas,
+¿no? más que eso y los equipos ya
+especializados que van eh usando el
+supercómputo para problemas específicos
+que ya serán parte pues seguramente de
+otras autoridades o autoridades
+educativas, centros de investigación,
+etcétera, ¿no?
+Además de todo lo que nos han expuesto,
+¿en qué otros eh disciplinas, ramas? Eh,
+¿en qué en qué va a beneficiar esta este
+este equipo, esta este esta tecnología?
+Pues en todo, como dice la presidenta,
+es que
+todo genera datos. Perdón.
+Imagínense una computadora, la que
+ustedes usan.
+Ahora lo multiplicas por cuánto?
+375,000.
+375,000
+computadoras como las que se usan
+normalmente puestas juntas procesando al
+mismo tiempo todos los datos. Entonces
+hoy con la inteligencia artificial
+eh puede ser muy útil, por ejemplo, para
+predicción de clima.
+Nosotros tenemos muchísima información
+que la computadora que tiene el
+meteorológico nacional pues no tiene la
+capacidad para procesarla más que en
+días, meses, incluso. Para los evasores
+fiscales
+también, porque imagínense la cantidad
+de información que tiene el SAT.
+Queremos, por ejemplo, cruzar la
+información del SAT con aduanas y ahora
+nos está costando mucho trabajo porque
+no tenemos la capacidad de cómputo para
+procesarlo. Obviamente que todos los
+datos personales son resguardados, pero
+eso nos va a permitir incluso acelerar
+las aduanas. Hoy, por ejemplo, el papel
+que trae el SAT y el papel que trae
+aduanas no se cruzan, cada uno lo trae
+en papel y es físico.
+Entonces, para poder cruzar toda esa
+información de todos los importadores,
+todos los exportadores entre el SAT,
+aduanas, de tal manera que todo sea
+automático, pues imagínense, incluso el
+aeropuerto internacional Felipe Ángeles
+puede ser un clúster de carga si tiene
+la capacidad de procesar esa
+información.
+e para
+salud
+salud
+para poder saber eh con los censos de
+salud, por ejemplo, que estamos haciendo
+la información, cuántas personas, si hay
+problemas de diabetes más en una zona
+que en otra, poder procesar la
+información y el desarrollo científico,
+pues hoy está muy vinculado al
+procesamiento de datos.
+Entonces, si México quiere estar a la
+vanguardia de muchos temas, pues
+necesitamos la capacidad de
+procesamiento de datos. ¿Qué podríamos
+hacer? Pues que lo ponga un privado y el
+las instituciones públicas compraran el
+espacio. No queremos que sea una
+supercomputadora pública. Es una
+supercomputadora del pueblo de México,
+pública.
+Entonces ahí se puede procesar toda la
+información. ¿Quiénes participan? las
+instituciones de educación superior, eh
+el Infotec
+y pues todas las instituciones de
+gobierno, estatal, municipal, federal
+que quieran participar los científicos.
+Y además si un privado quiere usar la
+supercomputadora, pues va a tener que eh
+comprar el procesamiento de datos de lo
+que sea y eso permite pues generar algún
+ingreso para la supercomputadora.
+Pero es una capacidad de cómputo que no
+tiene ningún otro país de América
+Latina. Entonces, nos colocaríamos en 2
+años pues en un nivel de procesamiento
+de datos que además pues también trae
+inversiones públicas y privadas que
+puedan utilizar este procesamiento de
+datos que de otra forma no se podría.
+Esto tiene que sumarse a lo que está
+ahora de supermoda, que son los centros
+de datos para almacenamiento de datos en
+muchos lugares. E pero es es un paso muy
+importante para México.
+Muchas gracias, presidenta. En un
+segundo tema, eh se nos puede platicar
+sobre este encuentro que sostuvo con la
+presidenta de Honduras, Shamara Castro,
+¿qué fue lo que se abordó? Este, ¿cuál
+cuál cómo fue el clima ahí de de
+conversación? ¿Cuáles eran las
+preocupaciones que manifestó la
+mandataria andureña? ¿Qué qué más
+hablaron ahí?
+Bueno, primero eh agradecerle además
+porque vino entre otras cosas agradecer
+pues el apoyo que le ha dado México
+durante su gobierno. Recuerden que ahí
+está el programa sembrando vida. Ahora
+va a venir una segunda etapa, jóvenes
+construyendo el futuro, que fue en una
+visión de cooperación para el
+desarrollo. La mejor forma de evitar que
+haya migración, pues es invirtiendo y
+apoyando a las personas en sus lugares
+de origen. E convenios que se firmaron
+con Pemex, con Comisión Federal de
+Electricidad. Entonces vino a agradecer
+y además pues eh agradecemos por el
+agradecimiento.
+Ellos tienen elección el domingo, hay
+elección en Honduras el domingo.
+Entonces eh le interesaba mucho a ella
+pues eh hacernos saber que eh pues es
+muy importante que se respete la
+voluntad popular del pueblo hondureño,
+que no haya ningún injerencismo,
+intervencionismo de nadie. que sea el
+pueblo de Honduras quien lo decida. Un
+teléfono que por ahí que sigue sonando,
+eh,
+que se respete la voluntad popular. Eh,
+nos vino a compartir pues su e
+su
+preocupación porque no pudiera ser así.
+Eh, y yo espero que que así sea, que se
+respete siempre la voluntad de todos los
+pueblos.
+y eh pues trabajó hacia delante. Ella le
+quedan 4 meses más o menos de gobierno y
+quiere cerrar pues estos programas para
+que Honduras pueda seguir eh manteniendo
+esta relación que ha mantenido con
+México. es un buen gobierno. Fíjense,
+ella disminuyó la pobreza extrema y
+disminuyó la pobreza eh con un con
+programas similares a los nuestros,
+también aumentando salario mínimo con
+muchas obras de infraestructura social.
+Entonces, ha sido, desde mi punto de
+vista, un buen gobierno y siempre
+respetamos a todos los pueblos y
+gobiernos de América Latina,
+particularmente pues un gobierno
+progresista como el que hoy gobierno
+Honduras.
+Dos últimos temas más. Este, presidenta,
+eh conocí su opinión este referente a
+una encuesta que publicó este de las EAS
+que da a conocer datos muy reveladores
+sobre la marcha del 15 de noviembre. Una
+de ellas, una de estas revelaciones es
+de que la la gente sabe quién organizó
+esta manifestación, que fue en este caso
+y lo señalan ahí en este estudio, fue la
+María de Rosa. Y en un segundo punto que
+fue un grupo de manifestantes los que
+iniciaron los actos violentos y que se
+les pagó para, en todo caso para
+provocar y para hacer todo este esta
+situación de de violencia que quisieron
+este explotar mucho lo que fue el grupo
+opositor. saber su opinión referente a
+este estudio en el que se señala que
+pues los mexicanos no no se no se la
+comieron hace tan
+Sí. A ver, por ahí estaba el No sé si
+tengan la encuesta para poderla
+Está en el sitio de La vi ayer por la
+tarde.
+A ver.
+Bueno, mucha gente se enteró.
+Adelante.
+¿Quién organizó la marcha?
+Fíjense, el 33% cree que fue la María
+Rosa.
+Adelante.
+Eh, ¿quiénes comenzaron los ataques? Un
+grupo de manifestantes. 51%.
+adelante.
+Creer que fue pagado para provocar
+ya con eso.
+Eso es lo que piensa la gente.
+¿Qué impresión le da este estudio? Eh,
+vaya, quieren quieren manejar la la
+retórica de de que que aquí en México se
+le censura que, o sea, es es lo que
+estamos repitiendo constantemente a la
+oposición. hay censura, es un estado
+totalitario, es realmente, o sea, les
+duele que estén este que esté avanzando
+México.
+A ver, esa
+lo pongo así para que porque también hay
+algunos que ahora dicen que nosotros
+inventamos.
+¿Quién fue a esa manifestación? O sea,
+¿qué caras reconocidas fueron a la
+manifestación? No las voy a poner aquí
+para el análisis.
+de ustedes y de quienes nos escuchan y
+de la gente que nos ve y nos escucha.
+¿Quién fue? ¿Qué dirigentes políticos
+fueron a esa manifestación?
+¿Cómo se dan los golpes que lo presenté
+yo aquí en una mañanera? ¿Por quiénes
+que no eran jóvenes?
+¿Qué denuncia hace el Congreso de la
+Ciudad de México? que lo dije aquí hace
+poco con muchas pruebas, porque no fue
+una denuncia menor lo que hicieron
+diputados en el Congreso de la ciudad,
+de cómo estaban vinculados quiénes
+generaron la violencia con
+eh alcaldes
+de la ciudad, de qué partidos son.
+es nada más sumar esto más esto más esto
+más esto más esto
+y ya que cada quien saque sus
+conclusiones.
+Entonces
+fue un grupo
+distinto al de otras veces de otros que
+se han manifestado con violencia.
+e
+no eran jóvenes
+los que generaron esta violencia y
+tampoco fue una marcha caracterizada por
+jóvenes, que fue lo que quisieron
+plantear, que era la generación Z y todo
+esto, sino que fue principalmente de
+adultos que están en contra del gobierno
+y está bien que haya manifestaciones.
+Somos un país libre y además respetamos
+la libertad de manifestación, la
+libertad de reunión, como en ningún otro
+país se respeta. Eh, solamente vean las
+actuaciones de la policía de muchas
+ciudades del mundo. Entonces, nosotros
+respetamos. Lo que no estamos de acuerdo
+es con la violencia. Entonces, si va
+sumando, ¿cómo fue que se generó? ¿Quién
+usó? ¿Quién estuvo promoviendo?
+Aquí presentamos también
+unos días antes cómo fue que se fue
+construyendo en las redes sociales la
+convocatoria esa manifestación.
+¿Y por qué relevante? Leí hoy, me lo
+pasaron en el resumen,
+que un panista
+promovido por el PAN va a ir a
+Washington
+a denunciar al gobierno de México.
+Fíjense
+qué mexicano, a ver, vamos a ponerlo
+así.
+¿Qué mexicana o mexicano
+va a denunciar a otro país, a Washington
+en particular?
+Además, un invento de cómo se dieron las
+cosas en una manifestación.
+¿Qué opinan ustedes
+de un dirigente, de un legislador,
+de un partido de oposición
+que casi no tiene ya apoyo popular en
+México
+y que se va al extranjero
+en a Estados Unidos, a Washington
+a denunciar al gobierno mexicano. ¿Qué
+opinan ustedes?
+Rutier lo hizo en el 88%.
+Pero, ¿qué opinan ustedes en esta
+condición cuando hay libertad de
+expresión? Bueno, tienen prácticamente
+la opinión en todos los medios de
+comunicación.
+Tienen un canal
+donde tienen abierto el espacio.
+No tienen cerrados los medios o sí al
+revés. tienen más espacio en los medios
+que nosotros.
+Abusan de las concesiones,
+¿eh?
+Y van a Washington a hacer una denuncia.
+Porque
+cuando hice yo la referencia el 20 de
+noviembre
+al injerencismo,
+a cómo quien llama a la injerencia
+extranjera en México
+no es nuevo, son los conservadores de
+siempre.
+¿Y cómo es que ahora una vez más lo
+hacen?
+no es menor.
+Entonces, esto es para el pueblo, para
+la gente,
+porque
+aquí seguimos hablando de la defensa de
+la soberanía
+y de la decisión del pueblo
+sobre sus gobernantes
+y que no vengan del extranjero a
+decirnos
+lo que se debe o no se debe de hacer.
+Entonces,
+¿qué opina el pueblo
+de que un dirigente de un partido que
+ahora se llama de ultraderecha
+vaya a Estados Unidos a hacer una
+denuncia pública? Porque aquí, ¿qué
+tiene cerrados los medios de
+comunicación o qué?
+¿Son representantes populares?
+¿Por qué no la hace aquí?
+¿Por
+qué se va a Estados Unidos?
+Es para la gente, porque
+hay que recordar siempre,
+siempre, siempre,
+ahora sí que quién es quién
+en la política
+y quiénes son los que demandan la
+intervención
+extranjera.
+Entonces, eso no. Los mexicanos
+decidimos, está el artículo 39 y 40
+constitucional
+y es la defensa de la soberanía.
+Y segundo, que se sigue investigando y
+ya pedí
+cómo fue la violencia en el 15N, porque
+tiene que salir todo.
+Entonces, ya el Congreso de la Ciudad de
+México hizo una parte,
+se tiene que investigar quiénes
+promovieron esa violencia.
+Perfecto. Y finalmente y le agradezco
+mucho, presidenta, pues el próximo
+primero de diciembre cumple su 38
+aniversario este nuestro medio fundador
+Tabasco hoy. Y bueno, a nombre de Miguel
+Cantón Cetina quisiera pues pedir unas
+palabras para todo el equipo muchas
+felicidades. Muchas felicidades
+todo el equipo prensistas,
+eh camarógrafos, toda la gente
+repartidores, gente que nos ayuda. Pues
+la d las gracias. tiene mucha presencia
+en el sureste, pero aquí también con
+basta.
+Pues muchas gracias y
+gracias.
+Adelante. A ver, acá por acá y luego
+vamos acá.
+Buenos días, presidenta. Arturo Pavón de
+efecto colateral. Eh, sobre la
+supercomputadora coatlique, preguntar
+eh, vaya, es es inmensa la información
+que puede tener. ¿De qué manera se va a
+respaldar? ¿Hay un respaldo? hay
+posibilidad de respaldar y en segundo,
+como tiene información
+eh pues nacional, eh de qué manera se
+podría blindar físicamente eh eh esta
+supercomputadora.
+Por supuesto, un proyecto de de esta
+magnitud incluye eh la implementación de
+mecanismos de ciberseguridad eh
+importantes eh en los cuales además
+México por supuesto tiene la capacidad
+con ingenieras e ingenieros. Ahora, una
+supercamputadora no es eh aprovecho la
+pregunta para explicar quizás la
+diferencia entre un centro de datos y
+una supercomputadora, ¿no? En el caso de
+la supercomputadora, como ya decía la
+presidenta, pues son miles y miles, en
+este caso casi 400,000 computadoras
+trabajando simultáneamente en el mismo
+problema. es un problema de cómputo,
+¿no? Realmente una supercomputadora no
+está pensada, aunque puede para resolver
+problemas de almacenamiento. En todo
+caso, el almacenamiento puede estar en
+un centro de datos, que es un sistema en
+el que de manera modular tú puedes usar
+un cachito para almacenar, otro cachito
+para hacer cómputo, en fin, está como
+más fragmentado, no es una computadora
+que vincule a miles de computadoras para
+hacer estimaciones simultáneas, ¿no? La
+información estará resguardada en en
+donde eh
+depende, digamos, del proyecto, pero
+quién es el dueño sustantivo, ¿no? Si es
+con agua, por ejemplo, imaginemos, ¿no?
+Y con agua tiene un centro de datos,
+pues ahí está la información y
+simplemente se hace una conexión para
+poder hacer eh los cálculos, ¿no? Si es
+este SEMARNAT, si es FS, si es Pemex. El
+gobierno federal tiene un centro de
+datos importante en Aguas Calientes, que
+también está a cargo de de Infotec. En
+fin, esto más que almacenamiento, lo que
+ofrece son servicios de cómputo
+físicamente la seguridad. Ya se tiene
+contemplado la intervención de tal vez
+Guardia Nacional, Marina, Ejército,
+tiene
+que estar resguardado.
+Pues es una instalación de seguridad
+nacional, eh pero pues un paso a la vez,
+¿no? Eh, definiremos en enero la
+ubicación y por supuesto tendrá todos
+los protocolos de seguridad como como
+amerita un proyecto de este calibre.
+Muchas gracias. Eh, como segunda
+pregunta, pues ahora resulta que el
+operador político de la excandidata
+prianista Sochil Gálvez allá en en
+Tamaulipas, pues es Rogelio García
+Moreno, ahora es el presidente de los
+agricultores allá y fue el que encabezó
+los bloqueos allá en Matamoros, en
+Tamaulipas generalmente y eh bueno, él
+dice que es apartidista, pero pues ya
+salió el peine de que pues están detrás
+de las concesiones del agua como usted
+también lo mencionó ayer, eh eso
+contrasta muchísimo con un evento que
+tuvo lugar ayer en Puebla. Eh, se hizo
+la entrega de más de 5,600 apoyos no
+económicos, sino en especie, o sea, se
+dieron eh pie de crías, eh se dio se
+dieron maquinaria,
+eh pollos, sí, vaya, todo para que la
+gente, la los campesinos reales eh, que
+sí están marcados por el sol y y la
+labranza, ellos pudieran ya iniciar bien
+su desarrollo. como microempresarios en
+sus hortalizas, en sus tierras.
+Entonces, ¿cuál sería su opinión acerca
+de este contraste? Que por un lado
+campesinos reales sí están labrando la
+tierra y sí están apoyando, pues más
+bien dejándose apoyar por el gobierno
+federal cuando por otro lado pues hay
+otros grupos de interés.
+¿Por qué nosotros
+enviamos la iniciativa de la Ley de
+Aguas Nacionales?
+O sea, ¿qué nos motiva?
+Y por eso lo importante de la
+explicación de qué contiene esta ley,
+voy a volver a a decir. En 1992
+cambió la administración del agua,
+se crea la Comisión Nacional del Agua.
+desaparece prácticamente la Secretaría
+de Recursos Hidráulicos
+y la visión era que el agua, como otras
+cosas es una mercancía
+que debe haber un mercado para el agua,
+nada más que la Constitución dice que el
+agua es de la nación.
+Claramente desde la Constitución del 17.
+Una de las grandes virtudes de la
+Constitución del 17, además de reconocer
+los derechos sociales, fue reconocer los
+recursos naturales como propiedad de la
+nación.
+El petróleo en México es propiedad de la
+nación.
+En otros países, en Estados Unidos, por
+ejemplo, el petróleo si lo tienes en el
+subsuelo en tu casa es tuyo. Aquí no.
+Aquí de la visión
+de todos los insurgentes
+es y además había muchas presiones de
+empresas extranjeras,
+es que los recursos, el petróleo, el
+agua son de la nación.
+Ahora,
+el agua en particular se puede
+concesionar.
+¿Quién la concesiona? En este caso, la
+institución dedicada a la administración
+del agua, que es la Comisión Nacional
+del Agua. Pero la visión en el periodo
+neoliberal es que si es de la nación,
+pero se puede mercantilizar. Si yo tengo
+una concesión, la concesión la puedo
+transmitir a otro, nada más me pagas y
+no más le avisamos a la CONAGUA.
+¿Qué generó esta situación de 1992 a la
+fecha? una sobreexplotación de
+prácticamente todos los cuerpos de agua
+y los acuíferos en el país.
+Pues porque como es una mercancía,
+se concesiona, se transmite, se vende,
+pues entonces, ¿dónde queda la visión
+estratégica de un recurso natural que
+además hoy es escaso en muchísimos
+lugares?
+Entonces, ¿qué se está planteando con la
+ley de aguas? Número uno, que se ordenen
+todas las concesiones, que además ya
+iniciamos
+porque había tres bases de datos,
+eh contradictorias, algunas entre ellas,
+concesionados millones de metros
+cúbicos,
+agricultores,
+a empresas
+que no se estaban usando.
+Entonces, si tú tienes un
+eh como vamos a poner como un río
+y el agua de ese río está concesionada a
+alguien, aunque tú vivas a un lado del
+río, no la puedes usar porque está
+concesionada a otro.
+Bueno, si ese otro ni siquiera la está
+usando, ¿por qué no la va a poder usar
+el que vive a un lado del río que no
+tiene agua?
+o agua del subsuelo.
+Hay pozos,
+resulta que hay 10 pozos,
+pero se puede
+perforar otros 10
+para darle agua a la gente, a la gente
+humilde que no tiene acceso al agua,
+pero no se puede porque esos otros 10
+pozos ya fueron concesionados a alguien.
+Cuando llegamos al gobierno hicimos un
+gran acuerdo por el agua y dijimos, "A
+ver, todos aquellos que tengan concesión
+de agua, que no la estén usando,
+regresen de manera voluntaria esa agua
+que no usan,
+a la con agua." Y muchos empresarios lo
+hicieron, muchos agricultores lo
+hicieron.
+regresaron, dijeron, "A ver, no estamos
+usando ahí, vamos a ponerla, vamos a
+regresarla con agua para que se use para
+lo que se debe de usar o para quien lo
+necesite."
+Bueno, hay agricultores distritos de
+riego, agricultores grandes de los
+grandotes
+que tienen concesiones de agua. Ahora,
+la ley de aguas dice, "Ya no vas a poder
+vender esa agua a otro, a un tercero,
+ni la vas a poder transmitir así, nada
+más. Por ejemplo, si tienes un predio,
+usas el agua para riego, ahora ya no se
+la vas a poder vender al desarrollador
+inmobiliario que en tu tierra va a ser
+viviendas, ya no. Ya tienes que
+regresarle a la Congua y el que va a
+hacer viviendas, pues ya tiene que ver
+pedírsela a la Congua.
+Entonces, estamos poniendo orden y
+estamos garantizando el agua como
+derecho humano y como recurso de la
+nación.
+Eso limita el desarrollo, no lo ordena
+en un recurso tan importante para el
+mundo entero y para México que es el
+agua.
+Hay algunos que tienen muchísimas
+concesiones de agua, muchísimas,
+y no quieren.
+Pues sí, pero llegamos a transformar
+aquos privilegios que les dieron durante
+mucho tiempo de agua que no usan o agua
+que sobreexplotan, pues ya no.
+Y que ahí donde no hay agua pueda haber
+agua.
+Además de todo que estamos haciendo,
+ayudándoles a los agricultores, incluso
+a los medianos
+y a distritos de riego para que hagan
+más eficiente el consumo de agua. Les
+estamos dando recursos para tecnificar,
+para que sea más eficiente, más
+productivos y puedan regresar agua. Ah,
+pues no quieren regresar agua.
+Ayer lo decía, hay distritos
+que tienen concesionada agua para riego.
+Como es para riego para producción de
+alimentos, la ley dice que no deben
+pagar porque es para la producción de
+alimentos. No pagan por el uso de esa
+agua, de esa concesión.
+Bueno, resulta que no la usan y la
+venden a los municipios
+y entonces los ves en sus carrazos,
+camionetotas
+a los agricultores de algunos distritos
+de riego porque ganan al año 300
+millones de pesos por venderle agua a un
+municipio.
+Pues eso no, eso no puede ser.
+Entonces, claro, hay algunos que se
+manifiestan ahora que quieren seguir
+manteniendo ese privilegio,
+pues no,
+no por el bien de la gente, que nosotros
+llegamos a transformar la vida pública
+para todas y todos los mexicanos y en
+particular para el que menos tiene.
+Entonces, por eso es muy importante que
+pase la ley de aguas, que a lo mejor
+tenía un error, tenía otro error.
+adelante, pues, que se modifique todo
+aquello que ahora están queriendo decir
+que un ejidatario no va a poder cederle
+este si tiene un pozo en su parcela esa
+agua a sus hijos. falso.
+Claro que se puede hacer,
+pero lo que ya no, pues ese
+acaparamiento que además se dio,
+es más, lo vamos a mostrar aquí en una
+mañanera,
+cómo durante la época de Calderón
+se dieron un montón de concesiones.
+Le voy a pedir ahí a Efraín que lo
+traiga.
+¿Y quiénes estaban al frente de la
+CONagua en los estados que ahora se
+están manifestando?
+porque quieren ahora generar una idea de
+que ay caos, caos, no están contra los
+privilegios que tenían antes en contra
+de la gente, incluso si
+de otras industrias que se quieran
+desarrollar
+en cierta zona, pues porque como está
+acaparada el agua,
+pues entonces no se puede usar para
+nadie más.
+Entonces, no a los privilegios,
+sí a la ley, sí al estado de derecho.
+Ahora ya me gustó esa palabra o esas
+palabras.
+Como decía Juárez, nadie ni nada por
+encima de la ley
+y
+ya no al acaparamiento del agua
+para uso de unos cuantos.
+Eso es lo que está de fondo en la ley
+nacional o ley de aguas nacionales. Ese
+es el fondo del cambio. Y repito, si hay
+algunos errores, pues para eso hay una
+mesa de trabajo en el Congreso que se
+corrijan,
+pero no a qué llegamos si no es a
+transformar la vida pública para el bien
+de México.
+legisladores y gobernadores tienen la
+misión de dar toda esta información en
+sus localidades. Eso es es necesario que
+la gente entienda porque ayer eh Rubén
+Moreira, diputado del PRI, pues salió a
+decir frases muy pequeñas, no lo
+demostraba con un papel escrito, sino
+simplemente decía, "Si si tienes un pozo
+en tu casa, ya no lo puedes explotar."
+Sí, ridículo.
+¿Con qué en qué se basa?
+La verdad, o sea, es que son argumentos,
+no
+no es un asunto personal, digo, ridículo
+el argumento, o sea, no es no es cierto.
+Y además él sabe porque está la
+discusión, repito, que si hay algún
+error que se corrija, pero a ver, que
+diga públicamente si está a favor del
+acaparamiento del agua.
+Y luego pues ya Rosy se la mostró. Luego
+quiénes son los que se manifiestan
+también.
+Entonces,
+cada quien encabeza
+el
+la lucha que quiere encabezar.
+Y nosotros encabezamos una que es el
+agua. Es un derecho humano
+y dos es un recurso de la nación que
+debe ordenarse y debe servir
+para que todas y todos los mexicanos
+tengamos acceso al agua. la ley
+obras que se están haciendo, porque
+están haciendo muchísimas obras en el
+país. Hoy se presentó la Ecolima, que ya
+inicia
+e pero además
+eh repito, agua para todas y para todos
+como derecho humano, como bien de la
+nación y para el desarrollo del país. No
+es que no queramos que haya productores
+agrícolas de riego, al contrario,
+queremos que haya más distritos de riego
+en el país para producir más alimentos.
+Queremos también que haya desarrollo,
+que haya inversiones.
+Si hay inversiones que usan mucha agua,
+pues que mejor se vayan a Veracruz, a
+Campeche, al sur, al sureste, donde hay
+más agua
+y que se distribuya adecuadamente para
+que no tengan unos mucho, muchísimo,
+muchísimo, que además ni la usan
+y otros no tengan nada.
+Esa es la lucha que nosotros
+encabezamos, la defensa
+de la nación
+y del derecho humano, de los derechos
+humanos.
+Muchas gracias.
+Vamos este a ver, la compañera estaba
+desde
+Gracias. Buenos días, Citral Guerrero de
+Bajo Palabra. Eh, preguntarle sobre si
+nos puede informar sobre cuál es el
+el avance de los proyectos hidráulicos
+en Acapulco, si ya se invirtieron los
+1800 millones de pesos programados para
+este año y saber qué avance llevan los
+trabajos para restablecer y mejorar el
+suministro de agua potable
+en el municipio.
+Sí, buenos días. Hay una gran inversión
+en el proyecto que hemos denominado
+Acapulco se transforma contigo. En ese
+marco se están realizando o se realizó
+todo el desasolve de los canales
+pluviales, que es un problema histórico
+en Acapulco que además nos permitió que
+en esta temporada de lluvias pues no se
+tuvieron afectaciones como inundaciones.
+Se están llevando a cabo e el desasolve
+que tiene un gran avance, prácticamente
+ya se tienen tramos terminados. del río
+de la Sabana, del arroyo Colacho, del
+arroyo San Agustín. Eh, se están además
+eh reconformando bordos que fueron
+afectados con los huracanes y se están
+haciendo obras de protección con muros
+de gavión para que las colonias que se
+inundaron con estos fenómenos naturales
+no vuelvan a sufrir esta condición.
+Además se está realizando un trabajo muy
+importante por lo que tiene que ver con
+el saneamiento. Se están compactando eh
+ya eh plantas de tratamiento de aguas,
+se están concentrando en algunas,
+redireccionando. Ahí hemos iniciado ya
+la las obras en la planta renacimiento,
+en la planta de Miramar. Además, se
+están construyendo colectores que van a
+evitar eh van a captar las aguas eh
+negras para evitar que se contamine la
+bahía. y se está haciendo un trabajo muy
+importante para conectar una
+interconexión para la zona poniente de
+Acapulco. Hay alrededor de 8,000 eh
+familias que recibían agua únicamente
+por tandeo. Eh, con esta obra que ya
+inició vamos a poder eh suministrar agua
+vía red y además se va a beneficiar a
+otro tanto de de la población porque va
+a mejorar la cantidad de agua que están
+eh teniendo. Estamos hablando de
+alrededor de 65,000
+habitantes de Acapulco que van a ver
+mejorado el suministro. Y otra obra muy
+importante es la que tiene que ver con
+la adaptación al cambio climático.
+Cuando sueron sucedieron los fenómenos
+meteorológicos, que además ocurrió uno y
+al siguiente año nos ocurrió y se
+afectaron las principales fuentes de
+abastecimiento porque están en un nivel
+bajo y lo que estamos haciendo es
+generar infraestructura sobreelevada
+para que puedan resistir a cualquier
+fenómeno meteorológico. también estas
+obras en dos casos ya se encuentran en
+licitación, en dos casos que es la obra
+de toma del acueducto papagayo, ya
+estamos haciendo la la obra de toma.
+Entonces, hay un gran avance. Eh, en
+este momento no traigo el avance
+presupuestal, pero prácticamente ya
+todos los proyectos se encuentran en
+ejecución y va a haber un cambio radical
+en cuanto al suministro de agua, en
+cuanto al saneamiento, en cuanto a obras
+de protección para la población, para
+prevenir inundaciones y también para
+adaptarnos a las condiciones del cambio
+climático.
+Pero, ¿cuándo se verán esos resultados?
+pues de que ya los acapulqueños van a
+tener el acceso este al agua, o sea, que
+que ya tengan agua, porque eh sí han
+anunciado estas obras desde inicio de
+años y entiendo que se están haciendo
+estos proyectos, pero ¿cuándo ya los
+acapulqueños van a ver como los
+beneficios, no? y los resultados de
+estos proyectos para que ya la gente
+tenga pues agua, ¿no?
+Bueno, en cuanto a las obras de
+protección y colectores, el beneficio ya
+es palpable. Eh, en cuanto a la
+sobreelevación de los pozos, son obras
+que van a tardar, tardan un poco de
+tiempo alrededor este año y el
+siguiente, a mediados del siguiente año
+estarán listas y también este las obras
+de agua potable.
+O sea, el el cambio radical que usted
+menciona se va a ver como en 6 meses, 5
+meses
+se verá eh antes de que concluya el año
+2026 en su totalidad, pero ya se
+empiezan a sentir eh beneficios sobre
+todo de protección, de desasolves y de
+colectores. Con mucho gusto te
+compartimos la información detallada de
+cada uno de los proyectos.
+Muchas gracias. Gracias,
+presidenta. En Chiapas se documenta el
+caso de los hermanos Daniel Muñoz Vargas
+y Camerino Muñoz Osorio. Es de una
+familia de Guerrero, detenidos antes de
+los hechos, por lo que se les acusa, y
+presentados por las fiscalías como
+responsables de la quema de vehículos.
+La evidencia ante la Comisión Estatal de
+Derechos Humanos muestra adulteración de
+datos, tortura y manipulación de pruebas
+por parte del Ministerio Público y de la
+Secretaría de Seguridad Estatal. ¿Qué
+acciones tomará su gobierno ante este
+tipo de prácticas? pues que contradicen
+su postura y su discurso de justicia y
+de vida investigación y cómo va a
+garantizar que la nueva política de
+seguridad no repita los viejos esquemas
+de fabricar culpables para justificar
+los resultados.
+Bueno, fue un caso, dices, en Chiapas.
+Chiapas, ¿no? De dos hermanos de
+Guerrero.
+Dices que la Comisión Estatal de
+Derechos Humanos ya hizo su
+recomendación.
+Ya. Sí. Bueno, pues hay que darle
+seguimiento a la recomendación
+porque están acusados de un delito antes
+de que se viera el el delito. Entonces
+es como totalmente
+que si hay una recomendación pues tiene
+que ser reconocida por el gobierno
+estatal. Las comisiones de derechos
+humanos tienen esa responsabilidad
+y tienen
+pues abierto para que cualquier persona
+que sepa que una violación de derechos
+humanos por parte de la autoridad pueda
+presentar su su queja y se traduce en
+una resolución de la comisión que hace
+su investigación y ahí los gobiernos
+estatales o federal pues tienen que
+asumir esa recomendación.
+Gracias. Ya por último, presidenta,
+bueno, ya está como por terminar el año
+y le quería preguntar sobre los avances
+de los del plan de justicia de los
+pueblos afromexicanos. usted hace
+algunos meses dijo que lo iba a
+presentar aquí, ¿no? Es preguntarle
+cuáles son esos avances y si tiene
+considerado que así como este año le
+dedicó a la mujer indígena, el próximo
+año se lo pueda dedicar a la mujer
+afromexicana.
+El plan de justicia de la zona Musga, de
+la región Amusga, es el que está más
+avanzado, el de la región afromexicana,
+que es justo en la costa entre Oaxaca y
+Guerrero, principalmente Guerrero,
+Cuajinic Cuuilapa y toda esta zona,
+estos municipios está avanzando ahí
+todavía estamos trabajando donde más es
+ahí en la región Amusga que ya se ha
+avanzado en infraestructura de salud.
+otras acciones, créditos para las
+mujeres artesanas. Entonces, sí lo
+presentamos aquí, ¿cómo va el avance? El
+año que entra lo vamos a dedicar a
+Margarita Masa.
+E son 200 años de su nacimiento.
+Margarita Masa pues se le conoce por
+haber sido esposa de Juárez nada más,
+pero ya vamos a hablar aquí de su vida
+y
+los sacrificios.
+de ella y de su familia
+en el pues todo el periodo de reforma.
+Entonces, lo vamos a dedicar a ella el
+próximo año, a Margarita Más.
+En algún año tiene pensado
+pues ya veremos lo de mujeres
+afromexicana.
+Gracias.
+Sí. A ver,
+a ver, aquí la compañera.
+Buenos días, presidenta Elia Cruz de la
+Hoguera. E sobre lo que comentaba hace
+un momento de la Ley Nacional de Aguas,
+eh decía que hay acaparamiento de de
+algunas personas. ¿Podrían eh darnos a
+conocer quiénes son estos grandes
+productores que acaparan?
+Sí, y concesiones que se dieron en su
+momento. Sí, sí, lo vamos a dar a
+conocer.
+Eh, sobre este tema también, presidenta,
+ayer eh también se dio a conocer que la
+Secretaría de Gobernación eh en esta
+reunión que tuvo con los productores y
+transportistas eh pues no llegó a un
+acuerdo o no hubo un acuerdo ayer, se
+levantaron de la mesa. ¿A qué se debió
+eso, presidenta? Pues ya lo voy a
+informar el la secretaria.
+E
+cuando hay demandas legítimas se
+atienden,
+hay una mesa y se busca encontrar una
+salida.
+Obviamente pues que esté en el marco de
+los recursos disponibles. No se puede
+prometer pues lo que no se es posible
+entregar. Nosotros acostumbramos
+a hacer compromisos, no promesas.
+Entonces, cuando nos comprometemos con
+algo, pues hay que cumplirlo.
+Entonces, hay que ser muy responsable
+qué se puede y qué no se puede. Cuando
+hay una demanda legítima, pues se busca
+encontrarle salidas para que se pueda
+atender. Por ejemplo, en el caso del
+maíz, pues se buscó algo tripartita, que
+le entraran las empresas que compran
+maíz a dar un precio más alto desde del
+mercado, que los gobiernos estatales le
+entraran con algo y el gobierno federal
+con algo. Y ahí se logró un acuerdo para
+algunos productores de maíz que va
+avanzando en otros estados de la
+República. ¿Por qué es esto? Pues porque
+el precio del maíz este año y el próximo
+está muy bajo,
+por ya lo hemos explicado en otras
+ocasiones, precio del maíz por el
+tratado se fija en Estados Unidos, eh
+en la bolsa de Chicago.
+Entonces eh
+y además un maíz distinto allá, pues
+principalmente maíz amarillo,
+mucho de ello transgénico.
+Y acá pues es maíz blanco, criollo,
+nativo,
+híbrido en algunos casos, pero es
+híbrido nacional, semillas mejoradas
+del maíz originario de México. Entonces,
+es algo que tenemos que seguir
+trabajando, evidentemente, pues para que
+se diferencie el precio del maíz
+amarillo del maíz blanco, porque maíz
+amarillo hay mucho más en el mundo que
+el maíz blanco, que el principal
+productor de maíz blanco es México y es
+para autoconsumo.
+Entonces, e como el precio del maíz está
+muy bajo, pues entonces está buscando
+apoyar a los productores.
+y se busca, pues dado que no hay
+suficiente recurso en el gobierno
+federal, repito, el próximo año son un
+billón de pesos a programas de
+bienestar, a dedicarlo directo a la
+gente e además de construcción de
+hospitales, centros de salud,
+contratación de médicos, escuelas,
+preparatorias, universidades,
+eh todo lo que significa pues
+para lo que fuimos electos para
+continuar con una transformación.
+Pues cuando hay una demanda de este
+tipo, buscamos la manera de encontrarle
+una salida y que ellos estén de acuerdo
+cuando no tiene que ver con un asunto
+político para generar algún problema,
+nada más por generarlo.
+O cuando hay un tema que es la defensa
+de algún privilegio, pues entonces de
+todas maneras se les abre la mesa para
+platicar, pero pues hay cosas que no se
+pueden resolver. Entonces, ya la
+secretaria de de Gobernación y el
+secretario de agricultura van a estar
+informando.
+Eh, comentaba usted hace un momento que
+hay demandas que no se pueden cumplir
+debido a los recursos. ¿Cuáles serían
+estas demandas que le están
+Bueno, pues ellos piden un precio de
+garantía muy alto para todo el maíz,
+pues eso no hay suficientes recursos
+para poderlo cumplir. Entonces, ¿qué
+hacemos? Buscamos a ver quién es el
+comprador, da que una parte el comprador
+lo eh de más recursos, que hasta ahora
+hay muchas empresas que han participado
+en este proceso. Eh, otro sea
+el gobierno, otro que sean los gobiernos
+estatales. busca disminuir, por ejemplo,
+los precios de transporte,
+evitar que haya intermediarios, que haya
+la compra directa del grano, porque a
+veces el intermediario lo compra a
+precios muy bajos, entonces se buscan
+acuerdos directos entre el productor y
+el comprador, que en muchos productos se
+han logrado para evitar pues el
+intermediarismo que genera pues todavía
+un precio más bajo para el productor y
+que no impacta en el precio al
+consumidor.
+Entonces se busca siempre la manera de
+apoyar y sobre todo pues a los pequeños
+productores.
+Eh, sobre eso, ayer la SADER emitió un
+comunicado diciendo que habían logrado
+un acuerdo justamente con los eh
+productores de maíz de Campeche. Eh,
+este acuerdo también tiene la
+posibilidad de extenderse a otros
+estados. muy parecido al que se hizo en
+el Bajío, o sea, es un acuerdo en donde
+hay una parte del gobierno del estado,
+otra parte de las empresas que compran
+el maíz eh para hacer harina
+principalmente
+eh y de nosotros, del gobierno federal.
+Entonces, buscan acuerdos que ayuden
+sobre todo al pequeño productor.
+Eh, pero digamos otros estados también
+serán beneficiarios, por ejemplo,
+productores como Morelos. de trabajo
+está abierta todo el tiempo,
+¿okay?
+Con todos los estados. Por eso yo ayer
+dije, "¿Para qué toman una carretera si
+está abierta la mesa de diálogo?"
+Yo nosotros también nos manifestamos
+muchas veces
+te manifestabas porque ni siquiera
+cuando había una solicitud particular,
+digo, nos manifestamos para transformar
+el país de fondo y de raíz, pero cuando
+acompañamos demandas particulares, ni
+mesas de diálogo había.
+Aquí está la mesa de diálogo abierta, se
+está buscando alternativas y de todas
+maneras pues toman una carretera. Y es
+donde yo digo, pues, ¿qué los mueve a
+tomar una carretera si están en una mesa
+de trabajo donde se están buscando
+alternativas?
+En el tema de seguridad que demandan los
+transportistas,
+ahí ya han logrado un avance.
+Ayer puse la gráfica de cómo disminuyó
+el robo en carreteras. Tenemos que
+seguir avanzando, no es cero, es cierto,
+no es cero, pero hemos avanzado y
+estamos avanzando más. Hay un programa
+especial de la Guardia Nacional, eh,
+donde la Guardia se reúne con
+transportistas. Es relevante, fíjense,
+que de los transportistas
+cerca de nueve asociaciones
+sacaron este comunicados diciendo que
+ellos no eran quienes estaban cerrando y
+que había mesas de diálogo y que se va
+avanzando y quieren que se avance más,
+pero que hay mesas de trabajo. ¿Para qué
+sirven las mesas de trabajo en
+seguridad? Bueno, pues ellos denuncian,
+los robos están aquí, están acá, están
+en este otro lado. ¿Qué hacemos nosotros
+aparte de la vigilancia de la Guardia
+Nacional? Por ejemplo, en la México
+Querétaro, en la México Puebla se
+abrieron a lo largo de los años eh
+brechas brechas
+eh brechas que van directo a la
+carretera o caminos que van directo a la
+carretera porque se rompió el flex beam
+o se movió la flexam son estas eh,
+bueno, sí se le dice en inglés, perdón,
+el anglicismo,
+las barreras estas de contención que
+están pintadas de negro con blanco.
+o hay otro tipo de barreras de concreto
+que movieron. Entonces, quien asalta
+pues se mete por estos lugares, asalta y
+se regresa, eh, y ya después se van a
+otros lados. Entonces, lo que está
+haciendo es cerrando todos esos lugares
+que estaban abiertos para evitar y que
+la única entrada a las carreteras de
+cuota pues se era entrada y salida.
+punto, ningún otro lado. E entonces está
+trabajando en eso. Nos informan los
+asaltos están en este lugar, bueno, pues
+se trabaja para evitar que haya estos
+asaltos o eh la investigación para que
+haya las detenciones que tenga que
+haber. Entonces, hay mesas de trabajo,
+nueve, creo que son nueve, que
+publicaron que estábamos trabajando y
+hay una asociación que dijo que no.
+Entonces, eh esa es la disminución del
+robo en carreteras y hay que seguir
+porque hay otras que no se denuncian.
+Entonces, también está el 088, que es el
+teléfono de la guardia, donde se
+denuncian y ahí se en el gabinete de
+seguridad le damos seguimiento a las
+denuncias telefónicas que luego no
+llegan a denuncias
+eh penales de robo de vehículo o de
+autotransporte principalmente.
+Eh, gracias, presidenta. En otro tema,
+eh la marcha de ayer eh de mujeres eh
+con bueno, a favor de la erradicación de
+la de la violencia e pues fue pacífica,
+aunque no con la misma convocatoria que
+las pasadas. ¿Cuál es su opinión al
+respecto?
+Bueno, más bien ahí habrá que
+preguntarle a las convocantes, ¿no? Yo
+creo que eh hay eh pues hay un
+reconocimiento de que hay un gobierno
+que está trabajando por las mujeres y
+como vimos ayer, es un tema en donde no
+hay diferencias.
+Trabajamos juntos con todos los
+gobiernos de los estados y nuestro
+compromiso es seguir trabajando para la
+erradicación de la violencia contra las
+mujeres.
+Eh, en otro
+y qué bueno que fue pacífica, que no
+hubo
+problemas.
+Eh, en otro tema, presidenta, el viernes
+pasado se dio a conocer que se detuvo a
+siete escoltas de el alcalde asesinado
+de Uruapan, Michoacán, eh, Carlos Manso.
+¿Qué información tiene? ¿Qué información
+le ha dado el gabinete acerca de esta
+detención? ¿Hay indicios de que ellos
+estuvieran involucrados en el homicidio?
+Tiene que contestarlo el gabinete de
+seguridad. Yo en estos casos prefiero
+que sea o la fiscalía de Michoacán, que
+es quien hizo las detenciones, o
+directamente el gabinete de seguridad
+que está colaborando.
+Sobre el avance de casos tan relevantes
+como el de Carlos Manso, alcalde de
+Europa.
+Eh, sobre este mismo tema, presidenta,
+¿cuál es su opinión acerca de las
+declaraciones que emitió ayer el senador
+de Morena, Gerardo Fernández Noroña,
+acerca de la nueva alcaldesa y viuda de
+Carlos Manso, eh, que dice que le está
+ganando la ambición y que ha decidido
+tener una posición de ultraderecha
+fascista.
+Yo creo primero que eh
+en estos casos hay que ser muy
+hay que respetar primero, ¿no?
+O sea, eh la esposa de del alcalde hoy
+alcaldesa de Uruap
+eh no está pasando por un momento fácil,
+acaba de perder a su esposo.
+Yo creo que en esa parte pues tiene que
+haber un pues una sensibilidad para
+empezar. Ya si hay un asunto de debate
+político, bueno, pues ya es otro tema,
+pero yo creo que todo a su tiempo, todo
+a su debido tiempo y hay que eh pues en
+momentos
+ser solidario, estés de acuerdo o no
+estés de acuerdo.
+Entonces,
+mi opinión
+y ya para lo político, pues ya habrá
+otros momentos.
+Eh, presidenta, hoy también sale una
+información acerca de la
+de este empresario que es parece
+presuntamente dueño de el certamen de
+Miss Universo y que señalan que que
+habría que estaría imputado por parte de
+este de la Fiscalía General de la
+República eh de un presunto
+huachicol y
+pues tendría que informar la fiscalía,
+¿no?
+Si hay una investigación
+a esta persona, pues tiene que informar
+la fiscalía.
+Hoy sale en un medio, pero pues tiene
+que informarse.
+Ahora eso es independiente de eh la
+joven que ganó el concurso porque lo
+quieren juntar, es distinto, ¿no? Porque
+entonces quieren quitarle mérito.
+Repito, más allá de que estemos de
+acuerdo con estos certámenes o no, este,
+mérito a quien lo tiene en el certamen.
+Ahora, otra cosa muy distinta pues es
+este tema de esta persona y ahí pues si
+hay una investigación pues que se diga
+que hay una investigación y que se
+informe por parte de la fiscalía.
+Y finalmente, presidenta, en la hoguera
+eh publicamos eh varios textos acerca de
+la movilidad en la ciudad de México,
+pero en especial en el oriente del de la
+ciudad. Eh, hemos tenido como muchas
+demandas, hicimos un recorrido por toda
+esa zona de del oriente y bueno,
+usuarios del transporte público, del
+transporte privado, eh se quejan por las
+largas horas que pasan en el en el en el
+tráfico que que se hace, principalmente
+sobre la autopista México Puebla, debido
+a las obras de de del trolebús, que eh
+no concluyen y que ya llevan 3 años eh
+haciéndose. La la pregunta, presidenta,
+es eh cuándo se va a con el trole
+funcionando, ¿no? Creo que están
+haciendo dos
+estaciones,
+dos estaciones más, ¿no? Eh o más bien
+se están haciendo dos estaciones más. Eh
+y está funcionando muy bien el trolebúz.
+Eh,
+es un proyecto muy bonito porque es un
+segundo piso donde van trolebuses,
+transporte eléctrico, se toma en Chalco
+o las distintas
+eh municipios
+y puedes hacer la transferencia en la
+línea A del metro o te sigues hacia
+Ermita Itapalapa
+y llegas a la transferencia
+de la línea línea si creo que es esa,
+¿no? La de Constitución de 1917,
+la ocho, la línea 8o, Constitución de
+1917 y de ahí te puedes mover en metro
+por toda la ciudad y ya tiene, o sea, te
+puede seguir incluso en el trolebú hasta
+Miscuac. Entonces, eh está funcionando
+por lo que me han informado muy muy
+bien. Y bueno, ya el el tema del
+tránsito sobre la Puebla y Zaragoza,
+¿no? Que este
+se tiene ahí que y vamos a ayudarle a la
+jefe de gobierno a mejorar la línea
+A
+A del metro. La línea A del metro va
+sobre Zaragoza. A todos los que me de
+otros estados, pues es que fui jefa de
+gobierno, por eso me la sé. La eh
+Zaragoza, calzada Zaragoza,
+que es por la que entras de la México
+Puebla. La México Puebla puedes irte
+hacia Ermita o puedes irte hacia
+Zaragoza. Y Zaragoza pues es una avenida
+que es así.
+¿Por qué es así? pues por los
+hundimientos diferenciales que hay en
+esa zona de la ciudad, por la
+sobreexplotación del acuífero. Entonces,
+eh eso ha generado problemas en la línea
+del metro. Entonces, vamos a ayudar y
+entonces va muy despacito la línea
+entonces vamos a ayudar para poder
+enderezarla.
+eh poner unos eh una especie de
+puentecitos, digamos, que permitan que
+no tenga estos problemas de hundimientos
+la línea y que funcione mejor. También
+ahí Efraín está trabajando en un
+proyecto que esperamos licitar ya muy
+pronto porque ahí se inunda mucho
+también en época de lluvias, entonces
+para que eh pues se disminuyan las
+inundaciones
+en el puente de la Concordia. en el
+puente de la concorren. Eh, una una de
+las eh demandas que nos hacían o nos
+hacían ver eh ese día de que hicimos los
+recorridos era que no solamente era la
+bueno que sí funciona el trolebús, sino
+más bien para el servicio que va sobre
+la la autopista y el confinamiento que
+se está haciendo de ese espacio que
+detiene el tráfico y deja a muchas
+personas varadas durante al menos 40
+minutos en un tramo de solamente 5 km.
+Entonces, por eso preguntaba
+se terminar a Jesús Esteban que pueda
+informar. Es una obra que está haciendo
+el gobierno del Estado de México, pero
+bueno, vamos a pedirle a Jesús que
+que pueda informar Jesús Esteban
+en en esa parte de la a la llegada, o
+sea, viniendo de desde Chalco hacia la
+Ciudad de México, a la llegada de la del
+puente de la Concordia, antes existía eh
+un dos carriles que eran laterales que
+pasaban por la parte de abajo donde se
+dio esa lamentable este episodio con la
+pipa.
+Y ahora están clausurados. Esos ya
+permanecerán ahí clausurados o se van a
+volver a abrir o solamente el tránsito
+va a quedar sobre
+No llego hasta la mi información no
+llega hasta allá ahora, pero con gusto
+le pido a Jesús Esteban que pueda eh
+informar informarles a todos y en
+particular a ti para saber si esos se
+van a quedar cerrados o no. Y otro punto
+sobre eso para el momento en que informe
+este, ni modo. Y este para eh el momento
+que informe el secretario, eh pasando la
+caseta también de de Chalco, eh quizá
+usted lo vivió cuando fue a inaugurar la
+Universidad Rosario Castellan. Incaron
+mucho los carriles
+porque pusieron un un este un tema
+una estación muy larga, además. de Sírir
+sí se va a corregir. De hecho, tiene un
+carril de rebase, se va a quitar ese
+carril de rebase del trolebú y le pedí
+ahora como parte del proyecto de la zona
+oriente del Estado de México que se
+corrija esa estación que la verdad no
+quedó muy bien. Nos lo ha pedido también
+la presidenta municipal de Chalco.
+Gracias, presidenta.
+Vamos. ¿Quién más? ¿Quién más?
+¿Quién más? ¿Qué más? A ver, la
+compañera.
+Eh, buenas buenos días, presidenta del
+mundo. Ahora que la ley en materia de
+desaparición forzada fue reformada con
+la creación de nuevas bases nacionales
+de información, el gabinete de seguridad
+podría eh publicar el número de personas
+desaparecidas como lo hace como con los
+homicidios eh para saber si hay aumento,
+si hay una disminución y cuántos ha sido
+localizada. Sí, es algo que vamos a
+informar pronto. Me lo han preguntado
+varias veces. ¿Qué qué eh qué es
+importante que sepan y por qué se están
+revisando bien las bases de datos? Lo he
+explicado en otras ocasiones y lo
+explico nuevamente. Eh, la antigua ley
+establecía que
+hay una plataforma más allá de las
+fiscalías que tienen las comisiones de
+búsqueda, donde uno puede reportar ahí
+una persona desaparecida.
+E,
+¿qué nos encontramos?
+que esos reportes de esa plataforma,
+muchos de ellos no están completos,
+incluso en algunos casos ni el nombre
+completo de la persona está. Viene su
+primer nombre, no vienen los apellidos,
+no viene contacto, no viene dirección,
+no viene donde desapareció y sin embargo
+se contabilizaba como una persona
+desaparecida.
+Entonces,
+eh lo primero que estamos haciendo, como
+la ley decía que había que mantenerlo,
+pues es decir, con la antigua ley estas
+eran las bases de datos que estaban en
+la plataforma y ese cruce con las
+fiscalías estatales, ¿cómo es? ¿Cuántas
+de ellos tenían realmente carpeta de
+investigación o al menos registro en un
+Ministerio Público? Entonces ese justo
+la supercomputadora nos ayudaría que eso
+fuera más rápido, pero bueno, tener la
+información de los ministerios públicos
+estatales, de las comisiones de búsqueda
+estatales, eso ha llevado un poco de
+tiempo, pero va avanzando. Entonces,
+para poder informar de todos los
+registros que estaban en la plataforma,
+estos tenían datos completos, estos no
+tenían datos completos, de estos que no
+tenían datos completos, que si tenían,
+que no tenían, para que haya total
+transparencia. Esa es una primera parte.
+Lo segundo es cuánto de ello tiene
+carpeta de investigación. Si hay una
+persona desaparecida,
+¿quién denunció directamente ya al
+Ministerio Público para que se abra una
+carpeta? Y son distintas. Entonces, que
+podamos informar cuántas carpetas de
+investigación hay. La nueva ley lo que
+nos faculta es que pueda haber búsquedas
+administrativas de esa información.
+Eso está ayudando mucho la Agencia de
+Transformación Digital. Entonces, de las
+personas desaparecidas, por ejemplo, ya
+podemos preguntarle al INE como
+pregunta, esta persona que está
+reportada como desaparecida, ¿hizo algún
+trámite de credencial de elector
+posterior a su desaparición?
+Y el INE nos contesta sí o no.
+Si contesta que sí,
+entonces pedimos a la familia, si es que
+se contacta la familia, si podemos tener
+acceso al dato de la dirección y va y se
+busca a la persona en la dirección.
+Eso por un lado. Entonces esa parte ha
+tenido su su complejidad, pero lo
+estamos atendiendo. De los datos nuevos
+de personas desaparecidas, la nueva ley
+establece claramente que si son ciertos
+días es no localizada, si son otros días
+ya es eh desaparecido y si es
+desaparecido tiene que haber carpeta de
+investigación.
+Entonces, toda esa parte es lo que nos
+ha eh llevado un poco de tiempo para
+poderlo presentar. Las fiscalías no
+reportan diario si hay casos de
+desaparecidos y si lo reportan pues
+tiene que haber un tiempo para que sea
+no localizada, que haya la alerta y que
+después ya se considere como persona
+desaparecida. Y de esas, ¿cuántas
+estarían vinculadas con algún asunto de
+la delincuencia organizada? Entonces,
+antes de que termine el año se va a dar
+la información y no la hemos dado
+precisamente por eso, porque queremos
+ser muy claros en la información previa
+y la información actual de cuántas
+personas hay, además de todo el trabajo
+que se está haciendo para pues evitar
+que haya coptación de jóvenes por parte
+de la delincuencia organizada.
+Cierra la siguiente pregunta, porque la
+la política social y educativa para que
+los jóvenes no ingresen al narcotráfico,
+como México lo está haciendo es es
+recomendado por organismos como la ONU.
+Pero cuando los jóvenes son obligados a
+trabajar para la delincuencia
+organizada, como se sabe que ocurre con
+el reclutamiento forzado, ¿qué se
+pretende hacer ahí? Eh, se sabe, por
+ejemplo, que las redes criminales usan
+las redes sociales como con falsas
+ofertas de trabajo, eh, que buscan
+también estudiantes de algunas carreras
+técnicas. Entonces, ¿qué se pretende
+hacer para? Está el nuevo sistema
+nacional de inteligencia e investigación
+nos permite tener mucho más acceso a
+estas plataformas
+eh de coptación, bajar las páginas,
+hablar incluso con las plataformas
+digitales se han bajado muchas, ¿no? E
+pasamos el dato de cuántas se han bajado
+y además
+se está trabajando en el alertamiento
+que tiene que ver también con las nuevas
+leyes. por ejemplo, que en todos los
+los
+no se llaman CRAM, sino las estaciones
+de transporte foráneo
+interurbano,
+eh cuando vas a comprar un boleto de
+camión para ir a otro lugar, en algunos
+estados en particular donde sabemos que
+pueden haber riesgo de coptación de
+algún grupo criminal, ahí se está
+obligando a las empresas a que reporten
+eh y que tengan tengan información de
+quien va que se pida la credencial de
+elector necesariamente para poder subir
+un autobús. En fin, varias medidas de
+alertamiento para que si hay el reporte
+de una persona no localizada, pues de
+inmediato alerte todo el país para que
+pueda ser localizado en determinado
+punto. También la nueva ley nos permite
+que se pueda acceder a datos privados en
+caso de que un juez lo solicite.
+Entonces, y que esté conectado con esta
+plataforma de información. También está
+ya trabajando la comisión eh de
+telecomunicaciones, la nueva comisión en
+nuevas reglas para eh no para que la
+compra de los chips, de los teléfonos se
+tenga que dar la identificación que ya
+está en la ley. En México, creo que
+ningún otro país del mundo
+tiene esta facilidad, como hay en
+México, de que puedas comprar un chip en
+una tienda y que no tengas que dar tu
+nombre y entonces lo usa la delincuencia
+para estar cambiando sus chips y poder
+hacer extorsiones y otras cosas. Ahora
+ya no se va a poder hacer eso. Y lo
+guardan las telefónicas, la información
+y después a solicitud puede de una
+desaparición o de una extorsión lo puede
+solicitar la secretaria de seguridad.
+Entonces, todo esto lo estamos haciendo
+para evitar y además escuelas,
+universidades,
+centros de alto rendimiento y algunas
+otras acciones para que los jóvenes no
+ni piensen acercarse a un grupo
+criminal.
+Y otro tema, presidenta, usted sabe que
+hay indicios muy fuertes de que el caso
+de Hugo Alberto Wallas fue fabricado. La
+confesión de Juana Hilda ya quedó sin
+efecto por la Suprema Corte y era la
+única base de la acusación. La Fiscalía
+tendré que retirar la acción penal,
+además que hubo tortura en la oficina de
+la fiscalía. Eso lo dijo la Comisión
+Nacional de Derechos Humanos y también
+la Suprema Corte. Eh, ¿por qué la
+fiscalía no desiste de la acción penal y
+abre una investigación sobre el actuar
+de sus funcionarios en la época de
+Calderón? Pues tiene que contestarlo la
+fiscalía.
+Okay. Porque, ¿quién quiénes han
+investigado este caso? Y no me refiero
+nada más al trabajo de de Ricardo
+Rafael, sino también a la Comisión
+Nacional de Derechos Humanos, la Suprema
+Corte, la Defensoría Pública. Todos son
+instancias públicas financiado por el
+Estado para garantizar la defensa de los
+derechos humanos y no se toma en cuenta
+sus informes que son de cientos de
+páginas y que señalan la fabricación del
+caso y la violencia violaciones, perdón,
+graves como la tortura.
+tiene que contestar la fiscalía.
+Okay. Es el el caso se atrasó nuevamente
+con la reforma judicial porque en el
+caso de Brenda Queveda Cruz y Jacobo,
+ellos han solicitado el cierre del
+proceso, pero el juez que acaba de
+asumir el caso pilló más tiempo para
+analizar los expedientes. En cuanto a
+Toni Alberto y César que fueron
+sentenciados en primera instancia como
+Juana Hilda, sus casos se encuentran en
+un tribunal colegiado que no ha sido
+integrado todavía. ¿No sería conveniente
+que la nueva administración judicial
+revisara también el actuar de los
+jueces?
+Sí, para eso hay un eh tribunal de,
+¿cómo se me olvida siempre el nombre de
+esa institución?
+Tribunal de disciplina judicial. eh
+tiene que actuar, o sea, tienen que el
+poder judicial, el no poder judicial
+tiene una enorme responsabilidad
+eh histórica,
+eh y con el pueblo que lo eligió y
+tienen que dar resultados eh dentro del
+marco de la ley. Entonces, en el caso
+del Tribunal de Disciplina,
+eh, pues tiene que, si es el caso, pues
+investigar a los jueces que están
+involucrados con alguna queja y hacer
+investigaciones imparciales, pues, pero
+si hay eh evidencia de que hay un juez
+que está cometiendo alguna
+irregularidad, pues para eso se creó
+esta institución.
+Eh, Brenda está en arraigo domiciliario
+desde más de un año y medio y por culpa
+de la tortura necesita una atención
+médica y una operación, pero al estar
+confinada en su casa sin poder salir
+nada avanza. ¿No se podría revisar sus
+medidas cautelares para permitir que
+recibe el tratamiento? que es un
+tratamiento muy importante.
+Si ellos eh gustan eh eh buscar al
+gobierno para que podamos
+eh ayudarles en la información, con todo
+gusto, pero pues si es un asunto del
+poder judicial.
+Gracias.
+Bueno, yo creo que ya no. Vámonos.
+El detector.
+Con su permiso, presidenta. Buenos días
+a todas y todos.
+Las movilizaciones de transportistas y
+agricultores han sido aprovechadas por
+medios de comunicación y comentaristas
+para desinformar sobre sus causas e
+incluso sobre quiénes participaron en
+ellas, con el objetivo de generar la
+percepción de que el gobierno de México
+no ha atendido sus demandas. Por otro
+lado, el hecho de que 13.5 5 millones de
+mexicanos hayan salido de la pobreza y
+que diversos organismos internacionales
+hayan reconocido esta hazaña, parece
+molestar a algunos comentócratas que
+desconociendo las voces internacionales
+mienten diciendo que este acto de
+justicia social se debe al INEGI. Veamos
+el video del detector de mentiras de
+esta semana.
+[música]
+Mentira sobre los bloqueos. carreteros y
+el falso desabasto de medicamentos son
+algunas de las noticias falsas que el
+detector de mentiras localizó esta
+semana. Uno, mentirra sobre los bloqueos
+carreteros el 24 de noviembre. El 25 de
+noviembre, medios impresos, electrónicos
+y digitales publicaron 59 notas de los
+bloqueos en carreteras registrados el 24
+de noviembre, de las cuales 16 contienen
+información falsa. En los seis
+principales periódicos de circulación
+nacional, 14 columnas abordaron el tema
+de los bloqueos, de las cuales cinco
+contienen falsedades. A bloqueos a
+carreteras fueron por falta de atención
+a las demandas de agricultores y
+transportistas.
+Este lunes, ambos bandos bloquearon 29
+puntos en al menos 20 estados. Exigieron
+a la presidenta Shembam que los atiendan
+y que cumplan las demandas que les
+plantearon desde hace [música] meses.
+El origen de las protestas es muy claro.
+Los transportistas piden a Grito
+seguridad y los campesinos exigen
+precios justos. Básico que a los
+productores de maíz les alcance [música]
+para las tortillas. Mentira. Durante las
+últimas semanas se han realizado más de
+200 reuniones entre autoridades
+federales y productores para atender sus
+inquietudes y avanzar en acuerdos, entre
+los que se encuentran el aumento al
+precio de garantía del maíz y frijol,
+así como un precio mínimo para la
+exportación de tomate fresco. Desde el
+inicio de la administración se han
+llevado a cabo más de 300 reuniones con
+líderes transportistas y se logró una
+reducción del 54% en el promedio diario
+de robos con violencia [música] a
+transportistas respecto a 2018. Además,
+el 22 de julio se reforzó el combate a
+este delito con el inicio de la [música]
+estrategia especial cero robos para
+carreteras y la estrategia Balama B. El
+gobierno de México amenaza a productores
+agrícolas y transportistas [música] con
+iniciar carpetas de investigación por
+bloqueos. Mentira. En la mañanera del
+pueblo del 25 de noviembre, la
+presidenta Claudia Sham desmintió que su
+gobierno persiga a productores agrícolas
+y señaló que no se va a perseguir a
+nadie por manifestarse. C. En los
+bloqueos carreteros participaron todas
+las organizaciones de transportistas y
+agricultores del país.
+El megabloqueo a nivel nacional que
+estamos viviendo por nuestros
+transportistas y agricultores es solo el
+principio [música] de lo que viene si la
+presidenta no resuelve sus demandas.
+Mentira. Las principales organizaciones
+transportistas como Canacar, CONATRAM,
+FEMATRAC, Amotac, Antac, Indeco, Temexun
+y Unicarso entre otras, no participaron
+en ningún paro o bloqueo. Dos hospitales
+del IMS Bienestar en el Estado de México
+no tienen medicamentos.
+Sus hijos recién nacidos están [música]
+enfermos, pero los hospitales no tienen
+lo necesario para atenderlos. Es la
+situación que madres [música] y padres
+enfrentan día a día en el Valle de
+Toluca.
+Mentira. El IMS Star desmintió el 19 de
+noviembre que exista desabasto de
+medicamentos en las unidades del Estado
+de México. Aclaró que a través de las
+rutas de la salud se garantiza el
+suministro y que actualmente el abasto
+es del 90%. El 24 de noviembre comenzó
+la tercera entrega de los kits de
+medicamentos e insumos médicos con el
+programa Rutas de la Salud, el cual
+entregará más de 16 millones de
+medicamentos en 637 hospitales del país.
+Tres. La caída de la pobreza en México
+es porque [música] se desapareció el
+Ceval.
+La caída de la pobreza es porque el
+gobierno desapareció [música] el CONVAL,
+la institución independiente que hacía
+la medición de la pobreza y que ahora
+las cifras [música] las hace el propio
+gobierno a través del INEGI, encabezado
+por una morenista. Mentira. La medición
+de pobreza multidimensional 2024,
+publicada por el INEGI, conserva los
+mismos principios conceptuales y
+metodológicos de sus ediciones previas
+del 2016 al 2022 realizadas por el
+CONEVAL. La Ley General de Desarrollo
+Social obliga al INEGI a regirse por el
+principio de independencia, objetividad,
+transparencia y rigor técnico.
+[música]
+Gracias, presidenta.
+Buen día.
+No, yo creo que no. Todavía estamos en
+la definición.
+Ya platic.

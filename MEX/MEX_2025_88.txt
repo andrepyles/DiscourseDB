@@ -1,0 +1,2162 @@
+Buenos
+días. ¿Cómo están?
+Bien, muy
+bien. Bueno, el día de hoy está con
+nosotros, están con nosotros,
+compañeros, siéntense, por favor, de la
+Agencia de Transformación Digital y
+Telecomunicaciones, está su titular,
+José Antonio Peña Merino, y está Norma
+Solano, que es coordinadora nacional de
+transformación digital y Jorge Luis
+Pérez, coordinador nacional de
+infraestructura digital. Ellos nos van a
+exponer los elementos centrales de la de
+la reforma que enviamos a la ley de
+telecomunicación. ¿Qué es lo principal?
+cuáles
+son los
+cambios para bien de nuestro país y del
+pueblo de
+México en torno a las diferentes áreas
+que regula la ley de
+telecomunicaciones. Entonces, lo va a
+exponer Pepe Merino y hacia el final de
+la conferencia como siempre el detector
+de mentiras. Adelante,
+buenos días. Muchas gracias, presidenta,
+con su permiso. Como adelantaba la
+presidenta, les queremos contar de la
+nueva ley en materia de
+telecomunicaciones y radiodifusión, qué
+es lo que regula? ¿Cuáles son los
+cambios más importantes de la nueva
+propuesta? Y algunas precisiones y unos
+datos sobre conectividad. Siguiente, por
+favor.
+¿Qué es lo que les decía, no? Lo que
+regula la nueva ley, perdónen si
+regresamos, el acceso a internet en
+México para que ustedes tengan una idea
+comparativa con otros países, qué
+cambia, qué contiene la nueva ley y
+algunas precisiones a la iniciativa.
+Siguiente, por favor. Ahora sí,
+siguiente. ¿Qué es lo que regula la ley?
+Básicamente, todo el ecosistema de
+telecomunicaciones. ¿Qué es
+telecomunicaciones?
+cómo distintas cosas se conectan entre
+sí para transferir información.
+Entonces, por ejemplo, lo más eh
+conocido,
+satélites, antenas, torres. Entonces, de
+un satélite a una torre, de la torre a
+una computadora o a un celular, o bien
+puede ser también por cable, ¿no? Es se
+hace un cableado lo que conocemos como
+fibra óptica. Puede ser de fibra óptica
+a una torre, de la torre a una antena,
+de la antena a un celular. De hecho, así
+es como nos conectamos y estamos
+conectados todos hoy aquí en nuestros
+celulares, ¿no? A una torre de celular
+que seguramente está conectada a una a
+un cable eh de fibra óptica, ¿no? Esto
+además no solo funciona para internet,
+que es lo que usamos este en los en los
+celulares, sino también para televisión
+abierta, televisión por cable y en el
+caso de radiodifusión, pues para radio,
+¿no? Tanto AM AM AM AM AM como FM.
+Entonces, toda la ley eh justamente eh
+regula todo este ecosistema de eh datos
+y dispositivos. siguiente. Otra forma de
+decirlo es que se regula el acceso y el
+uso de señales de comunicación, es
+decir, quién accede a las formas de
+transmisión de información, sea por el
+aire, lo que llamamos espectro, o sea,
+cable, torres, etcétera, y qué uso se
+hace de esta eh de esta infraestructura.
+Entonces, en el caso de acceso, lo más
+eh conocido son concesiones de espectro,
+es decir, quién puede usar espectro para
+dar servicios, por ejemplo, de
+conectividad, telefonía, celular,
+despliegue y explotación de
+infraestructura, torres, antenas,
+etcétera, y las posiciones orbitales, es
+decir, los satélites. Esto es muy
+importante y voy a dar un poquito más de
+detalle adelante. Y el uso puede ser
+comercial en el caso de una empresa que
+se dedique a dar servicios de telefonía
+celular o de televisión por cable, por
+ejemplo, social o público. Además,
+interconexión, esto es importante, esta
+es la posibilidad de que una red de una
+empresa se conecte a otra red de otra
+empresa y de esa forma puedan conectarse
+todos los usuarios, ¿no? Si yo soy un
+usuario de una empresa X y mi mamá es
+usuaria de una empresa Y, yo cuando le
+marco a mi mamá son se interconectan las
+redes de mi empresa, la empresa con la
+que yo tengo el contrato y la empresa de
+mi mamá, ¿no? A eso nos referimos.
+compartición de infraestructura, es
+decir, si una empresa construye una
+torre que se permita eh con un costo eh
+que otra empresa puede usar esa misma
+torre para poner una antena, por
+ejemplo, calidad de los servicios, que
+no haya intermitencia, que haya
+frecuencia, que la velocidad sea la
+indicada. Gestión de posiciones
+orbitales. Esto es
+una eh facultad del Estado Mexicano. que
+los
+satélites geoespaciales tengan una
+órbita dedicada para el país y derechos
+de audiencias y de usuarios, que también
+lo voy a explicar un poquito más
+adelante, es decir, que eh los
+televidentes, por ejemplo, en el caso de
+televisión abierta, eh pues tengan
+acceso a contenidos eh que respeten
+derechos humanos, no discriminatorios,
+etcétera. y por supuesto el tema de
+supervisión y sanciones, es decir, si se
+violara en algún sentido tanto el uso
+como el acceso. Siguiente, por
+favor. Entonces, de manera muy rápida
+les cuento algunos datos de acceso a
+internet en México que creo que son
+ilustrativos eh de por qué esta ley y
+como la la planteamos. Lo
+primero, en el verde oscuro ven las
+zonas de cobertura de 4G en México, en
+el verde clarito, las zonas que no
+tienen cobertura. Efectivamente, algunas
+zonas que no tienen cobertura son zonas
+de baja o muy baja densidad poblacional,
+¿no? Pero no es siempre el caso.
+Nosotros estimamos por lo menos que hay
+10.2 millones de personas en México,
+mayores de 14 años que viven en zonas
+sin cobertura 4G.
+Es decir, son 10 personas que aunque 10
+millones, perdón, que aunque tengan un
+dispositivo no se pueden conectar a
+internet, ¿no? Y todo lo que eso
+implica, ¿no? Porque ustedes lo hemos
+dicho aquí, ¿no? El internet es un
+derecho, pero además es un habilitador
+de derechos. Si uno tiene internet, pues
+tiene la posibilidad de expresarse
+acceso a educación, libre manifestación
+de ideas, etcétera, ¿no? Una persona que
+no tiene acceso a conectividad, pues es
+una persona que además no puede ejercer
+todos esos derechos de la manera
+oportuna y rápida que los demás, ¿no? Y
+estimamos en al menos 4.000 millones el
+número de personas que viven en zonas
+que sí tienen cobertura, pero que no
+tienen de su bolsillo el recurso para
+poder adquirir
+datos. Entonces, esto para nosotros son
+personas también sin cobertura, ¿no?
+Porque aunque vivan en una zona en donde
+hay señal de celular o o del servicio
+que sea, pues si no pueden pagar de su
+bolsillo el servicio, pues no tienen
+acceso a estos datos. Estamos hablando
+de por lo menos 15 millones de mexicanas
+mexicanos. Siguiente, por favor. Y este
+es un comparativo que nos parece eh
+útil. Elegimos un grupo de países eh de
+tamaño, nivel de ingreso, población,
+territorio, más o menos similar al caso
+de México. Y vean la evolución del
+precio. La primera gráfica es la
+evolución del precio por Gigabyte, ¿no?
+Esto es en dólares. La fuente es la
+Unión Internacional de
+Telecomunicaciones. Estos no son datos
+nuestros, son datos de la organización
+internacional que ve todo el tema de
+telecomunicaciones. Y si ustedes ven en
+este grupo de países, hay una caída en
+el precio eh de de datos en México, pero
+hacia el final del periodo, pues México
+tiene entre este grupo de países el
+precio más alto por gigabyte que está en
+5.22, no está en dólares para hacer la
+comparación eh seguido de Sudáfrica, por
+ejemplo, con 4.18, pero hay países como
+Egipto, aunque Egipto tiene una una
+densidad eh urbana muy alta, ¿no? la
+inmensa mayoría de su población vive en
+tres ciudades. Eh, el costo es punto52.
+Es una diferencia notable, pero lo
+importante es la diferencia en la
+tendencia, ¿no? Nosotros nos
+estacionamos y no ha habido realmente
+una caída en el precio. Ha habido un una
+un incremento en la penetración, el
+número el porcentaje de hogares con
+internet en el caso de México, pero ha
+sido un poco más lenta que en otros
+países. De hecho, eh si ven la
+comparación, pues todos los países que
+están allí, con excepción de Colombia,
+nos rebasaron en términos del porcentaje
+de hogares que tienen eh internet, que
+en el caso de Colombia 59%, y en el caso
+de México es
+68.5. Siguiente, por
+favor. Ahora, hubo un esfuerzo
+importantísimo en la administración
+anterior bajo la presidencia del
+presidente Andrés Manuel López Obrador,
+vía CFETIT. de instalar muchísima
+infraestructura, antenas, cables, fibra
+de del gobierno para dar conectividad a
+zonas sin conectividad. Fíjense ustedes
+el dato. De 2018 a 2024 pasaron de
+13,000 a 141,000 localidades conectadas.
+Esto es con una red pública, ¿no?, que
+es la red de
+700 eh MHz y de 40,000 a 90 de perdón,
+de 40 millones, ahí falta una L, una
+disculpa, a 97 millones de personas.
+Esto permitió que, por ejemplo, el año
+pasado se lanzara un programa que se
+llama eh Conectividad para el Bienestar,
+que entregó 2.9 millones de tarjetas
+SIMs para celulares con un servicio
+gratuito eh para 2.9 millones de
+dispositivos de personas con 5 GB
+mensuales y 15 minutos. Esto es para
+conectar justamente a personas que viven
+en zonas con cobertura, pero que no
+tenían medios económicos para
+solventarlo, ¿no? Aún con ello, al día
+de hoy, 92% del territorio nacional en
+términos de población o 92% de la
+población nacional vive en zonas con
+cobertura. Esto es 96% en localidades de
+más de 2500 habitantes, pero fíjense es
+62% en localidades con 2500 habitantes o
+menos.
+Lo cual significa que eh pues más de una
+tercera parte en estas localidades vive
+en una zona sin cobertura y es apenas
+26% en el caso de localidades de menos
+de 200 habitantes, que son muchísimas
+localidades muy pequeñitas en donde solo
+una cuarta parte tiene conectividad y en
+donde hay eh conectividad el gasto en el
+promedio nacional es de
+721, pero en el caso del 10% más pobre
+de los hogares más pobres del país se
+gastan
+247es que representan casi el 6% del
+total de su gasto. O sea, si es un gasto
+oneroso en términos del ingreso y gasto
+del 10% de menores ingresos, ¿no? Esto
+les da un contexto que a mí me parece
+importante, ilustrativo de por qué los
+cambios que eh incluimos en la nueva en
+la nueva ley, ¿no? Siguiente, por favor.
+siguiente. Esto, esta la que presentamos
+que presentó la la presidenta, es una
+ley para conectar a todas las mexicanas
+y mexicanos
+gradualmente, eh con medios públicos,
+las empresas privadas, pero que
+proporciona, nosotros creemos, el marco
+normativo que justamente va a permitir
+llegar a una meta de conectividad en
+donde el acceso a internet pues no
+excluya a los 15,000000 que les
+mencionaba. Lo primero, espectro para
+uso público. Esto quiere decir espectro
+que pueda usar una autoridad de
+gobierno, centralmente CFE, que ha
+consolidado CFE Internet, CFETIT, CFE
+Telecomunicaciones, internet gratuito
+como el programa social que adelantaba,
+oficinas gubernamentales, ¿no? Que en
+lugar de tener un contrato puedan eh
+acceder a internet vía este espectro y
+sitios públicos, ¿no? como los que
+instalamos en la ciudad de México cuando
+la presidenta era jefa de gobierno, o
+bien espectro para uso comercial,
+también en el caso de CFE, en igualdad
+de condiciones que una empresa privada.
+Entonces, si es para proveer cobertura
+social, servicios gratuitos, espectro
+gratuito, si es para comercializar, pues
+igual que cualquier otra empresa, sea eh
+privada o pública. Cobertura social y
+carretera, esto es importante y y la
+presidenta nos lo ha
+enfatizado, por empresas de Telecom a
+cambios de descuentos, por ejemplo, en
+el pago de espectro. operadores
+comunitarios, sociales y públicos podrán
+conectarse, esto de veras se los quiero
+reiterarlo, es muy importante, a las
+redes de los grandes operadores a costos
+accesibles. Les doy un ejemplo eh que me
+parece ilustrativo. Hay algunas en la
+Sierra Mixteca, sobre todo, no solo, no,
+pero quizás son los casos más conocidos
+de Oaxaca, hay algunas redes locales en
+local en municipios, localidades que
+sirven para que los habitantes tengan
+algunos servicios de conectividad o bien
+de telefonía local, ¿no? puedan hablar
+dentro del mismo espacio. Si esta red,
+usando esta red quisieran usarla, por
+ejemplo, para hablar con su hermano que
+quizá vive en Estados Unidos o en la
+ciudad de México, donde sea, es
+imposible si no existe esta
+interconexión. Y para estas redes
+comunitarias a veces es imposible porque
+los costos de interconexión son muy
+altos.
+Con la ley lo que queremos es que esta
+interconexión ocurra en el caso de redes
+comunitarias eh sociales y públicas a un
+costo eh accesible y que usando la
+redcita local puedas hacer llamadas eh a
+las redes de los grandes
+operadores. Compartición de
+infraestructura bajo tarifas accesibles
+y no discriminatorias es lo mismo, ¿no?
+Si hay una torre de Altán, Telcel, de la
+empresa que sea, que la puedan mostrar
+eh otros operadores. Acceso fácil a
+espectro. Esto es bien importante para
+otros fines que no son fines
+comerciales, por ejemplo, educación, eh
+investigación. A veces hay universidades
+investigadores que hacen experimentos eh
+usando espectro, pues no podemos pedirle
+las mismas cosas que le pides a un
+operador muy grande, ¿no? Eh, industria
+y automatización, esto es bien
+importante y se vincula muchísimo con el
+plan México que que se ha presentado
+aquí varias veces. Eh, por ejemplo, si
+es una industria en semiconductores o
+etcétera, que tiene procesos
+automatizados, estos son procesos que
+usan espectro para poder eh conectarse y
+pequeñas empresas de telecom, como lo
+que mencionaba, de operadores
+comunitarios. Eh, siete, menos
+requisitos, también esto es bien
+importante para acceso a espectro a
+radios públicas y comunitarias, sobre
+todo indígenas y afromexicanas.
+Importantísimo. Esto no es para
+servicios de conectividad, eso es para
+servicios de radiodifusión, la radio
+local, eh con frecuencia en en lenguas
+originarias, pero que además en la
+modificación permite que accedan a
+patrocinios y publicidad local.
+Es decir, perdón si me pasan la
+botellita de agua.
+Perdónene. A lo mejor no se va eh a
+anunciar una empresa este global, pero
+sí se puede anunciar la papelería, la
+tienda de abarrotes, cosas de la
+localidad, de la comunidad que puedan
+aprovechar la radiodifusión para para
+ello, ¿no? Y eso sirve para que estas
+radiodifusoras pues se financien un
+poquito, ¿no? Y por supuesto
+simplificación y homologación, que
+bueno, a eso entre otras cosas nos
+dedicamos en la agencia para trámites de
+despliegue y infraestructura, ¿no? No no
+puede ser complicado si queremos
+conectar a todos los mexicanos y
+mexicanos, poner trabas burocráticas
+para que se despliegue infraestructura
+cumpliendo todas las normas que haya que
+cumplir, ¿no? Entonces, digamos, el
+mensaje que yo espero haber sido exitoso
+comunicando es, esta es una ley para
+conectar a mexicanas y mexicanos, a los
+15 millones por lo menos, que hoy no
+tienen acceso a datos y que por tanto no
+pueden ejercer su derecho a internet y
+todos los derechos derivados de acceder
+a internet. Siguiente, por favor. Otros
+cambios importantes. Me voy más rápido.
+Derechos de audiencias. Estos son
+derechos que eh se adquirieron en 2014,
+luego se eliminaron en una reforma del
+2017 de una reforma que ustedes eh
+conocen y luego la Corte Suprema declaró
+eh regresar, bueno, declaró
+inconstitucional la reforma del 17,
+códigos de ética y de defensorías de
+audiencias y esto permite, por supuesto,
+que las organizaciones de audiencias
+puedan defender derechos de de del
+audiencias. Segundo, derechos de
+usuarios. Muy importante. Yo no puedo,
+no tengo por qué tener un dispositivo,
+un celular que está amarrado a un solo
+proveedor de telecomunicaciones. Yo
+tengo el derecho de acceder a un
+dispositivo que está abierto, que le
+puedo poner la tarjeta, el chip, la SIM
+de cualquier empresa y va a funcionar. y
+que no tengo que estar buscando dónde
+recargo el saldo de una empresa en
+específico. Todas las eh yo tendría que
+poder recargar el saldo de cualquier
+empresa del tamaño que sea en cualquier
+establecimiento que venda saldos, ¿no?
+Tercero, medidas para no perder recursos
+orbitales, es decir, que el país no
+pierda órbitas eh que hoy están a nombre
+de México y en su caso, planes de
+contingencia en reemplazo, ¿no? A veces
+los satélites eh se mueven, se desvían,
+se desorbitan, es el término que usan
+los expertos. Entonces, pues el plan de
+contingencia para poder reemplazar y no
+perder, por supuesto, la órbita.
+lineamientos para ordenamiento y retiro
+de cableado. Es algo que iniciamos en la
+ciudad de México también a instrucción
+iniciativa de la presidenta cuando era
+jefa de gobierno. Gradualmente, de
+manera ordenada, sin que implique
+grandes erogaciones, pero que sí es
+importante tener lineamientos básicos
+para bajar cables en desuso, por
+ejemplo. Eso es muy común en la ciudad,
+¿no? Que tú ves un poste con una maraña
+de cables y resulta que 80% de esos
+cables ni siquiera tienen un uso, ¿no?
+bloqueo de señales en centros
+penitenciarios a cargo de las empresas
+de Telecom. Esto es, por supuesto, para
+evitar mal uso de telefonía celular y
+llamadas al exterior, por ejemplo, casos
+de extorsión, ¿no? Eh, siguiente, por
+favor. Una cosa bien importante que que
+creemos eh que vale la pena enfatizar.
+El IFT se divide y lo ha mencionado
+también la presidenta repetidamente
+centralmente en dos funciones y en este
+caso así se va a separar la Autoridad de
+Telecomunicaciones con lo que yo les
+acabo de explicar y aparte el tema de
+competencia económica, qué se iría a la
+nueva comisión antimonopolio que estaría
+en la Secretaría de Economía, ¿no?
+Entonces, no es una iniciativa de ley
+que concentre más atribuciones en un
+solo lugar, de hecho, al contrario, ¿no?
+Separa las dos atribuciones, cobertura
+para el regulador de
+telecomunicaciones
+y competencia para el la Comisión
+Anthonopole, que además esperamos, por
+supuesto, tenga un efecto en una caída
+de precio de servicios que no se ha
+observado en los años recientes, como
+les mostré en la gráfica, ¿no?
+Siguiente, por favor. Y ya con esto
+termino. Algunas precisiones a la
+iniciativa que es importante señalar,
+que la presidenta ya ha adelantado
+alguna. siguiente. Eh, uno, eh, impulsar
+decisiones colegiadas, eh un órgano
+desconcentrado sectorizado a la agencia
+que tenga independencia técnica. muy
+importante. Esto implica no solo eh el
+consejo de manera colectiva, sino que
+haya capacidades técnicas instaladas en
+eh el organismo, porque este es un tema,
+como ustedes se imaginarán, pues muy
+técnico de muchas cosas, mediciones, eh
+etcétera, ¿no? Eh, con cinco consejeros
+propuestos por el Ejecutivo, la
+presidenta y ratificados por el Senado.
+Segundo, la aclaración que ya hice, pero
+que vale la pena enfatizar de espectro
+para el gobierno en específico CFE, ¿no?
+Gratuito para temas de cobertura social
+en igualdad de condiciones para temas
+comerciales. Tercero, el artículo 109
+que causó
+este cierta eh malentendido polémica.
+Eh, est era un artículo pensado para
+acompañar un artículo que ya existe hoy
+en la ley del IVA, que es el
+18H plataformas de venta de bienes. Eh,
+pero bueno, para que no haya ningún
+espacio a duda y como lo mencionó la
+presidenta, aquí no hay censura. Al
+contrario, ¿no? Una ley que promueve
+conectividad, que promueve que más
+personas se se puedan usar datos y
+manifestar sus ideas y usar redes es una
+ley que claramente va en el sentido
+contrario. Pero para que no haya ningún
+espacio de duda malentendido, se elimina
+y eh se queda, como también ya lo había
+anunciado la presidenta, eh la
+imposibilidad de transmitir propaganda
+de gobiernos
+extranjeros, eh excepto, por supuesto,
+eh temas turísticos, culturales y
+deportivos, por ejemplo, ahora que viene
+la Copa del Mundo, que vamos a compartir
+sedes con nuestros dos vecinos del
+norte, ¿no? Entonces sería. Espero eh
+haber disipado algunas dudas, por
+supuesto, abierto sus preguntas y muchas
+gracias, presidenta, por todo.
+Vamos a a seguir las reglas de la
+mañanera. Bueno, vamos primero a ver por
+acá.
+Gracias. Buenos días, presidenta.
+Jennifer Barba de México Comunica. Eh,
+presidenta, ¿cuál es su postura respecto
+al ingreso del youtuber Mr. Beit a zonas
+arqueológicas que están restringidas al
+público, ya que pueden dañar su
+interior? La Secretaría de Cultura ya
+informó que se aplicarán sanciones. Eh,
+¿puede adelantarnos qué tipo de medidas
+se contemplan? El video tiene más de 50
+millones de vistas sin sumarle nada a
+México más que la promoción de este
+youtuber estadounidense. Entiendo que
+hubo
+permisos
+eh para la transmisión. Si uno entra a
+un lugar que está protegido por el
+Instituto Nacional de Antropología de
+Historia, tiene que recibir un permiso
+para poder transmitir. Y entiendo que en
+este caso hubo permiso y ya en
+particular pues hay que ver exactamente
+del contenido, pero no es que haya
+entrado sin el permiso del del INA.
+Entonces vamos a averiguar exactamente o
+más bien que informe. Sí, tengo la
+información es que tenía permiso de Lina
+y ya que Lina nos diga pues bajo qué
+condiciones se dio este permiso y si se
+violó el permiso pues entonces qué
+sanciones provienen.
+Gracias presidenta.
+En en otro punto, en Tijuana la policía
+municipal y las fuerzas élite han
+decomizado casi cuatro armas al día este
+mes, lo que parece indicar avances
+contra los generadores de violencia. ¿Le
+preocupa que los cárteles puedan tomar
+represalias contra el alcalde Ismael
+Burgueño, el secretario de Seguridad
+Pública o inclusive hacia los policías
+élite?
+Se está trabajando en coordinación.
+Eh, nosotros en el gabinete de seguridad
+pues trabajamos en todas las entidades
+de la República y hay algunas entidades
+que tienen mayores índices delictivos en
+donde pues se pone mayor énfasis. Por
+ejemplo, en Baja California pues se
+trabaja de manera coordinada y en
+particular en algunos municipios se
+trabaja de manera
+coordinada. Un caso es Tijuana. en donde
+hay mucha coordinación con el gabinete
+federal. Eh, el secretario de seguridad
+de Baja California es un general que
+está haciendo un muy buen trabajo y está
+en coordinación permanente con el
+presidente municipal y con las
+actividades que se desarrollan en todos
+los ámbitos, pero en particular en lo
+que tiene que ver junto con la Fiscalía
+Estatal Federal de la República, general
+de la República e con las detenciones
+que se hacen a partir de carpetas de
+investigación. Entonces, hay un trabajo
+muy coordinado en Tijuana. Otro caso es,
+por ejemplo, eh
+Acapulco. Eh, de todo Guerrero, Acapulco
+es quien tenía más homicidios, es el
+municipio con mayor número de
+homicidios. ahora ha ido disminuyendo
+gracias a una colaboración muy grande
+entre el gobierno federal eh que incluye
+la Secretaría de Seguridad, las fuerzas
+federales, defensa, Guardia Nacional,
+Marina, que también participa de manera
+muy importante en
+Acapulco, eh y la presidenta municipal,
+la gobernadora. Entonces, hay un trabajo
+coordinado. Incluso, por ejemplo, el
+municipio de
+Tijuana, igual que el de Acapulco, se
+dividió por
+cuadrantes y hay responsables por
+cuadrante en cada una de las zonas de
+Tijuana. Entonces, hay un trabajo
+coordinado para proteger a los
+servidores públicos y sobre todo pues
+para disminuir la violencia en todos
+estos municipios y va bajando.
+Muchas gracias. Presidenta, eh por
+último, eh, ¿qué opina de que el PRI
+haya hecho comentarios en tono de burla
+sobre la situación eh de la gobernadora
+Marina del Pilar mientras guarda
+silencio sobre los casos de corrupción y
+detenciones que involucran a figuras de
+su propio partido o los del PAN que
+exigen la renuncia? Pero pero se les
+olvida que el secretario de seguridad de
+Felipe Calderón era un narcotraficante.
+Yo creo que aquí vale la pena detenerse
+un poquito.
+Cuando llega el presidente López Obrador
+al
+gobierno,
+cambia de manera muy
+importante la manera en que venían
+relacionándose los gobiernos federales
+del periodo
+neoliberal
+[Música]
+con las distintas instituciones del
+gobierno de los Estados
+Unidos o con el propio lo que eran los
+presidentes Antes de
+antes, aquí hemos
+mencionado el caso de
+Cedillo. A ver, otra vez pon
+el libro
+de de la
+bastida, porque es
+importante, o
+sea,
+Cedillo entra al gobierno en 1994.
+Se viene una crisis
+económica que
+provoca una
+devaluación y que las tasas de interés
+de los créditos suban más del 100%.
+muchísimo. Entonces, se encuentra frente
+a una circunstancia en donde
+decide pedirle dinero a Estados Unidos y
+a las agencias financieras
+internacionales. Primer
+capítulo. Segundo
+capítulo, año 2000.
+Pasan muchas cosas en el periodo,
+incluido evidentemente el
+FOPROA. Viene la elección presidencial
+del año 2000,
+periodo de Cedillo es de 1994 al año
+2000.
+En el año 2000 gana
+Fox y viene, ¿no? Pues la transición a
+la democracia, el gran cambio. Por
+primera vez no va a haber un gobierno
+priista después de tantos años. Mucha
+gente, la verdad, creyó en en un cambio
+que iba a ocurrir. Unos años después se
+vio pues que realmente no hubo
+cambio, pero resulta que tiempo después
+el que era candidato del
+PRI en el año 2000, la bastida, digamos,
+el que perdió en el año
+2000, hace sus
+memorias y en esas
+memorias pone
+esto. ¿Fue casual que Cedillo me
+entregara el partido quebrado
+financieramente? Porque en aquella época
+partido y gobierno pues eran lo mismo.
+Y después también este
+eh durante el periodo prianista, porque
+en realidad es eso es el periodo
+neoliberal, es el periodo del
+PRIAN porque hay una alianza que después
+fue manifiesta en el 2021, pero en
+realidad pues era el mismo modelo
+económico y las casi las mismas
+personas. ¿Fue casual que Cedillo me
+entregara el partido quebrado
+financieramente? También dudo de que
+fuera fortuita la falta de solidaridad
+al negarse que se difundieran desde mi
+campaña los logros económicos de su
+gobierno y sus instrucciones a los
+gobernadores para que torpediaran mis
+giras.
+O sea, que Cedillo le decía a los
+gobernadores, "No vayan a apoyar a la
+bastida." La razón principal podría ser
+esta. Cuando el gobierno de Estados
+Unidos le hizo a México el préstamo de
+40,000 millones de
+dólares para afrontar la crisis desatada
+por el error de
+diciembre, negociación que el presidente
+Cedillo gestionó
+personalmente, se le demandó el
+compromiso de propiciar la transición
+democrática y que para ello el PRI
+dejara de
+gobernar y él entregara la presidencia.
+oposición. O sea, el propio candidato
+del PRI lo que está diciendo es no ganó
+el PRI en el año 2000 porque Cedillo en
+el 94 hizo un acuerdo con el gobierno de
+Estados Unidos para que entrara el PAN.
+Es dicho de la bastida.
+Bueno, ¿qué más entreguismo que
+ese, pero hay muchos otros
+ejemplos de ese
+periodo, por ejemplo, el comes y te vas
+del periodo de
+Fox, que estaban muy preocupados porque
+iba a venir Fidel Castro a México y no
+querían que se fuera a enojar el
+presidente de los Estados Unidos.
+Entonces lo invitan, le dicen, "Pero por
+favor, te vas rápido porque no vaya a
+ser que te
+encuentres." México es un país soberano,
+independiente. El pueblo de México
+decide en
+México. No tienen por qué decidir los
+otros.
+Y México tuvo durante años una política
+exterior muy
+reconocida que después se subsumió
+[Música]
+en por un lado mucho entreguismo y por
+otro lado también a todo lo
+económico, todo lo político, lo social,
+lo
+diplomático. Eso lo dice el presidente
+López Obrador en su libro Gracias. se
+subsumió en lo económico.
+Calderón. Recuerden aquella vez
+que hay una ejecución, porque eso fue
+extrajudicial, de
+un narcotraficante, de una persona de la
+delincuencia organizada en
+Morelos y que sale el embajador de
+Estados Unidos a decir, "Fuimos
+nosotros, fue la DEA.
+No estoy diciendo nada más que lo que es
+público, rápido y
+furioso, que vale la pena a ver si
+podemos hacer una serie de lo que fue
+rápido y
+furioso, que es esta este acuerdo que se
+tiene para que armas de Estados Unidos
+entren a México.
+supuestamente después se supo por
+Wikileaks era para darle seguimiento a
+los cárteles de la droga.
+Y no es hasta
+que
+fallecen servidores públicos de Estados
+Unidos, que empieza una investigación en
+Estados
+Unidos y después sale en esa
+investigación que sí hubo un
+acuerdo con la entonces Procuraduría
+General de la
+República. Todo esto es muy
+relevante porque cambiaron las cosas.
+en el
+2018 cuando entró el presidente López
+Obrador y la esencia de la coordinación,
+de la colaboración, porque claro que nos
+interesa colaborar y coordinarnos con
+Estados
+Unidos para evitar que llegue la droga a
+Estados Unidos por razones humanitarias
+y de todo tipo y también para disminuir
+la violencia en México que fue generada
+durante el periodo de Calderón.
+ese aumento tremendo que hubo en
+homicidios y que
+ya con todo el trabajo que se ha venido
+haciendo va
+disminuyendo, pero la relación cambió y
+la relación esencial es nos coordinamos,
+colaboramos, pero no nos subordinamos.
+es una relación
+distinta a lo que fue todo el periodo
+neoliberal y esa es la relación que
+hemos establecido como gobierno de
+México con el gobierno de Estados
+Unidos. Por eso siempre decimos, ¿qué
+pedimos para
+México? Negociar dialogar en igualdad de
+circunstancias, no de
+sometimiento, en igualdad de
+circunstancias.
+coordinación, colaboración,
+comunicación sin subordinación.
+Y esa
+es lo que llevó al cambio en la ley de
+seguridad nacional que hizo el
+presidente López Obrador, decir, "A ver,
+hay agentes de agencias en México de los
+Estados Unidos, pero tienen
+reglas y
+también en el momento que decide Estados
+Unidos declarar a las organizaciones de
+la delincuencia organizada como
+terroristas,
+Nosotros llevamos a la
+Constitución una
+modificación, que es decir, a
+ver si van a entrar aquí los agentes es
+con permiso y siguiendo todas las
+reglas,
+¿no? Nuestro territorio es
+inviolable. Entonces, eso es lo que
+cambió. Sí, cambiaron las cosas en
+mucho. Hay programas de bienestar, hay
+un modelo económico
+distinto. El país, además está bien
+económicamente y en la relación con
+nuestro vecino, nuestro socio comercial,
+es una relación de respeto, de
+entendimiento, de buscar que a los dos
+nos vaya
+bien, pero no esta relación que con
+algunos de los ejemplos que puse
+aquí pues marca lo que fue
+antes a lo nuestro, que es respeto.
+porque somos un país
+soberano, libre y
+independiente. Entonces, ese
+es el marco. Ahora, también hay que
+decir que, por ejemplo,
+ayer, lo digo por la por el
+PRIAN o algunos este comentócratas,
+¿no?,
+que ay están esperando que Estados
+Unidos intervenga en México. Así, por
+favor, por favor, por favor, porque como
+no
+pueden, o sea, no
+son sus ideas, sus posiciones políticas,
+su
+historia, ya
+no engaña al pueblo de
+México. Pues entonces están buscando que
+de otro lado
+venga a afectar al proyecto y no va a
+ocurrir porque nosotros tenemos muy
+claro lo que
+representamos, nuestros
+principios, nuestra historia, nuestras
+causas, nuestra
+patria.
+Entonces, eso no va a ocurrir. Y hay
+veces que estamos más de acuerdo que en
+otras con Estados Unidos.
+Pero hay una relación de de respeto y es
+lo que siempre vamos a pedir, una
+relación de respeto con México. Esa es
+la diferencia. Ahora, aprovecho porque
+ya que agarré el micrófono ya
+eh ayer se planteó en la eh en
+el creo que es el Senado, en una
+comisión del Senado, la posibilidad de
+grabar las remesas con el 5%.
+Y fíjense, ahí estamos de acuerdo todos
+en que
+no ayer envió, a ver si lo ponen
+un una carta el Senado de con todos los
+partidos
+políticos diciendo, "No, eso no. A ver,
+¿cómo van a grabar si ya pagan impuestos
+los mexicanos allá?
+Todos los mexicanos que viven en Estados
+Unidos pagan impuestos, tengan
+documentos o no tengan
+documentos, todos pagan impuestos.
+Incluso hay estados que ya graban las
+remesas. Entonces ahí todos dijeron,
+"No, a ver, eso no no estamos de
+acuerdo en que en esta injusticia que es
+discriminatoria."
+O sea, hay otras
+cosas en la defensa de los mexicanos y
+qué bueno que ahí estos partidos
+dijeron, "No, si firmamos porque fue
+bajo iniciativa de Morena en el Senado."
+A ver si lo ponen el la carta.
+dice desde el Senado de la A ver, pásame
+para que
+no desde el Senado de la República,
+haciendo uso de las facultades en
+política exterior conferidas en el
+artículo 76 de la Constitución,
+expresamos nuestro desacuerdo con la
+iniciativa promovida por el republicano
+Jason Smith en la Cámara representantes
+en la Cámara de Representantes, perdón,
+yo dije Senado de Estados Unidos en el
+marco del proyecto
+denominado The One Big Beautiful Bill,
+en el que entre otras medidas se busca
+imponer un impuesto del 5% sobre el
+monto de las remesas que envían las y
+los
+migrantes. Es relevante destacar que en
+Estados Unidos todos los trabajadores,
+más allá de su estatus migratorio, pagan
+de manera cotidiana sus impuestos, por
+lo que esta medida supondría una injusta
+doble tributación sobre ese 20% del
+ingreso laboral de los trabajadores
+migrantes que, reiteramos, ya tributado
+abona el país. Estos impuestos, además,
+no se traducen en un gasto social para
+el grupo poblacional que los genera, en
+muchos casos imposibilitado por acceder
+a las políticas sociales. A ver si vamos
+al final
+para hacemos un llamado a la mesura ante
+esta propuesta, ya que proyecciones
+técnicas realizadas demuestran que la
+imposición de un impuesto arancela, a
+las remesas solo
+desincentivaría el uso de las vías
+regulares y formales.
+Adelante. Desde el Senado sostenemos que
+las remesas son un fruto del esfuerzo de
+quienes a través de su trabajo honesto
+fortalecen no solo la economía mexicana
+sino también a la de los Estados Unidos.
+Por lo que consideramos esta medida como
+arbitraria injusta y hacemos un llamado
+al legislativo estadounidense a
+reconsiderar reflexivamente esta
+propuesta que dañaría la economía de
+ambas naciones y que además es contraria
+al espíritu de libertad económica que
+dice defender el gobierno de los Estados
+Unidos. Desde nuestro punto de vista,
+las relaciones entre pueblos hermanos se
+fortalecen desde el diálogo y el
+entendimiento mutuo, tendiendo puentes y
+no levantando muros ni barreras
+económicas. Y firman todos los partidos
+políticos.
+Ahora sí. Muchas gracias, presidente. De
+nada. A ver, vamos por acá.
+Muy buenos días, presidenta y
+funcionarios y funcionarias que la que
+la acompañan. Presidenta, sobre este
+mismo tema, el día de mañana en el
+soberano voy a publicar una columna que
+titulé La hipocresía de la política. ¿A
+qué me refiero con esto? Es porque
+Estados Unidos le está pidiendo a su
+gobierno que combata el fentanilo y que
+no deje llegar más migrantes a la
+frontera norte. Incluso el gobierno
+norteamericano ya tachó de terroristas a
+las organizaciones criminales, pero hace
+dos días nos enteramos que les dieron
+asilo a los integrantes de una familia
+de un delincuente bajo el sistema
+Parole. Mientras su gobierno tiene que
+seguir combatiendo la inseguridad que
+estas acciones provocan. Presidenta, en
+la revisión que harán del tratado
+solicitado por el presidente de Estados
+Unidos, Donald Trump, este año, su
+gobierno buscaría que Estados Unidos
+coayuube no dándole asilo a las familias
+de los delincuentes, porque el desastre
+lo dejan aquí, pero ellos se van a
+refugiar a Estados Unidos y como si no
+hubiera pasado nada con esas familias.
+Presidenta.
+Sí, como saben, pues está todo el tema
+también de un miembro de la delincuencia
+organizada que
+fue presuntamente detenido en los
+Estados Unidos.
+eh y que
+eh si quier en otra ocasión ya también
+hablamos de
+eso, pero sí es
+cierto esto que decía pues
+de de la relación que hay de los
+gobiernos del pasado y lo que planteamos
+nosotros que tiene que ver pues con el
+respeto, eh,
+y la
+comunicación
+permanente, porque por cierto el tema de
+Rápido y Furioso, este operativo que
+hubo de entrada de armas de Estados
+Unidos a México en la época de
+Caldero, tuvo un seguimiento de parte
+del Senado de los Estados Unidos y
+después ya no pasó
+nada, ya no hubo
+seguimiento. Esa investigación se
+cerró a pesar de que
+hubo muerte de mexicanos,
+muchísimas producto de
+ese
+terrible
+irresponsabilidad, pero ya no se
+investigó.
+Y ahora esto que
+mencionas, vamos a ver, hablamos ya
+después en otra ocasión con más de esto,
+pero es
+cierto, o sea,
+cómo declaran
+terroristas refugian
+o se porque ellos han dicho que no
+negocian con terroristas,
+¿no? Entonces, ¿qué pedimos en
+general?
+Respeto,
+colaboración, coordinación.
+Hay muchas
+eh periodos en la historia de
+México en donde ha habido una gran
+colaboración y coordinación y respeto
+entre Estados Unidos y México. Y yo
+diría que
+ahora hemos logrado una relación de
+respeto con el presidente Trump en
+muchos, muchos temas.
+El presidente López Obrador logró una
+relación de mucho respeto con el
+presidente Trump y con el presidente
+Biden y nosotros eh ese es nuestra
+nuestro
+objetivo, tener una buena colaboración,
+una relación de respeto y hasta ahora
+siempre habrá momentos en los que no
+estés de acuerdo en una u otra cosa,
+pero hemos logrado una relación de mucha
+comunicación y eso es lo que eh estamos
+planteando. Viene ya el embajador de los
+Estados Unidos, viene el nuevo
+embajador, eh, y ya estamos ponernos de
+acuerdo cuándo van a ser la entrega de
+las cartas credenciales, la
+aceptación y eso es lo que vamos a
+plantearle cuando lo veamos.
+mucha coordinación, colaboración y
+relación de respeto. Ahora, incluso hay
+muchos temas, por ejemplo, eh en la
+frontera norte nuestra y en la frontera
+sur de Estados Unidos hay mucha
+comunicación para evitar la entrada de
+tráfico de droga a Estados Unidos y la
+entrada de armas a México, que eso es
+algo también histórico que hemos
+logrado.
+las declaraciones del presidente Trump
+de decir eh mano dura para la entrada de
+armas de Estados Unidos a México y
+recientemente también el Congreso lo
+planteó. Eso es algo muy bueno. ¿Cómo se
+ha logrado eso? Pues comunicando,
+coordinándonos.
+Entonces, eso es lo que estamos
+planteando. Recuerden que en el caso de
+esta persona que va a declarar de este
+fue enviado por
+México en una
+extradición. Entonces es la comunicación
+entre las instituciones lo que debe
+prevalecer siempre.
+Muchas gracias, presidenta. Eh,
+presidenta, la semana pasada en la
+Cámara de Senadores hubo una conferencia
+de prensa donde se dieron a conocer
+nuevas denuncias contra el exgobnador de
+Tamaulipas, Francisco Javier García
+Cabeza de Vaca. En esta se reveló una
+red de corrupción de jueces que lo
+protegen como son Faustino Gutiérrez
+Pérez, Juan Fernando Alvarado López,
+Mauricio Fernández de la Mora y la
+magistrada Amalia Fernández Barquín.
+Presidenta, el exgobnador panista
+modificó la Constitución local a unos
+días de concluir su mandato para
+asignarse 43 elementos de seguridad
+fuertemente armados con al menos 10
+camionetas entre pops y blindadas. Y
+estos juzgadores corruptos lo han
+amparado para que el gobierno actual,
+presidido por el Dr. Américo Villarreal,
+no le quite este esquema de protección
+pagado con el dinero de los
+tamaulipecos, pues además de lo costoso
+los utiliza para cuidar sus propiedades
+y negocios en el estado porque él vive
+prófugo en Estados Unidos. Presidenta,
+preguntarle, ¿es válido que un
+exgobnador prófugo goce de estos excesos
+que el mismo se autoorgó y que hoy el
+gobernador Américo Villarreal busca
+borrar de la Constitución? local esos
+privilegios de unos cuantos y que por
+eso lo atacan. ¿No es mejor que los
+elementos regresen a resguardar a la
+población, presidenta?
+Pues eh estoy de acuerdo, pero lo
+importante es la diferencia
+entre lo que había
+antes,
+privilegios,
+corrupción y el cambio que inició con el
+presidente López
+Obrador y lo que representamos nosotros.
+Eso no se debe olvidar
+nunca de dónde
+venimos. Bueno, presidenta, también
+desde la llegada de la cuarta
+transformación al gobierno de la
+República, una de las principales
+políticas del expresidente Andrés Manuel
+López Obrador para evitar prácticas de
+corrupción ha sido la negativa de
+conceder más permisos para apertura de
+casinos y este tipo de comercios de
+sorteos. Eh, hoy en Naucalpan sobre
+periférico y a un costado de la capital
+del país, se construye y está próximo a
+inaugurarse el que ya se denomina el
+casino más grande y moderno de de
+Latinoamérica de nombre Jubilé Casino,
+propiedad de la familia Saide de Nuevo
+León. Se sabe que la pasada
+administración municipal panista de
+Naucalpan, encabezada por Angélica
+Moyín, autorizó en junio del 2022 el
+permiso de funcionamiento para la
+construcción y operación de este casino,
+sin contar con facultades legales para
+hacerlo por este hecho. El actual
+gobierno municipal de Naucalpan presentó
+una denuncia penal contra la ex
+alcaldesa por el delito de abuso de
+autoridad. presidenta, de concretarse la
+apertura de este enorme casino, se
+trataría del primero en su tipo
+inaugurado en tiempos de la cuarta
+transformación. Esto pese a que la
+titular de la Secretaría de Gobernación
+ha reiterado en diversas ocasiones que
+no están concediendo permisos para ese
+tipo de negocios. Y aquí le voy a hacer
+tres preguntas sobre el mismo tema. ¿Qué
+opinión tiene acerca de este tema? ¿Y
+cómo le hicieron los hermanos Aidé para
+obtener el permiso para construir y
+poner en operación este enorme casino
+que conlleva una millonaria inversión? Y
+por último, ¿ya cambió la política de la
+4T de no otorgar más licencias para que
+se abran más casinos en el paí? No, no
+ha
+cambiado. No, hay que pedirle a
+Roseicela que revise este caso porque no
+ha cambiado. No hay más permisos ni
+licencias, incluso
+eh se están poniendo
+más vigilancia, controles.
+Entonces, vamos a ver este caso porque
+no tendría porque este tenemos los
+videos y las fotos si me permite. Sí,
+por favor. Y que lo atienda la
+Secretaria de Gobernación. Muchas
+gracias. Gracias, presidente.
+Buenos días a todas y todos. Carlos
+Navarro de Heraldo, Media Group.
+Presidenta, ¿no es una incongruencia lo
+que está haciendo Estados Unidos en este
+actuar de recibir a ciertos personajes
+y, por otro lado señalar a las
+organizaciones como terroristas?
+Tienen que dar la información
+primero y
+segundo, ¿por qué es la información? Por
+no han informado, ¿no? ¿Por qué
+entraron? No
+tenemos la información oficial o
+pública que diga por qué entró esta
+familia.
+Hay que recordar de nuevo el tema de la
+extradición y sí, en efecto,
+es se hay una política de ellos de no
+negociar con
+terroristas.
+Ellos en una
+decisión de
+ellos
+deciden nombrar algunas organizaciones
+de la delincuencia organizada como
+terroristas.
+Entonces, pues que
+informen si hay un acuerdo, si no hay un
+acuerdo, tienen que
+informar y tienen que explicarle pues al
+pueblo de Estados Unidos
+también cómo es que si están llegando a
+un acuerdo
+¿Cómo es que lo hacen? Y a México,
+obviamente, ¿por qué razón? Primero son
+mexicanos y
+segundo uno de de sus
+familiares fue enviado de con
+extradición, es decir, tiene una carpeta
+de investigación aquí.
+Incluso
+más hubo
+elementos
+de el ejército que fallecieron en ese
+operativo. Entonces, por eso
+decimos
+información que nosotros
+no el tema no es si combatimos a la
+delincuencia organizada o no,
+si no queremos que se cumpla eso, por
+supuesto que sí.
+Y nosotros estamos haciendo nuestro
+trabajo. El tema aquí
+es qué información hay y cómo explican
+esto.
+Entonces tienen que
+informar. Tienen que informar.
+Presidenta, ayer en Estados Unidos se
+hizo la primera imputación por
+narcoterrorismo. ¿De qué forma va a
+actuar el gobierno de México?
+señalan a dos personas que están
+prófugas, van a ayudar a a perseguirlos.
+¿De qué forma va a estar colaborando el
+gobierno de Mico hasta ante esta primera
+imputación por narcoterrorismo? Bueno,
+uno de ellos fue
+enviado, ya lo puede explicar más el
+secretario de seguridad. O sea, nosotros
+trabajamos eh las fuerzas de seguridad,
+el gobierno
+federal, la Secretaría de Seguridad, el
+Ejército, la Marina, la Guardia
+Nacional tienen
+comunicación. ¿Por qué? Primero porque
+somos vecinos.
+Segundo, pues porque nosotros acordamos
+conjuntamente desde antes, nada más que
+en una relación de
+respeto, que nosotros vamos a
+evitar que pase la droga a Estados
+Unidos y también lo que queremos es
+disminuir los índices de violencia en
+nuestro
+país en el marco de la
+ley. Entonces, en ese proceso se
+colabora, nos
+coordinamos, pero no en el esquema de
+antes, donde quienes operaban todo, pues
+eran
+ellos. Entonces
+tenían una injerencia distinta. Nosotros
+no. Nosotros lo único que hacemos es
+defender nuestra patria, así tan
+sencillo como eso, nuestra
+soberanía, nuestro
+pueblo y cómo nos relacionamos en una
+relación de respeto, de colaboración y
+de coordinación.
+Entonces, en este en otros casos hay
+colaboración, hay
+coordinación,
+pero con respeto siempre y sin
+subordinación.
+Desde Estados Unidos ha habido un
+requerimiento de información oficial
+ante esta primera acusación. Normalmente
+es del Departamento de Justicia de los
+Estados Unidos a la Fiscalía General de
+la
+República. Es cuando hay una detención,
+pues es natural que haya
+esta
+comunicación. Presidenta,
+perdón, a los dos personajes que están
+señalados ya que lo informe el gabinete
+de seguridad,
+ya que lo informe todo relacionado con
+este caso del gabinete de seguridad.
+preguntarle eh también con esta nueva
+ley de Telecom, ¿qué qué experiencia
+retoma usted de su etapa como jefa de
+gobierno al lograr que la Ciudad de
+México fuera la más conectada con esta
+meta de 15 millones y con la eliminación
+de de este artículo? Entonces ya se
+difumina cualquier señalamiento de
+censur el objetivo de la
+ley. Primero recuerden que desaparece
+Cofese y el
+ifete. Eso ya pasó en la Constitución.
+Entonces tenemos que hacer algo,
+que una institución o
+instituciones que hagan las funciones
+que tenían la COFCE, que es un
+organismo que hasta ahora todavía
+existe, eh, que garantice la competencia
+en México. ¿De qué sirve la competencia?
+pues que haya disminución de precios,
+que haya más oportunidades para las
+empresas, que no
+haya monopolización de servicios, de
+productos,
+etcétera. Entonces, como sustitución de
+la COF se entra un nuevo
+organismo que es el organismo
+antimonopolio. Por otro lado, todo lo
+que
+regulaba la Ley Federal de
+Telecomunicaciones o el organismo que lo
+regulaba era el
+IFT, ese organismo
+desaparece y algunas de sus atribuciones
+se van a la misma comisión de
+competencia de
+antimonopolio, otras se van a la Agencia
+de Transformación
+Digital, otras se quedan en la
+Secretaría de Comunicaciones de
+Infraestructura, Comunicación y
+transportes. Eso es, digamos, lo primero
+que tiene que ocurrir. Lo
+segundo, por primera vez se está dando
+oportunidad de sobrevivencia y promoción
+de las
+radios
+comunitarias, particularmente porque
+existen en las comunidades indígenas de
+pueblos originarios, pero se les está
+dando todo lo que se les había quitado y
+limitado para que no pudieran
+desarrollarse. hoy se abre, entonces les
+da esa oportunidad. Eso por un lado.
+Segundo, se recupera lo que en 2014 se
+llamó el derecho de las audiencias.
+Todos los mexicanos y mexicanas tenemos
+derecho a una información
+veraz y a que se diga qué es información
+y qué es
+opinión. Pero, ¿quién defiende al que
+escucha? al que ve la
+televisión, pues ahorita se quedó
+borrado
+eso. Entonces, estamos
+recuperando el que te puedas quejar. Tú
+eres un ciudadano normal y escuchas una
+cosa que es mentira, que no tiene nada
+que ver con la realidad, pues te quejas,
+¿no? Así como en profeco,
+porque están los precios muy altos,
+porque no te dieron buen servicio,
+porque se recupera el derecho de las
+audiencias. Eso es muy
+importante. Luego, en el caso del
+internet particularmente y todos se
+quedan con sus, o sea, no se está
+quitando concesiones ni mucho menos y la
+validación porque las concesiones de
+todas las televisoras, de las
+radiodifusoras, se dan por tanto
+tiempo. ¿Quién las va a validar? un
+organismo colegiado que se va a crear
+dentro de la Agencia de Transformación
+para que no se quede en una persona. Esa
+validación que puede ser subjetiva su
+opinión o decisión. Se hace un organismo
+colegiado donde van a participar
+ciudadanos que van a ser propuestos y
+designados por el Senado para que no
+para que sea un organismo
+colegiado.
+Eh, ahora en el caso del
+internet, ¿cuál es la
+novedad? Antes no se permitía que CF
+Internet pudiera dar servicios más que
+en las zonas de no
+cobertura. Ahora sí.
+Ahora se le va a
+permitir como en igualdad de
+circunstancias que en el caso comercial
+que los
+privados para que no digan que hay un
+favoritismo de unos no en igualdad de
+circunstancias. ¿Qué queremos con esto?
+Pues que se genere más competencia y que
+bajen los precios también del
+internet. ¿Qué otras cosas se dicen? Hay
+muchos lugares, como mencionaba Pepe,
+que no tienen
+cobertura, pues queremos que en esos
+lugares haya cobertura. ¿Cómo hay una
+legislación en Brasil? De ahí lo
+tomamos, en
+donde el privado, por ejemplo, puede
+decir, "Yo te pongo cobertura en toda
+esta zona y de manera
+gratuita
+eh sobre los derechos de concesión.
+Se puede hacer eso. La otra pues es
+que CF Internet, internet para todos,
+pues pueda tener más facilidad para su
+cobertura. Entonces eso es en esencia lo
+que estamos planteando. Es fuerte en
+términos de los cambios. Pues sí hay
+cambios, pero es para el bien de México
+y de las y los mexicanos. Pero al mismo
+tiempo se permite que los privados pues
+sigan haciendo todo su trabajo, toda su
+labor. Ese es esencialmente los
+planteamientos, ¿no es así? No hay
+censura, como lo habían señalado
+algunas. Bueno, ese artículo de que
+generó confusión se elimina por completo
+y se pone también que ningún gobierno
+extranjero puede hacer propaganda
+política o ideológica en
+México pagada como comercial, como
+propaganda.
+apagada. Pueden subir a
+su internet en Estados Unidos un
+comunicado y se puede ver en México, no
+hay problema. El tema nada más es que no
+se puede pagar un
+comercial de
+propaganda de ideológica, política de un
+gobierno extranjero. Si van a promover
+un lugar turístico, no hay problema. Si
+van a promover una actividad cultural,
+no hay problema. Una actividad
+deportiva, no hay
+problema. Y eso se deriva pues de lo
+que sabemos, de lo que ocurrió de este
+anuncio que pues indignó al pueblo de
+México. Por último preguntarle,
+presidenta, ganaderos solicitan que se
+cierre la frontera sur para frenar esta
+plaga del gusano barrenador. ¿Qué
+responderles, presidenta? se va se está
+fortaleciendo el e las medidas
+sanitarias para evitar que pueda haber
+una propagación y también ahí hay
+coordinación con la Secretaría de
+Agricultura del Gobierno de Estados
+Unidos y hay varias acciones que
+queremos tomar también que ya las vamos
+a ir informando. Eh, cerrar la frontera
+es muy difícil, pero aumentar todas las
+medidas sanitarias, pues sí, sí lo vamos
+a hacer. Muchas gracias. Buen día a
+todas y todos.
+Presidenta, buenos días. Angélica
+Guerrero del Financiero Bloomberg
+Televisión. Eh, nada más para terminar
+también con este tema de de
+telecomunicaciones, ¿en cuánto tiempo
+verían reflejadas las personas esta
+disminución de costos en internet? Eh,
+bueno, en cuánto tiempo se podría haber
+reflejado y y cuándo llegaría, digamos,
+este eh pues esta nueva medida esta o o
+cuánto tiempo prevén que se puedan ver
+reflejados estos beneficios y perdón si
+me dicen también eh qué porcentaje lo
+van a notar ellos.
+Sí, eh hay que hacer las estimaciones
+precisas, pero una de las cosas que yo
+creo que es importante enfatizar es que
+uno de los temas que ha generado hacia
+la baja
+el promedio del precio recientemente es
+justamente eh al TAN, ¿no?, que va usa
+la red de 700 MHz. Entonces, como
+anunciaba la presidenta, si CFE Telecom
+eh o CFETIT puede brindar en igualdad de
+circunstancias servicios comerciales,
+creemos que eso de manera relativamente
+rápida va a poder empujar los precios eh
+a la baja, ¿no? Y por
+supuesto, en las resoluciones que emita
+la Comisión Antimonopolio en temas de
+competencia, preponderancia, etcétera,
+pues seguramente también tendrá un
+impacto. Pero hay un estimado, no, no,
+no te podría dar un estimado, pero en
+cuanto tengamos una idea, con todo gusto
+la comunicamos.
+Gracias, eh,
+presidenta, regresando al tema de de
+Estados Unidos, ya dijo que ya después
+se explicará mejor, pero cómo ayudaría
+la reforma que usted envió para blindar
+la soberanía nacional o es decir, ¿cómo
+e impactará en esta medida que está o en
+este anuncio que están haciendo desde
+Estados Unidos de tener esta acusación
+directa contra integrantes de un cártel
+por terrorismo? ¿Cómo impacta esta
+reforma?
+Hay algunas algunos temas que impactan
+en Estados
+Unidos.
+Eh, en la relación con México, pues lo
+estamos estudiando con detalle.
+¿Qué qué implicaciones?
+E lo importante
+aquí y eso es eh para el pueblo de
+México, es que no se use como
+pretexto la definición de un grupo de la
+delincuencia organizada como
+terrorista para intervenir de alguna
+forma en México.
+o tener mayor
+injerencia, eso no.
+Por eso modificamos la
+Constitución y por eso la ley que en su
+momento
+cambió el presidente López
+Obrador. Entonces, otros temas de
+colaboración, coordinación, eso se dan
+en muchos temas, por ejemplo, lavado de
+dinero.
+Eh, hay mucha comunicación entre el
+secretario de Hacienda y el secretario
+del
+tesoro de los Estados Unidos. Si se
+encuentra que hay e recursos económicos
+que van de Estados Unidos a México, de
+México a Estados Unidos, ya de por sí
+hay una legislación muy fuerte en México
+contra el Avado, pero si se encuentra
+que hay, pues hay comunicación.
+entre las distintas instituciones en
+México, la WIF, por ejemplo, para poder
+congelar cuentas, para poder
+sancionar e incluso poder presentar ante
+el Departamento de Justicia o la
+Fiscalía General de la República alguna
+denuncia en esos temas, en los temas en
+donde tiene que ver con personas de la
+delincuencia organizada que tienen orden
+de
+extradición, pues se ha colaborado desde
+hace años. lo hizo el presidente López
+Obrador y nosotros lo hemos
+hecho. Entonces, hay una colaboración,
+una coordinación.
+Lo que siempre dijimos es que no se vaya
+a usar este tema como un
+argumento porque lo que hemos puesto
+nosotros
+es reglas en esa
+relación, reglas que tienen que ver con
+el
+respeto. O sea, no somos lo mismo que
+los gobiernos neoliberales, ni lo vamos
+a hacer.
+cambió la manera
+de cómo defensa de la soberanía y
+respeto y al mismo tiempo colaboración y
+coordinación. Ese es, digamos, el tema
+que siempre hemos puesto sobre la mesa,
+presidenta.
+Eh, pero ¿cómo actuaría el gobierno de
+México? Y más allá de lo que se ha
+hablado a nivel política, a nivel
+administrativa y la relación con Estados
+Unidos, la noticia si causó impacto
+incluso en el ciudadano de a pie que no
+entiende qué implicaciones tendría esta
+esto que se anunció ayer. tiene que
+decidir
+eh es a partir de la definición del
+departamento de justí como en
+México la Fiscalía General de la
+República abre una carpeta de
+investigación y la presenta ante un
+juez y solicita órdenes de cateo,
+órdenes de aprensión y eh en un juicio
+las medidas que deben tomarse frente a
+una
+persona, presunto miembro de la
+delincuencia organizada o de otro
+delito. De igual
+manera es el Departamento de Justicia de
+los Estados Unidos quien va a
+determinar ante un juez en los Estados
+Unidos qué sanciones tendría una persona
+detenida de la delincuencia organizada,
+que además, de acuerdo con ellos,
+tiene la característica de ser parte de
+un grupo que ellos determinaron como
+terrorista.
+Entonces, eso depende del departamento
+de
+justicia y a su vez lo llevan a un juez
+y el juez determina en un juicio y el
+acusado pues tiene derecho a defenderse
+como en cualquier lugar del mundo donde
+haya sistemas de
+justicia de presunción de
+inocencia.
+Entonces en este momento que nos diga
+qué significaría. lo tiene que
+determinar el Departamento de Justicia
+de los Estados Unidos. Y al estar
+clasificado como terrorismo, la gran
+pregunta de todos es, ¿cómo respondería
+el gobierno mexicano?
+Nuestro gobierno responde frente a lo
+que son los delitos
+aquí, no frente a la característica de
+los delitos allá.
+Nosotros nos regimos por la Constitución
+y las leyes de México, no nos regimos
+por la Constitución y las leyes de
+Estados Unidos, no. Nosotros nos regimos
+por nuestra Constitución y nuestras
+leyes. Si hay un presunto delincuente de
+la delincuencia
+organizada, lo detiene la fiscalía con
+una carpeta de investigación. ¿A partir
+de qué? pues del código de
+procedimientos penales o una fiscalía
+estatal del código de procedimientos
+penales de los estados. Aquí es el
+código de procedimientos penales. Si fue
+por homicidio, pues hay las sanciones
+por
+homicidio. Si fue homicidio y otro
+delito, pues entonces suman las penas.
+¿Y eso de quién depende? pues de la
+Fiscalía General de la República y las
+pruebas que tenga frente a un
+delincuente y de un juez que hemos visto
+recientemente, pues que los jueces
+liberan.
+Entonces, por eso es el cambio en el
+poder judicial, pero nosotros nos
+regimos por nuestras
+leyes y en la
+relación, pues hay relación de
+colaboración,
+de coordinación, pero nosotros no nos
+regimos por las leyes de ellos, nos
+regimos por las nuestras.
+Es decir, en caso de que se llegara a a
+capturar restante eh de personas que
+señala el gobierno de Estados Unidos o
+de este eh
+juzgado, en caso de que solicitaran su
+extradición, se haría, pero no bajo este
+término que ellos están planteando. Bajo
+los términos de coordinación que
+existen con Estados Unidos y con otros
+países de extradición. Nosotros también
+pedimos
+extradiciones a otros
+países. Entonces, eso no ha cambiado en
+nuestras leyes. No ha
+cambiado. O sea, nosotros el delito de
+terrorismo tiene un catálogo muy
+distinto en
+México del que ellos le pusieron a la
+delincuencia organizada. Eso no quiere
+decir que nosotros no hagamos nuestro
+trabajo, la fiscalía
+también y en su momento los jueces, para
+detener a responsables de
+delitos. Ese trabajo lo hacemos todos
+los días, incluida también la atención a
+las causas, pero cada quien tiene su
+legislación.
+Presidenta y en este caso en específico
+sobre la negociación o el acuerdo al que
+llegó Ovidio Guzmán, ¿ustedes han
+solicitado información específicamente
+sobre este tema? Primero, no sabemos qué
+acuerdo. ¿Quién lo tiene que solicitar?
+la
+Fiscalía General de la
+República
+formalmente porque fue
+extraditado. Entonces, quien tiene que
+solicitarlo más allá de un asunto
+diplomático formalmente pues es la
+Fiscalía General de la República, el
+Departamento de Justicia de los Estados
+Unidos, porque fue detenido aquí y
+extraditado allá, además de que es
+ciudadano mexicano.
+Y presidenta, eh cambiando un poco de
+tema, pero que ya comentaba también
+alguna de mis compañeras sobre las visas
+e y sobre estos señalamientos que se le
+han hecho a la gobernadora de Baja
+California, incluso el PRI,
+bueno, personas de oposición en el
+estado han pedido o solicitado que la
+gobernadora no participe en las mesas de
+seguridad hasta que no se crean. ¿Por
+qué? Ahora sí. ¿Y por qué?
+¿Qué argumento
+tiene? Lo que sabemos es lo que ella
+informa de que le fue retirada la visa y
+la embajada de Estados Unidos dice, "A
+ver, todo lo que tiene que ver con las
+visas es un asunto privado, no es que no
+nos quieran dar la información, sino que
+ellos tienen una regla sobre el tema del
+visado en donde dicen, bueno, a ver, ese
+tema no se comparte porque es un asunto
+privado." Eso es todo lo que sabemos.
+Pero es que estos que entregaron al
+[Música]
+país,
+que
+permitieron la
+injerencia, entonces ahora sí este que
+Marina no participe en las medas de
+seguridad. ¿Qué argumento tienen?
+Ninguno,
+presidenta. ¿Y usted ha tenido
+notificaciones o lo han informado de
+alguien más? ¿Algún gobernador o
+funcionario? No. Y no lo van a informar
+por este
+tema. O sea, el comunicado de la
+embajada de Estados Unidos dice, "El
+tema de las visas es un tema
+privado." Entonces no es algo que tenga
+que ver con así lo tienen ellos en su
+regla.
+Entonces,
+eh
+no no tendrían porque según ellos eh
+ahora si es un tema político, si es un
+tema de otro tipo, bueno, pues tendrían
+que informarlo, ¿verdad? Eh, me refiero
+a directamente ellos. A usted no le ha
+notificado funcionarios ni gobernadores
+que les hayan revocado su visa. No, no,
+ninguno ha estado. No, ninguno. Y ya eh
+por último, presidenta, eh en un tema
+económico, su propósito o una de sus
+grandes metas que ya anunció es que en
+enero de 2030 sea eh ya pues
+prácticamente quede consolidada la
+reforma de las 40 horas. eh ha tenido ya
+este acercamiento con el sector
+empresarial, ¿qué es lo que ellos le han
+comentado para que se concrete esta meta
+y sobre todo pues porque estamos a un
+mes? Sí, hay eh es lo está llevando el
+secretario del
+trabajo y la idea es que sea así como ha
+habido una gran transformación en el
+mundo laboral.
+Si nosotros vemos el
+2018 al
+2000
+25, ha habido una transformación muy
+grande para beneficio de los
+trabajadores. ¿Qué cambios ha habido?
+Aumento
+salarial, desaparición del
+outsourcing, un cambio completo,
+profundo en la justicia
+laboral para que pueda ser más expedita.
+mejora en las
+pensiones.
+Entonces, entre otras, ahora todas estas
+medidas antes de eso se han tomado por
+consenso, o sea, hay mesas de trabajo,
+por ejemplo, el último aumento salarial
+del 12.5% 5% al salario mínimo. Fue un
+acuerdo que coordina el secretario del
+trabajo y habla con empresarios y habla
+con sindicatos, con organizaciones de
+trabajadores. Ahora, recién, por
+ejemplo, hicimos lo de plataformas
+digitales y hay mucha comunicación con
+las plataformas digitales. Entonces, lo
+que anunciamos es que inician las mesas
+de trabajo para la semana de las 40
+horas y la idea es que se genere un
+acuerdo que mantenga que permita que
+siga manteniéndose el aumento salarial y
+que al mismo tiempo se vaya poco a poco
+eh cumpliendo las 40 horas, pero tiene
+que ser un acuerdo y están en esa en ese
+ánimo, en ese ámbito, están también las
+organizaciones de las y los
+trabajadores. Entonces, lo que inició
+fueron las mesas de trabajo y las
+coordina el secretario Marat Bolaños.
+directamente le han dicho los
+empresarios si tienen alguna inquietud
+sobre
+sobre esta medida, sobre todo porque se
+ya se discutió mucho en la en la
+legislatura pasada e incluso también en
+ese primer parlamento abierto que hubo
+se mencionaba lo difícil que sería
+hacerlo de la noche a la mañana, pero
+para que también las personas entiendan
+y han preguntado mucho sobre por qué eh
+toma la medida de hacerlo de manera
+gradual, ¿qué les diría? y cuáles son
+las inquietudes que les ha que ha
+presentado el sector empresarial. ¿Por
+qué de manera, o sea, nuestra propuesta
+es que sea de manera gradual? justamente
+por eso, para evitar que haya daño a los
+trabajadores o al propio
+empleo. Entonces, por eso es una mesa de
+trabajo en donde vamos viendo ahora
+todas las reformas que ha habido han
+sido para beneficio del trabajador, a
+diferencia del pasado, donde las y los
+trabajadores pues acababan siempre
+pagando por todo. Esta es también una
+medida en beneficio a los trabajadores,
+pero pues hay que hacerlo de manera que
+no tenga no haya afectación económica en
+prejuicio de los trabajadores. Los
+empresarios los empresarios están de
+acuerdo. Sí, gracias, presidente.
+Bueno, ya son nueve nueve y viene el
+detector de mentiras. A ver, vamos aquí
+y ya con esa cerramos.
+Nos quedamos para mañana, si les parece.
+Le agradezco mucho, presidenta Jimena
+Mejía de Grupo Imagen, preguntarle dos
+cosas. La primera es, ¿con qué mensaje
+se queda del expresidente y humanista
+Pepe Mujica? Ah, sí, esa sería la
+primera pregunta.
+Pues, José
+Mujica eh fue un hombre en muchos
+sentidos ejemplar.
+Primero tenía esta característica que
+nos deja de más a través de todos sus
+discursos, sus
+escritos de en palabras muy
+sencillas y
+breves decir pensamientos muy
+profundos, muy
+profundos, siempre en beneficio
+de de los
+pobres, de los
+desposeídos de los que menos
+tienen. Entonces,
+ese esa
+sabiduría eh muy pocos la
+tienen y esa pues es un legado que nos
+deja por siempre.
+La otra
+es su
+visión
+[Música]
+de de que lo
+material
+eh no es lo que da la felicidad, que es
+muy parecido a nuestro
+pensamiento. él con su modestia,
+sencillez, pocos
+lujos que marcó a lo largo de su
+vida, eh, y también con sus dichos, pues
+mostró
+eso, que no se trabajaba para ganar
+dinero y cada vez más dinero, que al
+final te vas
+solo. Entonces,
+esa ese ejemplo de una
+vida modesta,
+sencilla, pues también fue un ejemplo,
+¿no?,
+comparado con
+los con esas parafernalias que había en
+el pasado del poderoso
+el y la otra pues es que fue un un
+hombre que deja mucho para el movimiento
+progresista de América
+Latina y afortunadamente pues vio
+triunfar nuevamente al Frente Amplio en
+Uruguay.
+Entonces, pues nuestro cariño,
+solidaridad y
+pensamiento para Pepe Mujic. Gracias,
+presidenta. Y la segunda pregunta sería,
+este lunes se conoció que usted tuvo una
+reunión en la Secretaría de Gobernación
+con la secretaria Rosa Isela. e saber
+cuál fue el motivo. Eh, me invitó Rosa
+Iselas, hizo todo, fue a Gobernación,
+porque normalmente la secretaria de
+Gobernación viene a Palacio Nacional y
+Rosa Isela me dijo, "No conoces la
+quiero que conozcas mi oficina."
+Entonces, una serie de un acuerdo que
+teníamos pues lo llevé allá y estaban
+algunos compañeros también este en la
+reunión, pero no hay nada
+particular de la de la visita. No se
+tocó el tema de las madres buscadoras,
+seguridad, algunas muchos temas se
+tocaron porque tiene que ver pues con
+los acuerdos que tengo con la secretaria
+de Rosicela, que aprovecho para decir
+que es una gran secretaria de
+Gobernación. es una mujer ejemplar
+también muy trabajadora, con mucho
+método de trabajo, muy sensible, muy
+sencilla, eh, y y da muchos resultados.
+¿Considera que rompió un poco el
+protocolo de otros presidentes que no
+era, no es como pues si es que dicen,
+cómo va a ir
+este la presidenta, una
+secretaría pues qué tiene de mal.
+No hací nada de malo.
+¿Quién se visitar otros? Sí, por
+ejemplo,
+eh, bueno, a la CP ya
+fui, eh, que pues es que quedan
+cerquita, eso es una ventaja. Eh, pero
+si los secretarios me invitan a ir en
+alguna ocasión a su oficina, pues vamos,
+¿no? Sirve uno que también conoce a
+todas las trabajadoras y trabajadores y
+los saludamos.
+Gracias. Presidenta, gracias. Bueno,
+cerramos con el detector de mentiras.
+Con su permiso, presidenta. Buenos días
+a todas y todos.
+Conforme se acerca el primero de junio,
+el día en que se realizará la elección
+judicial, un coro desinformador de
+comentócratas, medios de información y
+políticos arrecian el ataque contra este
+ejercicio democrático con las mismas
+mentiras con las que intentaron evitar
+la reforma judicial, que dicho sea de
+paso fue un mandato del pueblo de México
+a través de las urnas. ¿Qué intereses
+persiguen quienes con mentiras atacan a
+la democracia?
+Por otro lado, a pesar de que el Senado
+de la República, de que en el Senado de
+la República se realizan conversatorios
+sobre la Ley de Telecomunicaciones y
+Radiodifusión, continúan las mentiras
+contra esta ley. Incluso hay
+comentaristas que en pleno uso de su
+libertad de expresión afirman que este
+derecho está en peligro, sin percatarse
+que al hacer estas afirmaciones
+ratifican que vivimos en una democracia
+donde el gobierno garantiza este
+derecho. Veamos el video del detector de
+mentiras de esta
+[Música]
+semana. Falsas alarmas sobre la supuesta
+imposición de la dictadura en México.
+Noticias falsas sobre leyes para
+eliminar las devoluciones del SAT. Son
+algunas de las noticias falsas que el
+detector de mentiras localizó esta
+semana. Uno. Del 5 al 13 de mayo,
+comentaristas y políticos de oposición,
+entre los que destacan Sergio Sarmiento,
+León Crauce, Enrique Crauce, Héctor
+Aguilar Camín, Carlos Marín, Francisco
+Martín Moreno, José Ramón Cosío Díaz,
+José Narro Robles y Francisco Garfias
+publicaron 18 columnas de opinión en
+contra de la elección judicial con tres
+líneas de
+desinformación. La elección judicial
+provocará una dictadura. Mentira. Con la
+elección judicial no desaparece. La
+división de poderes otorga a los
+ciudadanos facultades que antes eran
+exclusivas del poder ejecutivo y
+legislativo para elegir a través del
+voto a ministros, magistrados y jueces.
+B. La elección judicial genera
+incertidumbre económica, pero además
+sacudió el sistema de impartición de
+justicia, el sistema judicial y eso no
+genera certeza. Al contrario, hay mucha
+incertidumbre, hay mucho nerviosismo.
+¿Quién en su sano juicio querrá invertir
+en condiciones que se están moviendo,
+que van cambiando, que son volátiles?
+Depende los humores de la 4T. Estoy
+convencida y estoy convencida que ya lo
+está teniendo hoy. O sea, si tú hablas
+con inversionistas,
+yo creo que he escuchado eh decir que es
+mucho más fuerte el impacto de la
+reforma judicial que de Trump. Mentira.
+Hasta el 8 de mayo de 2025, un mes antes
+de la elección judicial, el gobierno de
+México mantenía un portafolio de
+inversiones en el país por un total de
+298,000 millones dó que contempla 1937
+proyectos activos distribuidos en las 32
+entidades del país. C. En la elección
+judicial ganarán candidatos de Morena.
+Mentira. Las candidatas y los candidatos
+que participarán en la elección judicial
+fueron seleccionados por comités
+evaluadores integrados por
+representantes de los tres poderes de la
+Unión. El artículo 96 de la Constitución
+prohíbe a los partidos políticos
+realizar actos de proselitismo y
+posicionarse a favor o en contra de
+candidatura alguna en la elección
+judicial. Dos. Del 5 al 13 de mayo,
+comentaristas y políticos de oposición
+como Denise Dresser, León Krauce, Azcal
+Beltrán del Río, Carolina Villano,
+Ignacio Morales Lechuga y el editorial
+de Emplo Mayor publicaron 10 columnas de
+opinión en contra de la iniciativa de
+ley de telecomunicaciones, asegurando
+falsamente que provocará censura en
+México. Como una simulación, así
+califican expertos y opositores este
+primer conversatorio de la ley censura.
+Incluso algunos aliados morenistas ven
+una falta de apertura para escuchar otro
+tipo de argumentos. Mentira. Contrario
+lo publicado en medios de comunicación y
+redes sociales por políticos de
+oposición y comentaristas, la iniciativa
+de reforma en materia de
+telecomunicaciones no es autoritaria ni
+limita las libertades o genera censura.
+En su artículo 191 garantiza el derecho
+a la información, a la libertad de
+expresión y a la recepción de contenidos
+y asegura que ningún contenido será
+objetivo de persecución o investigación
+judicial o administrativa, ni de
+limitación alguna ni censura previa.
+Tres. La presidenta Claudia Shown no
+combate al crimen organizado.
+Mentira. El 27 de febrero de 2025, el
+gobierno de México envió a Estados
+Unidos a 29 generadores de violencia
+solicitados por el gobierno de este
+país, quienes enfrentan cargos por
+delitos de alto impacto como tráfico de
+drogas, delincuencia organizada,
+trasciego de fentanilo, tráfico de
+armas, secuestro, entre otros. Como
+parte de la estrategia de seguridad cero
+impunidad, hasta el 8 de mayo se han
+logrado los siguientes resultados:
+20,000 personas detenidas por delitos de
+alto impacto, 153.7 toneladas de droga
+aseguradas, incluyendo 1406 kg de
+fentanilo y
+2,247,959 pastillas de fentanilo, así
+como el desmantelamiento de 896
+laboratorios clandestinos para la
+elaboración de metanfetaminas. Cuatro.
+El gobierno de México no actuó y fue
+omiso para contener al gusano
+barrenador. Mentira. Desde junio de 2024
+se han destinado más de 167 millones de
+pesos al operativo contra el gusano
+barrenador del ganado. Se han dispersado
+más de 885 millones de moscas estériles
+para cortar el ciclo reproductor de la
+mosca transmisora del parásito. El
+titular de la Secretaría de Agricultura
+y Desarrollo Rural, Julio Verdegué,
+aclaró en la mañanera del pueblo del 13
+de mayo que el gobierno de México ha
+realizado todas las acciones para
+combatir al gusano barrenador que ha
+solicitado Estados Unidos. Ellos nos
+habían hecho saber algunas cosas que
+querían que mejoráramos. Todas ellas, el
+100% de las solicitudes se atendieron en
+horas o máximo en días, porque es de
+nuestro interés que la campaña funcione
+bien, no solo por las exportaciones,
+sino por la salud de de los animales de
+nuestros ganaderos. Cinco diputados de
+Morena propusieron una ley para eliminar
+las devoluciones del SAT. Mentira.
+Ninguna bancada legislativa ha propuesto
+la modificación del artículo 22 del
+Código Fiscal de la Federación, que
+regula el derecho de los contribuyentes
+a solicitar la devolución de saldos a
+favor y pagos indebidos. Hasta el 12 de
+mayo, el SAT ha devuelto
+35,335,0000 de pesos, 5% más que el
+monto devuelto el año pasado.
+[Música]
+Muchas gracias, hasta la próxima semana,
+presidenta. Nos vemos mañana contest
+inicio por las preguntas que faltaron.
+Gracias.
+[Música]
