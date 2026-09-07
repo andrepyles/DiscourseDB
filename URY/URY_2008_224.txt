@@ -1,0 +1,77 @@
+Imprimir
+El Premio Nacional de Artes Visuales 
+                         tiene el objetivo de acercar propuestas artísticas de 
+                         calidad a la mayor cantidad de público posible, en el 
+                         marco de una exhibición de primer nivel.
+El Coordinador del Programa de Artes 
+                         Visuales del MEC, Gustavo Tabares, señaló que la 
+                         entrega número 53 del Premio Nacional de Artes 
+                         Visuales, lleva el nombre de Hugo Nantes. Desde la 
+                         pasada edición se homenajea a un destacado artista, en 
+                         esta oportunidad, se eligió reconocer el trabajo de 
+                         Hugo Nantes, reconocido escultor del departamento de 
+                         San José, con una amplia trayectoria y que aún continúa 
+                         en actividad. Nantes representa a toda una generación 
+                         de artistas nacionales que brindaron un gran aporte a 
+                         la cultura uruguaya.
+Tabares señaló que en esta edición se 
+                         presentaron 320 artistas. El Ministerio de Educación y 
+                         Cultura designó un jurado integrado por nueve personas, 
+                         las cuales eligieron 42 obras que se exhibirán hasta el 
+                         31 de enero en el Museo Nacional de Artes Visuales.
+El primer premio del concurso, por un 
+                         valor de U$S 10.000 fue otorgado al artista Alberto 
+                         Lastreto, cuya obra consiste en una animación digital.  
+                         El segundo premio de U$S 7.000 fue para Juan Burgos y 
+                         el tercer premio, de U$S 4.000 correspondió a un dibujo 
+                         realizado por Juan Manuel Rodríguez. Además, el 
+                         Programa Plataforma, llevado adelante por la Dirección 
+                         Nacional de Cultura y las entidades privadas Instituto 
+                         Goethe, Centro Cultural de España y La Compañía de 
+                         Oriente otorgaron distintos premios.
+El criterio manejado por el jurado fue 
+                         premiar a la obra en sí y no al artista o su 
+                         trayectoria. En tal sentido, Tabares dijo que con este 
+                         tipo de actividades se demuestra que el nivel del arte 
+                         nacional es muy alto, las obras que se producen en 
+                         Uruguay son de primera línea y el número de 
+                         producciones cada día crece más.
+Los artistas premiados demostraron 
+                         manejar un lenguaje que les permite acceder a cualquier 
+                         exhibición del mundo.
+El Director Nacional de Cultura, Hugo 
+                         Achugar, destacó su orgullo por pertenecer a un país 
+                         donde existe un potencial creativo tan alto, lo que se 
+                         demuestra en el número de inscriptos y en la calidad de 
+                         las obras presentadas.
+Achugar señaló que las artes visuales 
+                         uruguayas tienen una gran riqueza de expresión y de 
+                         propuestas, además de una vitalidad que va más allá de 
+                         lo establecido, que investiga en caminos que a veces 
+                         sorprenden y tienen la virtud de mostrar aquello de lo 
+                         que los uruguayos son capaces.
+Por su parte, la Ministra de Educación 
+                         y Cultura, María Simon, dijo que este tipo de eventos 
+                         tiene como finalidad honrar y difundir la creación.
+A través de las obras de arte muchas 
+                         veces se entiende las costumbres y pensamientos de una 
+                         sociedad, ya que el arte interpela al espectador. El 
+                         arte es siempre pensamiento y comentario sobre lo 
+                         humano desde lo social.
+Esta muestra da cuenta de la vitalidad 
+                         y el empleo de nuevas tecnologías y materias, agregó la 
+                         Jerarca.
+Simon citó al filósofo francés Andre 
+                         Comte-Sponville, quien decía que “sin el arte no sé si 
+                         el mundo sería menos bello, lo que sería es mucho menos 
+                         humano”, ya que el arte es de las expresiones más 
+                         paradigmáticas de la humanidad.
+Finalmente, dijo que el Ministerio de 
+                         Educación y Cultura trabaja para promover todas las 
+                         expresiones artísticas y obtener becas de estudio para 
+                         los artistas nacionales. De tal forma, Simon aspira a 
+                         contar con múltiples vías de apoyo en las distintas 
+                         etapas de la carrera de arte, así como políticas de 
+                         estímulo al arte para acercar a los museos y espacios 
+                         de exposición un variado público.
+document.include('/_web/pages/derecho.htm');

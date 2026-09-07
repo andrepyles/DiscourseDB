@@ -1,0 +1,18 @@
+los malhechores están agarrando la tarea
+de que pintan un carro de color amarillo
+verdad y lo hacen ver como si fuera un
+taxi porque ahora se ha implementado que
+el carro que se ve amarillo es un taxi
+por eso en esta parte le pedimos también
+la colaboración a la ciudadanía cuando
+se va a montar un taxi fíjese que tenga
+la cinta por eso es que hemos
+implementado y vamos a implementar como
+tel o bien han de estar en la ley cada
+vehículo de transporte taxi
+específicamente tiene que tener su logo
+de la organización a la cual pertenece
+todo
+vehículo de taxi tiene una organización
+el que no tiene organización no no es un
+vehículo de taxis

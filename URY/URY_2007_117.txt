@@ -1,0 +1,82 @@
+Imprimir
+El Presidente de la República, 
+                         Tabaré Vázquez, expresó que en oportunidad de visitar a 
+                         la inauguración del sanatorio Clausen, que trabajará en 
+                         el ramo farmacéutico, tres jóvenes profesionales 
+                         tuvieron la posibilidad de retornar al país para 
+                         trabajar en el área en la cual se formaron.
+En este sentido, el Primer 
+                         Mandatario, destacó que Uruguay debe apostar a la 
+                         educación, al desarrollo del conocimiento, a la 
+                         investigación científica, a la innovación tecnológica 
+                         para recuperar a los miles de jóvenes que por no 
+                         encontrar trabajo en nuestro país tuvieron que emigrar 
+                         para lograr avanzar en su profesión en el exterior.
+Vázquez afirmó que la mayoría de los 
+                         jóvenes sueñan con volver a nuestro país y, todos los 
+                         esfuerzos que se realizan desde el Gobierno abrirán 
+                         caminos de esperanza y habilitarán los sueños de los 
+                         jóvenes estudiantes que seguramente quieren quedarse en 
+                         Uruguay, para formar su familia y darle un futuro a sus 
+                         hijos.
+El Presidente citó una historieta de 
+                         Inodoro Pereyra, que ilustraba una de sus peripecias 
+                         relatadas por Roberto Fontanarrosa, ante un malón de 
+                         indios que expresaron que le iban a arrasar el campo, 
+                         quemar el rancho, matar al perro, a lo cual, el 
+                         personaje subrayó: "eso es una barbaridad", y el 
+                         cacique respondió, "Señor yo soy Indio, no sociólogo".
+El Presidente Vázquez, expresó que 
+                         una de las penosas paradojas de la sociedad actual es 
+                         que sobran indios y faltan filósofos, porque en este 
+                         mundo se confunde, ser con tener; identidad con 
+                         egoísmo; iniciativa con agresividad; valor con precio; 
+                         bienestar con opulencia; y felicidad con éxito.
+Vázquez mencionó que mientras 1.200 
+                         millones de seres humanos viven con menos de dos 
+                         dólares diarios, el décimo primer hombre más rico del 
+                         mundo debería gastar 30 millones de dólares por semana, 
+                         solo para evitar acumular más dinero del que ya tiene.
+Las mascotas de Estados Unidos 
+                         consumen más proteína que todos los niños africanos 
+                         juntos, afirmó el Presidente.
+En ese sentido, destacó que 10 
+                         billones de dólares anuales costarían resolver el 
+                         acceso al agua potable a 2000 millones de personas, lo 
+                         cual equivale a los gastos militares mundiales de cinco 
+                         días.
+En el mundo diariamente mueren 4.900 
+                         niños por un mal evitable y curable como es la diarrea 
+                         infantil, aseguró el Presidente.
+En ese contexto, manifestó que no 
+                         estamos condenados a la desaparición como especie y 
+                         para ello la realidad debe cambiar positivamente.
+Vázquez dijo que esta tarea no es 
+                         una sencilla ni breve, ni de pocos; pero es una labor 
+                         tan inexcusable como seguramente posible porque podemos 
+                         cambiar esa realidad.
+En esta tarea todos tenemos derechos 
+                         y responsabilidades, los ciudadanos y los 
+                         universitarios uruguayos no somos una excepción, dijo 
+                         el Presidente.
+Agregó, que en esa meta no existen 
+                         recetas ni textos únicos, porque se debe trabajar sobre 
+                         los principios y los valores sabiendo que es una tarea 
+                         larga, pero que es necesario enfrentarla.
+Asimismo, el Presidente indicó que 
+                         la libertad, la democracia, la igualdad y la justicia, 
+                         no son piezas de anticuario ni adornos de la modernidad 
+                         porque representen la fuerza del pasado, sino que son 
+                         un impulso hacia un futuro modelable y gobernable y 
+                         parte de los derechos humanos y de las 
+                         responsabilidades ciudadanas.
+Vázquez recordó que Bin Laden 
+                         recibió su diploma de ingeniero en Estados Unidos, pero 
+                         esa Universidad formó un universitario, pero no un 
+                         ciudadano del mundo.
+En ese sentido, afirmó que formar un 
+                         buen ciudadano es difícil y para ello es fundamental 
+                         que sociedad y universidad trabajen integradamente para 
+                         lograr una mayor dignidad de vida de todos los 
+                         ciudadanos.
+document.include('/_web/pages/derecho.htm');

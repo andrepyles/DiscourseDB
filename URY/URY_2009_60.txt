@@ -1,0 +1,105 @@
+Imprimir
+Los médicos adquieren instintos que 
+                         el resto de los mortales no tenemos. Uno de ellos es el 
+                         sentido de la urgencia. Saben que si no actúan rápido 
+                         el paciente se les puede morir. Aquellos que trabajan 
+                         con epidemias adquieren adicionalmente la necesidad de 
+                         buscar antídotos o vacunas. Buscan, investigan, 
+                         experimentan y si no son ellos los que las descubren, 
+                         saben quién lo ha hecho. Y cuando finalmente encuentran 
+                         una, se les dispara un tercer y contundente instinto, 
+                         el de vacunar a todo ser humano que se les atraviese 
+                         por su lado. El caso que más rápido se nos hace 
+                         presente es el de la vacuna Salk contra la polio.
+Se necesitó entonces que un médico, 
+                         oncólogo para más datos, quien todavía practica la 
+                         medicina los viernes de cada semana y por caprichos del 
+                         destino y vaya uno a saber qué otro bicho lo picó, se 
+                         metió en política, llegara a ser presidente de su país 
+                         y tuviera el olfato de descubrir que había una vacuna 
+                         que nadie más había detectado. El decidió aplicársela a 
+                         toda la población, que la necesitaba. ¡Descubrió la 
+                         vacuna contra la ignorancia!
+El médico del que hablamos es el 
+                         doctor Tabaré Vázquez, presidente de Uruguay. Los 
+                         pacientes, los chicos de primaria de su país.
+Hace unos dos años y medio se enteró 
+                         en Davos, Suiza, del proyecto One Laptop Per Child o 
+                         "Una computadora portátil para cada niño", cuando 
+                         Nicholas Negroponte lo presentó ante el World Economic 
+                         Forum. El proyecto, que, como su nombre lo dice, 
+                         aspiraba a dotar de una computadora portátil a cada 
+                         niño en edad escolar de primaria, conectada a Internet 
+                         de alta velocidad y banda ancha, se presentó como una 
+                         verdadera revolución educativa y una redención para los 
+                         países en vías de desarrollo.
+Tabaré Vázquez entendió 
+                         inmediatamente, y sin que nadie se lo hiciera saber, 
+                         que este proyecto proporcionaba lo más cercano que 
+                         había encontrado como antídoto o vacuna contra la 
+                         ignorancia. Hablamos de esa ignorancia crasa que genera 
+                         miseria y esa miseria extrema que lleva a las gentes a 
+                         la violencia. Ese mal endémico, esa patología dramática 
+                         que se ha convertido en la maldición de los países en 
+                         vías de desarrollo.
+Hizo cuentas rápidas: Uruguay, tiene 
+                         unos 3.700.000 habitantes, con unos 260.000 chicos en 
+                         edad escolar primaria. Regresó a su país y, sin 
+                         pensarlo mucho ni hacer muchísimos estudios de 
+                         factibilidad ni crear comisiones de notables ni paneles 
+                         de expertos que discutieran hasta la saciedad la bondad 
+                         o maldad de una vacuna de este tipo, armado simple y 
+                         llanamente con su instinto de médico, que tiene el 
+                         sentido de la urgencia y de vacunar a las personas 
+                         cuando se encuentra una vacuna efectiva contra una 
+                         epidemia, ordenó precisamente 260.000 computadoras 
+                         portátiles y toda la parafernalia necesaria para 
+                         conectarlas a Internet de alta velocidad y banda ancha.
+Entre el momento en que escuchó la 
+                         propuesta de Negroponte y la llegada a puerto uruguayo 
+                         de las primeras laptops pasó menos de un año.
+Un año y tres meses después de la 
+                         llegada de la primera de estas computadoras a suelo 
+                         uruguayo, la transformación de la sociedad es patente. 
+                         Se han entregado más de 170.000 portátiles, con una 
+                         eficiencia y velocidad que en la actualidad ronda las 
+                         1500 computadoras diarias entregadas a los docentes y a 
+                         los estudiantes de primaria.
+Los chicos son los dueños de las 
+                         portátiles. Las llevan a sus casas y, en muchos casos, 
+                         son ellos los que están enseñando a sus padres, pues 
+                         muchos de éstos nunca fueron a la escuela y no saben 
+                         leer ni escribir. No se han perdido, ni robado ni 
+                         vendido ni empeñado casi ninguno, pues un inteligente 
+                         sistema de control posibilita desactivarlo a control 
+                         remoto, por lo que la computadora robada sólo puede ser 
+                         usada como pisa papeles.
+Se ha duplicado, en muchos casos, la 
+                         asistencia escolar. Se ha minimizado la deserción de 
+                         estudiantes; se ha observado un aumento de hasta el 50 
+                         por ciento del número de horas que los chicos 
+                         permanecen en la escuela.
+Para poder entregar una computadora 
+                         portátil, tiene que haberse llevado a cabo un intenso 
+                         proceso de inducción y entrenamiento con los docentes, 
+                         quienes son los primeros en recibir una máquina y, 
+                         obviamente, con los alumnos. Las escuelas deben haber 
+                         sido dotadas de un servidor y de los puntos de acceso 
+                         de la señal de Internet, y la corriente eléctrica debe 
+                         haber sido estabilizada para no fundir los equipos. Las 
+                         portátiles vienen cargadas con hasta doscientos libros 
+                         de todo tipo, escogidos por país, y esto permite un 
+                         ahorro de dinero que facilita la financiación.
+Para septiembre, Uruguay será el 
+                         primer país del mundo en el cual la totalidad de los 
+                         niños de primaria tendrá una computadora portátil 
+                         personal conectada a Internet de banda ancha. Si lo 
+                         conocíamos como la Suiza de América, tendremos que 
+                         cambiarle el eslogan, porque tocará llamarlo la 
+                         Finlandia de América o, mejor, llamar a Finlandia "la 
+                         Uruguay de Europa", porque ningún país del Viejo 
+                         Continente podrá darse el lujo de decir, como Uruguay, 
+                         que tiene vacunados a todos sus niños de primaria 
+                         contra la epidemia de la ignorancia.
+Rodrigo ArboledaPara LA NACIÓN
+document.include('/_web/pages/derecho.htm');

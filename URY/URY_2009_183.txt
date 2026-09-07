@@ -1,0 +1,75 @@
+Imprimir
+Se presentaron los resultados operativos 
+                     de la tarjeta alimentaria del Plan de Equidad, a la vez que 
+                     en un segunda parte se presentó lo que será la integración 
+                     entre el Plan Ceibal y el INDA, denominado Tecnología e 
+                     Inclusión Social.
+El Director del INDA, Uberfil Monzón, 
+                     expresó que con la entrega de tarjetas magnéticas a la 
+                     población vulnerable de nuestro país, se produce un salto 
+                     cualitativo en el ámbito cultural. En este sentido, el 
+                     Jerarca informó que se realizó una pesquisa de cómo se esta 
+                     utilizando la tarjeta y se pudo observar que se le ha dado 
+                     un buen uso. La tarea de monitorear el uso de este 
+                     beneficio le compete al INDA, ya que su misión es velar por 
+                     la buena alimentación de la población más vulnerable, 
+                     sostuvo Monzón, al tiempo que explicó que nutricionistas 
+                     del INDA junto a la Universidad de la República, el MSP y 
+                     la Escuela de Nutrición, realizaron un estudio acerca de la 
+                     anemia, mediante el cual se halló un alto porcentaje de 
+                     esta enfermedad en niños de 0 a 2 años.
+La Representante del INDA, Ana Hiristoff, 
+                     dijo que con esto se termina la primera etapa de entrega de 
+                     la tarjeta alimentaria y que de ahora en más se deberá 
+                     consolidar la tarjeta, integrándose a nivel local y a nivel 
+                     nacional.
+Recordó que la tarjeta alimentaria es un 
+                     instrumento electrónico que permite ampliar la posibilidad 
+                     de acceso a una línea de alimentos, de artículos de 
+                     limpieza, de higiene personal y del hogar, a la población 
+                     que está en situación de extrema vulnerabilidad social y 
+                     que está registrada en el sistema de asignaciones 
+                     familiares. Señaló que la misma permite además registrar 
+                     los eventos de atención sanitaria en el primer nivel de 
+                     salud y que el beneficiario debe realizar controles de 
+                     salud, tanto las madres embarazadas como los niños. Las 
+                     personas beneficiarias de esta tarjeta deben tener uno o 
+                     más menores de 18 años a su cargo.
+Destacó que en este momento esa 
+                     población está compuesta por unas 90 mil familias, de las 
+                     cuales 25 mil ya estaban registradas en el INDA. La familia 
+                     recibe un crédito mensual, que según la franja varía.
+En otro orden, dijo que el INDA 
+                     recomienda a estas familias que consuman diez litros de 
+                     leche fluida o un kilo de leche en polvo fortificada con 
+                     hierro por mes. Por otro lado, reveló que un 25% de los 
+                     beneficiarios utilizan la tarjeta para una compra máxima de 
+                     artículos de limpieza e higiene personal y que un 75% para 
+                     compra de alimentos.
+Asimismo, informó que se entregó un 90% 
+                     de las tarjetas en todo el país y que para concretar estas 
+                     entregas se hicieron más de 100 traslados y más de 600 
+                     visitas a las localidades del interior, aunque aún quedan 
+                     2.400 tarjetas sin entregar de un total de 25.099.
+Finalmente, apuntó que se cierra esta 
+                     importante etapa que contó con el trabajo de las 
+                     Intendencias del interior del país, que son los brazos 
+                     ejecutores del Instituto, y con el compromiso de todos los 
+                     funcionarios del INDA.
+Por su parte, el Director de la AGESIC, 
+                     José Clastronik, expuso que el Plan Ceibal es un proyecto 
+                     de inclusión social y a la vez un proyecto que hace a la 
+                     administración pública trabajar en consenso, tratando de 
+                     ver a los ciudadanos como uno solo.
+En tanto, Daniel Santana, Encargado de 
+                     Informática del INDA, informó que mediante las computadoras 
+                     XO del Plan Ceibal, se podrá llegar a las familias en 
+                     riesgo alimentario que utilizan la tarjeta.
+Explicó que a través de las computadoras 
+                     se podrá saber lo que gasta cada familia, con lo cual se 
+                     podrán diseñar pautas de alimentación que lleguen a través 
+                     de mensajes para cada grupo familiar.
+También se enviarán mensajes cuando no 
+                     se cumplan las pautas que se aconseja, como las visitas al 
+                     médico de la mujer embarazada o de los niños.
+document.include('/_web/pages/derecho.htm');

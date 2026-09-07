@@ -1,0 +1,76 @@
+Imprimir
+El grupo de trabajo para la eventual 
+                     generación núcleo-eléctrica en Uruguay  tiene como meta la 
+                     realización de una propuesta técnica que permita la toma de 
+                     decisiones, por parte de las autoridades, para desplegar 
+                     los recursos necesarios que permitan al país el uso de la 
+                     energía atómica como parte de nuestra matriz energética. 
+                     Este texto fue elaborado por el Ministerio de Industria, de 
+                     Salud Pública y de Vivienda, junto a representantes de 
+                     todos los partidos con representación parlamentaria.
+Tal como aclara el documento, esta fase 
+                     primera servirá para la recopilación de elementos de juicio 
+                     y perspectivas de futuro en materia energética. Con 
+                     atención a las recomendaciones del Organismo Internacional 
+                     de Energía Atómica, este documento pretende otorgar los 
+                     primeros lineamientos hacia un estudio de factibilidad 
+                     sobre la instalación de esta fuente energética, con una 
+                     decisión fundamentada y que sea sustentable para el país.
+Este grupo de trabajo coincidió en 
+                     calificar como necesaria la instalación de recursos 
+                     humanos, en torno a un equipo permanente. El grupo de 
+                     trabajo propone que un equipo de diez especialistas que 
+                     trabaje regularmente sobre el tema, con la capacidad para 
+                     ejecutar los lineamientos del grupo de trabajo 
+                     interministerial. También podría implementar la 
+                     contratación de expertos nacionales, regionales o 
+                     internacionales, según las necesidades de la primera fase 
+                     del plan. Además, el grupo de trabajo planteó los objetivos 
+                     generales y específicos, que será recogida en el plan de 
+                     trabajo de la primera fase.
+El primer objetivo es evaluar la 
+                     infraestructura y la planificación energética que el país 
+                     ostenta. De este punto se desprenden varios objetivos 
+                     específicos y acciones a implementar, entre los que se 
+                     destaca el análisis de un proyecto regional de 
+                     núcleo-energía. Otra de las metas establecerá el marco 
+                     tecnológico actual y proyectará el futuro de la energía 
+                     eléctrica, que identificará alternativas, determinará 
+                     requisitos técnicos, estudiará el tratamiento de los 
+                     residuos, entre otros aspectos.
+También planteará un diseño de marco 
+                     normativo e institucional para el eventual programa. Un 
+                     punto detallado del texto es el desarrollo de las 
+                     condiciones que aseguren el funcionamiento de fuentes 
+                     nucleares de energía. Seguridad física, tecnológica, 
+                     protección y control, planes de contingencia y la formación 
+                     de una cultura de seguridad atómica, están planteados en el 
+                     documento.
+Luego de este punto, el grupo de trabajo 
+                     traza los criterios de protección ambientales, entre los 
+                     que se incluye criterios para la ubicación física, diseño 
+                     de normativas sobre impacto ambiental, junto a otros 
+                     conceptos de similar matriz. La participación pública 
+                     también está prevista en el documento y para eso, se 
+                     establecerán mecanismos de difusión, relevamiento de 
+                     opinión pública e intervención sobre la materia.
+Los recursos necesarios, tanto en 
+                     recursos humanos y materiales, están planteados en el 
+                     documento. Se identificarán capacidades existentes y 
+                     técnicos necesarios para cada etapa. Finalmente, el texto 
+                     plantea la elaboración de una estrategia para obtener 
+                     fondos que financiarían la primera fase del programa.
+Este equipo de trabajo fue propuesto por 
+                     el Presidente Vázquez a los partidos políticos, el 3 de 
+                     diciembre de 2008. En esa instancia, Vázquez aclaró que “la 
+                     reunión no se resolvió utilizar la energía nuclear para 
+                     generar energía eléctrica, sino comenzar a transitar los 
+                     caminos que propone la Agencia Internacional de Energía 
+                     Atómica, para resolver si nuestro país utilizará esa fuente 
+                     como parte de su matriz energética.” En aquel  encuentro el 
+                     Mandatario compartió los datos y publicaciones de la 
+                     Agencia Internacional de Energía Atómica, técnicos 
+                     nacionales (algunos de ellos provenientes de la Universidad 
+                     de la República) y otros materiales publicados por los 
+                     países que cuentan con energía núcleo-eléctrica.
+document.include('/_web/pages/derecho.htm');

@@ -1,0 +1,116 @@
+Imprimir
+El Ministro de Industria, Energía y 
+                         Minería, Jorge Lepra, junto con Embajadores de la Unión 
+                         Europea, anunció la decisión del Gobierno uruguayo de 
+                         optar por la norma europea DVB, después de un cuidadoso 
+                         análisis donde intervinieron múltiples actores y de 
+                         intensas reuniones de negociación.
+La norma DVB fue adoptada por más de 
+                         cien países de Europa, Asia, África y Oceanía y el 
+                         primer país de América Latina en adoptar esta norma es 
+                         Uruguay, lo cual indica que se está convirtiendo en una 
+                         norma mundial, como sucedió con la norma GSM en el caso 
+                         de las comunicaciones móviles.
+Lepra explicó que Uruguay recibió 
+                         por parte de los países europeos propuestas de interés. 
+                         En este sentido se firmó un memorando de entendimiento 
+                         entre la CUTI (Cámara Uruguaya de Tecnologías de la 
+                         Información) y Soluziona y Fresh, para presentar en 
+                         breve a las autoridades españolas y a las uruguayas un 
+                         proyecto de información y desarrollo en el marco del 
+                         programa IBEROECA para el desarrollo de las 
+                         aplicaciones interactivas.
+En este marco se financiarán 
+                         estudios de viabilidad y desarrollo, así como la 
+                         instalación de un polo tecnológico para servicios 
+                         interactivos en televisión digital.
+El Ministro dijo que en el marco de 
+                         una visita a Finlandia, en el mes de mayo pasado, la 
+                         delegación uruguaya recibió la propuesta de la empresa 
+                         Nokia de desarrollar un centro de investigación y un 
+                         piloto de prueba para esta tecnología en Uruguay.
+El Primer Consejero de la Comisión 
+                         Europea, Juan Víctor Monfort, dijo que Uruguay podrá 
+                         beneficiarse del Programa para las tecnologías de 
+                         información y comunicación, que está dotado de más de 
+                         50.000 millones de euros para el período 2007 -2013, de 
+                         ellos, 9.000 millones de euros, se destinan al sector 
+                         de las tecnologías de la información y comunicación.
+Uruguay podrá beneficiarse de las 
+                         facilidades crediticias que el Banco Europeo de 
+                         Inversiones concede en América Latina para actividades 
+                         relacionadas con la implantación de la televisión 
+                         digital.
+El mandato del Banco para 
+                         Latinoamérica, prevé un financiamiento total por un 
+                         importe de 2.800 millones de euros y una misión de 
+                         Banco visitará Montevideo a fines de setiembre para 
+                         decidir los fondos que se aplicarán en nuestro país 
+                         para lograr la instrumentación de esta norma.
+Lepra destacó el carácter de esta 
+                         norma, la cual permite trabajar con un software abierto 
+                         con una amplia compatibilidad de las tecnologías usadas 
+                         en el país.
+Esta iniciativa, además, permitirá 
+                         generar oportunidades de desarrollo para actividades 
+                         productivas de Uruguay, como lo son la creación de 
+                         contenidos o industrias culturales, el software para 
+                         aplicaciones middleware (es un software de conectividad 
+                         que ofrece un conjunto de servicios que hacen posible 
+                         el funcionamiento de las aplicaciones ofrecidas) y de 
+                         hardware.
+La Presidenta pro témpore de la 
+                         Comunidad Europea, Embajadora Luisa Bastos de Almeida, 
+                         expresó que en Uruguay, el aparato de televisión es el 
+                         dispositivo de comunicación con mayor presencia en los 
+                         hogares. Por lo tanto la televisión digital, es un 
+                         medio para ofrecer a la mayoría de la población un 
+                         mejor acceso a los servicios de comunicación 
+                         interactivos.
+Los usuarios, a través de estas 
+                         tecnologías, podrán acceder a servicios de 
+                         entretenimiento como a los otros de interés público: en 
+                         áreas como la educación, salud, la administración 
+                         pública y comunal.
+La televisión digital, permitirá 
+                         explorar el desarrollo de contenidos interactivos 
+                         contribuyendo a estimular la competitividad, la 
+                         creación de empleo en el país, la cohesión social y la 
+                         diversidad cultural.
+Por su parte el Primer Consejero de 
+                         la Comisión Europea, Juan Víctor Monfort, Uruguay, dijo 
+                         que Uruguay se une al desarrollo de tecnologías de 
+                         radiodifusión digital global en un ámbito en el que 
+                         convergen las tecnologías de la información y las 
+                         comunicaciones.
+Uruguay se sitúa a la cabeza del 
+                         desarrollo de la sociedad de la información en América 
+                         Latina y emite un mensaje claro a operadores y agentes 
+                         económicos que tienen ahora un horizonte de futuro 
+                         despejado y definido.
+La norma DVB, no es una norma 
+                         estrictamente europea, es una norma de origen europeo, 
+                         pero es abierta coordinada por una organización en DVB 
+                         Project, compuesta por más de 250 organizaciones de 
+                         varios países incluyendo los Estados Unidos y Japón.
+DVB no está controlada por ningún 
+                         país, región o empresa, es una norma abierta y 
+                         flexible, se adapta a los distintos niveles de negocio 
+                         y ritmo de adaptación de cada país. La norma seguirá 
+                         mejorando con los aportes de los países usuarios.
+La norma DVB está siendo adoptada 
+                         como la norma líder en el mundo, como consecuencia de 
+                         su presencia en tantos países, la norma ofrece grandes 
+                         economías de escala, asegurando menores costos en los 
+                         equipos.
+La norma permite el uso de 
+                         decodificadores para servicios interactivos y no 
+                         requiere disponer de aparatos de televisión 
+                         sofisticados, permitiendo reducir la brecha digital.
+La Comisión Europea se comprometió a 
+                         trabajar junto con Uruguay en la ambiciosa tarea de 
+                         transitar hacia la televisión digital. Con esta 
+                         decisión Uruguay podrá beneficiarse de una relación más 
+                         estrecha con Europa en materia regulatoria y 
+                         audiovisual.
+document.include('/_web/pages/derecho.htm');
